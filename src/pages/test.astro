@@ -7,6 +7,13 @@ const questionsByAxis = axisOrder.map((axis) => ({
   meta: axisMeta[axis],
   questions: testQuestions.filter((question) => question.axis === axis),
 }));
+const mixedQuestions = Array.from({ length: 12 }).flatMap((_, index) =>
+  questionsByAxis.map((group) => group.questions[index]).filter((question) => question !== undefined),
+);
+const questionSections = Array.from({ length: Math.ceil(mixedQuestions.length / 12) }, (_, index) => ({
+  title: `答题组 ${String(index + 1).padStart(2, "0")}`,
+  questions: mixedQuestions.slice(index * 12, index * 12 + 12),
+}));
 const pageDescription = "本站原创的 16 型人格倾向测试，通过 E/I、S/N、T/F、J/P 与 A/T 身份风格帮助你获得一个可反思的人格类型入口。";
 const testDataJson = JSON.stringify({
   questions: testQuestions,
@@ -57,13 +64,13 @@ const testDataJson = JSON.stringify({
             </div>
           </div>
 
-          {questionsByAxis.map((group, groupIndex) => (
-            <section class="axis-group" aria-labelledby={`axis-${group.axis}`}>
+          {questionSections.map((group, groupIndex) => (
+            <section class="axis-group" aria-labelledby={`section-${groupIndex + 1}`}>
               <div class="axis-heading">
                 <span>{String(groupIndex + 1).padStart(2, "0")}</span>
                 <div>
-                  <h3 id={`axis-${group.axis}`}>{group.meta.title}</h3>
-                  <p>{group.meta.description}</p>
+                  <h3 id={`section-${groupIndex + 1}`}>{group.title}</h3>
+                  <p>这一组混合了不同维度的题目。请按真实生活中的常见反应选择，不需要追求前后一致。</p>
                 </div>
               </div>
               <div class="question-stack">
@@ -138,6 +145,7 @@ const testDataJson = JSON.stringify({
         <div class="method-copy">
           <p>这份测试把每个维度设置为 12 道题，并让两端偏好各占一半，避免单一表述把结果推向某一侧。前四个维度生成 16 型，A/T 只表示压力与自我评价风格。</p>
           <p>每题采用七级选项：同意会支持题目指向的偏好，不同意会支持相反偏好。维度分差越大，结果越稳定；如果某个维度接近中线，页面会提醒你同时阅读相邻类型。</p>
+          <p>本站没有使用官方 MBTI 或 16Personalities 的原题。官方测评材料和 16Personalities 网站材料都不是可自由复制的题库；这里采用的是原创题目、混合呈现、作答质量提示和接近中线提示。</p>
         </div>
       </div>
     </section>
@@ -156,6 +164,7 @@ const testDataJson = JSON.stringify({
     id: string;
     axis: Axis;
     pole: AxisLetter;
+    facet: string;
     text: string;
   }
 
@@ -200,6 +209,8 @@ const testDataJson = JSON.stringify({
     closeAxes: DimensionDetail[];
     alternativeTypes: string[];
     isUnstable: boolean;
+    qualityWarnings: string[];
+    qualityPenaltyCount: number;
   }
 
   interface ClientTestData {
@@ -296,6 +307,34 @@ const testDataJson = JSON.stringify({
     return "偏低";
   };
 
+  const getQualityProfile = (data: FormData): { warnings: string[]; penaltyCount: number } => {
+    const values = questionIds.map((id) => Number(data.get(id)));
+    const neutralCount = values.filter((value) => value === 0).length;
+    const extremeCount = values.filter((value) => Math.abs(value) === 3).length;
+    const sameDirectionCount = Math.max(
+      values.filter((value) => value > 0).length,
+      values.filter((value) => value < 0).length,
+    );
+    const warnings: string[] = [];
+    let penaltyCount = 0;
+
+    if (neutralCount / values.length >= 0.35) {
+      warnings.push("中立/看情境选项较多，说明多个维度的信息不足，结果更适合作为探索入口。");
+      penaltyCount += 1;
+    }
+
+    if (extremeCount / values.length >= 0.75) {
+      warnings.push("极端同意或不同意较多，可能放大了偏好强度；建议用最近半年的常见状态重新核对。");
+    }
+
+    if (sameDirectionCount / values.length >= 0.85) {
+      warnings.push("作答方向比较单一，可能受当前心情或期待形象影响；结果置信度会相应下调。");
+      penaltyCount += 1;
+    }
+
+    return { warnings, penaltyCount };
+  };
+
   const coreOrder = order.filter((axis: Axis): axis is CoreAxis => axis !== "AT");
 
   const calculateResult = (data: FormData): TestResult => {
@@ -343,8 +382,10 @@ const testDataJson = JSON.stringify({
     const variant = `${type}-${identity}` as TypeVariant;
     const averageStrength = coreDetails.reduce((sum: number, detail: DimensionDetail) => sum + detail.strength, 0) / coreDetails.length;
     const closeAxes = coreDetails.filter((detail: DimensionDetail) => detail.strength < 0.15);
-    const confidence = getConfidenceLabel(averageStrength, closeAxes.length);
-    const isUnstable = closeAxes.length >= 3 || averageStrength < 0.15;
+    const qualityProfile = getQualityProfile(data);
+    const qualityWarnings = qualityProfile.warnings;
+    const confidence = qualityProfile.penaltyCount > 0 ? "偏低" : getConfidenceLabel(averageStrength, closeAxes.length);
+    const isUnstable = closeAxes.length >= 3 || averageStrength < 0.15 || qualityProfile.penaltyCount >= 2;
     const alternativeTypes = closeAxes.slice(0, 4).map((detail: DimensionDetail) => {
       const letters = [...type];
       const index = coreOrder.indexOf(detail.axis as CoreAxis);
@@ -352,7 +393,7 @@ const testDataJson = JSON.stringify({
       return letters.join("");
     });
 
-    return { type, variant, details, confidence, closeAxes, alternativeTypes, isUnstable };
+    return { type, variant, details, confidence, closeAxes, alternativeTypes, isUnstable, qualityWarnings, qualityPenaltyCount: qualityProfile.penaltyCount };
   };
 
   const renderDimensions = (details: DimensionDetail[]): void => {
@@ -397,7 +438,8 @@ const testDataJson = JSON.stringify({
       profileLink.textContent = "阅读 MBTI 类型总览";
       const axisNames = result.closeAxes.map((detail: DimensionDetail) => `${detail.left}/${detail.right}`).join("、");
       warningNode.hidden = false;
-      warningNode.textContent = `${axisNames} 维度接近中线，暂不建议锁定某一个 16 型。`;
+      const qualityText = result.qualityWarnings.length > 0 ? ` ${result.qualityWarnings.join(" ")}` : "";
+      warningNode.textContent = `${axisNames} 维度接近中线，暂不建议锁定某一个 16 型。${qualityText}`;
     } else if (result.closeAxes.length > 0) {
       resultType.textContent = result.variant;
       resultTitle.textContent = `${summary.name}`;
@@ -411,7 +453,8 @@ const testDataJson = JSON.stringify({
       const axisNames = result.closeAxes.map((detail: DimensionDetail) => `${detail.left}/${detail.right}`).join("、");
       const alternatives = result.alternativeTypes.join("、");
       warningNode.hidden = false;
-      warningNode.textContent = `${axisNames} 维度接近中线，结果可能在相邻类型之间摆动。建议同时参考 ${alternatives}。`;
+      const qualityText = result.qualityWarnings.length > 0 ? ` ${result.qualityWarnings.join(" ")}` : "";
+      warningNode.textContent = `${axisNames} 维度接近中线，结果可能在相邻类型之间摆动。建议同时参考 ${alternatives}。${qualityText}`;
     } else {
       resultType.textContent = result.variant;
       resultTitle.textContent = `${summary.name}`;
@@ -422,8 +465,13 @@ const testDataJson = JSON.stringify({
       resultWatch.textContent = summary.watch;
       profileLink.href = summary.profileHref ?? "/mbti/";
       profileLink.textContent = summary.profileHref ? `阅读 ${result.type} 类型页` : "阅读 MBTI 类型总览";
-      warningNode.hidden = true;
-      warningNode.textContent = "";
+      if (result.qualityWarnings.length > 0) {
+        warningNode.hidden = false;
+        warningNode.textContent = result.qualityWarnings.join(" ");
+      } else {
+        warningNode.hidden = true;
+        warningNode.textContent = "";
+      }
     }
 
     renderDimensions(result.details);
