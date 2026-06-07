@@ -31,7 +31,8 @@ const readerQuestions = [
             这里用 MBTI 作为入口，用精神分析和人格心理学深入理解人的防御、关系模式、内在冲突与成长可能。你可以从一个类型、一段关系、一个概念，进入同一张人格地图。
           </p>
           <div class="hero-actions">
-            <a class="button" href="/reading-paths/beginner/">开始阅读路径</a>
+            <a class="button" href="/test/">做 16 型测试</a>
+            <a class="button secondary" href="/reading-paths/beginner/">开始阅读路径</a>
             <a class="button secondary" href="/concepts/">查询心理概念</a>
           </div>
         </div>
@@ -49,6 +50,17 @@ const readerQuestions = [
         <TopicCard title="精神分析入门" description="用普通人能读懂的方式解释本我、自我、防御和移情。" href="/articles/" label="我想理解心理动力" />
         <TopicCard title="心理概念词典" description="查询投射、压抑、重复强迫、客体关系等核心概念。" href="/concepts/" label="我想查一个词" />
         <TopicCard title="关系与依恋" description="理解亲密关系里的靠近、退缩、控制与害怕。" href="/topics/attachment-relationships/" label="我想理解关系" />
+      </div>
+    </section>
+
+    <section class="section test-entry-section">
+      <div class="container test-entry">
+        <div>
+          <p class="eyebrow">16 型人格倾向测试</p>
+          <h2>先得到一张可反思的人格入口地图</h2>
+          <p>如果你还不确定从哪个类型开始阅读，可以先做一轮 60 题原创倾向测试。它会给出类型代码、A/T 身份风格、维度强度和置信度，尤其提醒那些接近中线、容易在相邻类型之间摆动的维度。</p>
+        </div>
+        <a class="button" href="/test/">开始测试</a>
       </div>
     </section>
 
@@ -267,6 +279,32 @@ const readerQuestions = [
 
   .question-section {
     padding-top: 26px;
+  }
+
+  .test-entry-section {
+    padding: 24px 0;
+    border-block: 1px solid var(--line);
+    background: rgba(220, 231, 227, 0.46);
+  }
+
+  .test-entry {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+  }
+
+  .test-entry h2 {
+    margin: 8px 0 0;
+    font-size: clamp(1.5rem, 2.4vw, 2.3rem);
+    line-height: 1.18;
+  }
+
+  .test-entry p:not(.eyebrow) {
+    max-width: 760px;
+    margin: 12px 0 0;
+    color: var(--muted);
+    line-height: 1.8;
   }
 
   .question-grid {
@@ -489,6 +527,7 @@ const readerQuestions = [
   @media (max-width: 900px) {
     .hero-grid,
     .reading-grid,
+    .test-entry,
     .concept-row,
     .question-grid,
     .map-grid,

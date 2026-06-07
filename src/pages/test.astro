@@ -1,0 +1,918 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { axisMeta, axisOrder, testChoices, testQuestions, typeSummaries } from "@/data/test";
+
+const questionsByAxis = axisOrder.map((axis) => ({
+  axis,
+  meta: axisMeta[axis],
+  questions: testQuestions.filter((question) => question.axis === axis),
+}));
+const pageDescription = "本站原创的 16 型人格倾向测试，通过 E/I、S/N、T/F、J/P 与 A/T 身份风格帮助你获得一个可反思的人格类型入口。";
+const testDataJson = JSON.stringify({
+  questions: testQuestions,
+  axes: axisMeta,
+  order: axisOrder,
+  summaries: typeSummaries,
+});
+---
+
+<BaseLayout title="16 型人格倾向测试" description={pageDescription}>
+  <main>
+    <section class="container test-hero">
+      <div class="test-hero-copy">
+        <p class="eyebrow">16 Type Test</p>
+        <h1>16 型人格倾向测试</h1>
+        <p class="lead">
+          参考 16Personalities 的体验结构，但不复制其题库：用 60 道原创题目评估 E/I、S/N、T/F、J/P 四个偏好维度，并加入 A/T 身份风格。结果会给出类型代码、维度强度、置信度和相邻类型提醒，帮助你把 MBTI 当成理解自己的入口，而不是固定标签。
+        </p>
+        <div class="test-notes" aria-label="测试说明">
+          <span>浏览器本地计分，不上传答案</span>
+          <span>不是官方 MBTI 评估</span>
+          <span>不用于心理诊断</span>
+        </div>
+      </div>
+      <div class="test-visual" aria-label="五个测试维度">
+        {questionsByAxis.map((group) => (
+          <div>
+            <strong>{group.axis}</strong>
+            <span>{group.meta.leftName} / {group.meta.rightName}</span>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="section test-section">
+      <div class="container test-layout">
+        <form class="test-form" data-test-form novalidate>
+          <div class="test-toolbar">
+            <div>
+              <p class="eyebrow">开始作答</p>
+              <h2>按你多数真实情境中的自然反应选择</h2>
+            </div>
+            <div class="progress-box" aria-live="polite">
+              <span data-progress-text>0 / {testQuestions.length}</span>
+              <div class="progress-track" aria-hidden="true">
+                <span data-progress-bar></span>
+              </div>
+            </div>
+          </div>
+
+          {questionsByAxis.map((group, groupIndex) => (
+            <section class="axis-group" aria-labelledby={`axis-${group.axis}`}>
+              <div class="axis-heading">
+                <span>{String(groupIndex + 1).padStart(2, "0")}</span>
+                <div>
+                  <h3 id={`axis-${group.axis}`}>{group.meta.title}</h3>
+                  <p>{group.meta.description}</p>
+                </div>
+              </div>
+              <div class="question-stack">
+                {group.questions.map((question, questionIndex) => (
+                  <fieldset class="question-block" data-question={question.id}>
+                    <legend>
+                      <span>{String(questionIndex + 1).padStart(2, "0")}</span>
+                      {question.text}
+                    </legend>
+                    <div class="choice-grid">
+                      {testChoices.map((choice) => (
+                        <label class="choice-option">
+                          <input type="radio" name={question.id} value={choice.value} />
+                          <span>{choice.label}</span>
+                        </label>
+                      ))}
+                    </div>
+                  </fieldset>
+                ))}
+              </div>
+            </section>
+          ))}
+
+          <div class="form-actions">
+            <p class="form-error" data-error hidden>还有题目没有作答。请先补全后再查看结果。</p>
+            <button class="button" type="submit">查看测试结果</button>
+            <button class="button secondary" type="button" data-clear>清空答案</button>
+          </div>
+        </form>
+
+        <aside class="result-panel card card-pad" data-result hidden aria-live="polite">
+          <p class="eyebrow">测试结果</p>
+          <div class="type-code" data-result-type>----</div>
+          <h2 data-result-title>完成作答后显示结果</h2>
+          <p class="result-copy" data-result-description>结果会在这里显示。</p>
+
+          <div class="result-meta">
+            <div>
+              <span>置信度</span>
+              <strong data-confidence>--</strong>
+            </div>
+            <div>
+              <span>核心气质</span>
+              <strong data-temperament>--</strong>
+            </div>
+          </div>
+
+          <div class="result-note" data-result-warning hidden></div>
+
+          <div class="dimension-list" data-dimension-list></div>
+
+          <div class="growth-box">
+            <h3>可以继续观察</h3>
+            <p data-result-focus></p>
+            <p data-result-watch></p>
+          </div>
+
+          <div class="result-actions">
+            <a class="button" data-profile-link href="/mbti/">阅读类型页面</a>
+            <a class="button secondary" href="/reading-paths/beginner/">继续阅读路径</a>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section method-section">
+      <div class="container method-grid">
+        <div>
+          <p class="eyebrow">计分方法</p>
+          <h2>怎样让测试尽量可靠</h2>
+        </div>
+        <div class="method-copy">
+          <p>这份测试把每个维度设置为 12 道题，并让两端偏好各占一半，避免单一表述把结果推向某一侧。前四个维度生成 16 型，A/T 只表示压力与自我评价风格。</p>
+          <p>每题采用七级选项：同意会支持题目指向的偏好，不同意会支持相反偏好。维度分差越大，结果越稳定；如果某个维度接近中线，页面会提醒你同时阅读相邻类型。</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script is:inline id="test-data" type="application/json" set:html={testDataJson}></script>
+
+  <script>
+  type Axis = "EI" | "SN" | "TF" | "JP" | "AT";
+  type CoreAxis = "EI" | "SN" | "TF" | "JP";
+  type AxisLetter = "E" | "I" | "S" | "N" | "T" | "F" | "J" | "P" | "A";
+  type TypeCode = `${"E" | "I"}${"S" | "N"}${"T" | "F"}${"J" | "P"}`;
+  type TypeVariant = `${TypeCode}-${"A" | "T"}`;
+
+  interface ClientQuestion {
+    id: string;
+    axis: Axis;
+    pole: AxisLetter;
+    text: string;
+  }
+
+  interface ClientAxisMeta {
+    left: AxisLetter;
+    right: AxisLetter;
+    title: string;
+    leftName: string;
+    rightName: string;
+    description: string;
+  }
+
+  interface ClientTypeSummary {
+    name: string;
+    temperament: string;
+    description: string;
+    focus: string;
+    watch: string;
+    profileHref?: string;
+  }
+
+  interface DimensionDetail {
+    axis: Axis;
+    title: string;
+    left: AxisLetter;
+    right: AxisLetter;
+    leftName: string;
+    rightName: string;
+    leftPercent: number;
+    rightPercent: number;
+    winner: AxisLetter;
+    strength: number;
+    supportPercent: number;
+    strengthLabel: string;
+  }
+
+  interface TestResult {
+    type: TypeCode;
+    variant: TypeVariant;
+    details: DimensionDetail[];
+    confidence: string;
+    closeAxes: DimensionDetail[];
+    alternativeTypes: string[];
+    isUnstable: boolean;
+  }
+
+  interface ClientTestData {
+    questions: ClientQuestion[];
+    axes: Record<Axis, ClientAxisMeta>;
+    order: Axis[];
+    summaries: Record<TypeCode, ClientTypeSummary>;
+  }
+
+  const testData = JSON.parse(document.querySelector("#test-data")?.textContent ?? "{}") as ClientTestData;
+  const { questions, axes, order, summaries } = testData;
+  const form = document.querySelector<HTMLFormElement>("[data-test-form]");
+  const progressText = document.querySelector<HTMLElement>("[data-progress-text]");
+  const progressBar = document.querySelector<HTMLSpanElement>("[data-progress-bar]");
+  const errorMessage = document.querySelector<HTMLElement>("[data-error]");
+  const clearButton = document.querySelector<HTMLButtonElement>("[data-clear]");
+  const resultPanel = document.querySelector<HTMLElement>("[data-result]");
+  const resultType = document.querySelector<HTMLElement>("[data-result-type]");
+  const resultTitle = document.querySelector<HTMLElement>("[data-result-title]");
+  const resultDescription = document.querySelector<HTMLElement>("[data-result-description]");
+  const confidenceNode = document.querySelector<HTMLElement>("[data-confidence]");
+  const temperamentNode = document.querySelector<HTMLElement>("[data-temperament]");
+  const warningNode = document.querySelector<HTMLElement>("[data-result-warning]");
+  const dimensionList = document.querySelector<HTMLElement>("[data-dimension-list]");
+  const resultFocus = document.querySelector<HTMLElement>("[data-result-focus]");
+  const resultWatch = document.querySelector<HTMLElement>("[data-result-watch]");
+  const profileLink = document.querySelector<HTMLAnchorElement>("[data-profile-link]");
+
+  if (
+    !form ||
+    !Array.isArray(questions) ||
+    !progressText ||
+    !progressBar ||
+    !errorMessage ||
+    !clearButton ||
+    !resultPanel ||
+    !resultType ||
+    !resultTitle ||
+    !resultDescription ||
+    !confidenceNode ||
+    !temperamentNode ||
+    !warningNode ||
+    !dimensionList ||
+    !resultFocus ||
+    !resultWatch ||
+    !profileLink
+  ) {
+    throw new Error("Personality test data is missing.");
+  }
+
+  const questionIds = questions.map((question: ClientQuestion) => question.id);
+
+  const getAnsweredIds = (): string[] => {
+    const data = new FormData(form);
+    return questionIds.filter((id) => data.has(id));
+  };
+
+  const updateProgress = (): void => {
+    const answeredCount = getAnsweredIds().length;
+    const percent = Math.round((answeredCount / questionIds.length) * 100);
+    progressText.textContent = `${answeredCount} / ${questionIds.length}`;
+    progressBar.style.width = `${percent}%`;
+    clearButton.disabled = answeredCount === 0;
+  };
+
+  const getFirstUnansweredBlock = (): HTMLElement | null => {
+    const data = new FormData(form);
+    const missingId = questionIds.find((id) => !data.has(id));
+    return missingId ? form.querySelector<HTMLElement>(`[data-question="${missingId}"]`) : null;
+  };
+
+  const showMissingQuestion = (): void => {
+    const block = getFirstUnansweredBlock();
+    errorMessage.hidden = false;
+    if (!block) return;
+
+    block.classList.add("needs-answer");
+    block.scrollIntoView({ behavior: "smooth", block: "center" });
+    const input = block.querySelector<HTMLInputElement>("input");
+    input?.focus({ preventScroll: true });
+    window.setTimeout(() => block.classList.remove("needs-answer"), 1800);
+  };
+
+  const getStrengthLabel = (strength: number): string => {
+    if (strength < 0.15) return "接近中线";
+    if (strength < 0.35) return "轻度倾向";
+    if (strength < 0.6) return "中等倾向";
+    return "明显倾向";
+  };
+
+  const getConfidenceLabel = (averageStrength: number, closeAxisCount: number): string => {
+    if (averageStrength >= 0.55 && closeAxisCount === 0) return "较高";
+    if (averageStrength >= 0.32 && closeAxisCount <= 1) return "中等";
+    return "偏低";
+  };
+
+  const coreOrder = order.filter((axis: Axis): axis is CoreAxis => axis !== "AT");
+
+  const calculateResult = (data: FormData): TestResult => {
+    const scores = Object.fromEntries(order.map((axis: Axis) => [axis, 0])) as Record<Axis, number>;
+    const maxScores = Object.fromEntries(order.map((axis: Axis) => [axis, 0])) as Record<Axis, number>;
+
+    for (const question of questions) {
+      const value = Number(data.get(question.id));
+      const meta = axes[question.axis];
+      const direction = question.pole === meta.left ? 1 : -1;
+      scores[question.axis] += value * direction;
+      maxScores[question.axis] += 3;
+    }
+
+    const details = order.map((axis: Axis): DimensionDetail => {
+      const meta = axes[axis];
+      const score = scores[axis];
+      const maxScore = maxScores[axis];
+      const leftPercent = Math.round(((score + maxScore) / (maxScore * 2)) * 100);
+      const rightPercent = 100 - leftPercent;
+      const winner = score >= 0 ? meta.left : meta.right;
+      const strength = Math.abs(score) / maxScore;
+      const supportPercent = winner === meta.left ? leftPercent : rightPercent;
+
+      return {
+        axis,
+        title: meta.title,
+        left: meta.left,
+        right: meta.right,
+        leftName: meta.leftName,
+        rightName: meta.rightName,
+        leftPercent,
+        rightPercent,
+        winner,
+        strength,
+        supportPercent,
+        strengthLabel: getStrengthLabel(strength),
+      };
+    });
+
+    const coreDetails = details.filter((detail: DimensionDetail) => detail.axis !== "AT");
+    const identityDetail = details.find((detail: DimensionDetail) => detail.axis === "AT");
+    const type = coreOrder.map((axis: CoreAxis) => details.find((detail: DimensionDetail) => detail.axis === axis)?.winner).join("") as TypeCode;
+    const identity = identityDetail?.winner === "A" ? "A" : "T";
+    const variant = `${type}-${identity}` as TypeVariant;
+    const averageStrength = coreDetails.reduce((sum: number, detail: DimensionDetail) => sum + detail.strength, 0) / coreDetails.length;
+    const closeAxes = coreDetails.filter((detail: DimensionDetail) => detail.strength < 0.15);
+    const confidence = getConfidenceLabel(averageStrength, closeAxes.length);
+    const isUnstable = closeAxes.length >= 3 || averageStrength < 0.15;
+    const alternativeTypes = closeAxes.slice(0, 4).map((detail: DimensionDetail) => {
+      const letters = [...type];
+      const index = coreOrder.indexOf(detail.axis as CoreAxis);
+      letters[index] = letters[index] === detail.left ? detail.right : detail.left;
+      return letters.join("");
+    });
+
+    return { type, variant, details, confidence, closeAxes, alternativeTypes, isUnstable };
+  };
+
+  const renderDimensions = (details: DimensionDetail[]): void => {
+    dimensionList.innerHTML = details
+      .map(
+        (detail: DimensionDetail) => {
+          const winnerLabel = detail.strength < 0.15 ? "中线" : detail.winner;
+          return `
+          <article class="dimension-row">
+            <div class="dimension-head">
+              <strong>${detail.title}</strong>
+              <span>${winnerLabel} · ${detail.strengthLabel} · ${detail.supportPercent}%</span>
+            </div>
+            <div class="axis-meter" aria-hidden="true">
+              <span class="axis-meter-left" style="width: ${detail.leftPercent}%"></span>
+              <span class="axis-meter-right" style="width: ${detail.rightPercent}%"></span>
+            </div>
+            <div class="axis-labels">
+              <span>${detail.leftName}</span>
+              <span>${detail.rightName}</span>
+            </div>
+          </article>
+        `;
+        },
+      )
+      .join("");
+  };
+
+  const renderResult = (result: TestResult): void => {
+    const summary = summaries[result.type];
+    resultPanel.hidden = false;
+
+    if (result.isUnstable) {
+      resultType.textContent = "XXXX";
+      resultTitle.textContent = "偏好还没有形成稳定轮廓";
+      resultDescription.textContent = "你的多个维度都接近中线，这次作答不足以稳定判断某一个 16 型。更准确的做法是回到具体生活情境重新作答，或先把它当作探索人格维度的入口。";
+      confidenceNode.textContent = "偏低";
+      temperamentNode.textContent = "多维度接近中线";
+      resultFocus.textContent = "先回看你在哪些题目选择了不确定，再用最近半年最常出现的自然反应重新作答。";
+      resultWatch.textContent = "不要把这次结果当作固定标签；优先阅读 MBTI 总览和四个维度说明。";
+      profileLink.href = "/mbti/";
+      profileLink.textContent = "阅读 MBTI 类型总览";
+      const axisNames = result.closeAxes.map((detail: DimensionDetail) => `${detail.left}/${detail.right}`).join("、");
+      warningNode.hidden = false;
+      warningNode.textContent = `${axisNames} 维度接近中线，暂不建议锁定某一个 16 型。`;
+    } else if (result.closeAxes.length > 0) {
+      resultType.textContent = result.variant;
+      resultTitle.textContent = `${summary.name}`;
+      resultDescription.textContent = summary.description;
+      confidenceNode.textContent = result.confidence;
+      temperamentNode.textContent = summary.temperament;
+      resultFocus.textContent = summary.focus;
+      resultWatch.textContent = summary.watch;
+      profileLink.href = summary.profileHref ?? "/mbti/";
+      profileLink.textContent = summary.profileHref ? `阅读 ${result.type} 类型页` : "阅读 MBTI 类型总览";
+      const axisNames = result.closeAxes.map((detail: DimensionDetail) => `${detail.left}/${detail.right}`).join("、");
+      const alternatives = result.alternativeTypes.join("、");
+      warningNode.hidden = false;
+      warningNode.textContent = `${axisNames} 维度接近中线，结果可能在相邻类型之间摆动。建议同时参考 ${alternatives}。`;
+    } else {
+      resultType.textContent = result.variant;
+      resultTitle.textContent = `${summary.name}`;
+      resultDescription.textContent = summary.description;
+      confidenceNode.textContent = result.confidence;
+      temperamentNode.textContent = summary.temperament;
+      resultFocus.textContent = summary.focus;
+      resultWatch.textContent = summary.watch;
+      profileLink.href = summary.profileHref ?? "/mbti/";
+      profileLink.textContent = summary.profileHref ? `阅读 ${result.type} 类型页` : "阅读 MBTI 类型总览";
+      warningNode.hidden = true;
+      warningNode.textContent = "";
+    }
+
+    renderDimensions(result.details);
+    resultPanel.scrollIntoView({ behavior: "smooth", block: "start" });
+  };
+
+  form.addEventListener("change", () => {
+    errorMessage.hidden = true;
+    updateProgress();
+  });
+
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const answeredCount = getAnsweredIds().length;
+
+    if (answeredCount < questionIds.length) {
+      showMissingQuestion();
+      updateProgress();
+      return;
+    }
+
+    const data = new FormData(form);
+    const result = calculateResult(data);
+    renderResult(result);
+  });
+
+  clearButton.addEventListener("click", () => {
+    form.reset();
+    errorMessage.hidden = true;
+    resultPanel.hidden = true;
+    updateProgress();
+  });
+
+  updateProgress();
+  </script>
+</BaseLayout>
+
+<style>
+  .test-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(320px, 420px);
+    gap: 36px;
+    align-items: center;
+    padding: 58px 0 30px;
+  }
+
+  h1 {
+    margin: 10px 0 14px;
+    font-size: clamp(2.4rem, 5vw, 5rem);
+    line-height: 1.06;
+  }
+
+  .lead {
+    max-width: 720px;
+    color: var(--muted);
+    font-size: 1.08rem;
+    line-height: 1.9;
+  }
+
+  .test-notes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 24px;
+  }
+
+  .test-notes span {
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: rgba(255, 250, 241, 0.82);
+    padding: 8px 12px;
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+
+  .test-visual {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background:
+      linear-gradient(145deg, rgba(220, 231, 227, 0.9), rgba(255, 250, 241, 0.92)),
+      var(--paper);
+    padding: 16px;
+    box-shadow: var(--shadow);
+  }
+
+  .test-visual div {
+    min-height: 112px;
+    border: 1px solid rgba(37, 67, 58, 0.14);
+    border-radius: 6px;
+    background: rgba(255, 250, 241, 0.74);
+    padding: 18px;
+  }
+
+  .test-visual strong,
+  .test-visual span {
+    display: block;
+  }
+
+  .test-visual strong {
+    color: var(--wine);
+    font-size: 2.2rem;
+    line-height: 1;
+  }
+
+  .test-visual span {
+    margin-top: 14px;
+    color: var(--muted);
+    line-height: 1.5;
+  }
+
+  .test-section {
+    padding-top: 28px;
+  }
+
+  .test-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 340px;
+    gap: 28px;
+    align-items: start;
+  }
+
+  .test-toolbar {
+    position: sticky;
+    top: 72px;
+    z-index: 10;
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: 22px;
+    border-bottom: 1px solid var(--line);
+    background: rgba(247, 241, 232, 0.94);
+    padding: 18px 0;
+    backdrop-filter: blur(14px);
+  }
+
+  .test-toolbar h2 {
+    margin: 8px 0 0;
+    font-size: clamp(1.5rem, 2.2vw, 2.2rem);
+    line-height: 1.2;
+  }
+
+  .progress-box {
+    min-width: 180px;
+    text-align: right;
+  }
+
+  .progress-box span {
+    color: var(--wine);
+    font-weight: 800;
+  }
+
+  .progress-track {
+    height: 8px;
+    margin-top: 8px;
+    overflow: hidden;
+    border-radius: 999px;
+    background: rgba(37, 67, 58, 0.12);
+  }
+
+  .progress-track span {
+    display: block;
+    width: 0;
+    height: 100%;
+    background: var(--wine);
+    transition: width 180ms ease;
+  }
+
+  .axis-group {
+    padding: 34px 0 10px;
+  }
+
+  .axis-heading {
+    display: grid;
+    grid-template-columns: 46px minmax(0, 1fr);
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+
+  .axis-heading > span {
+    display: grid;
+    width: 46px;
+    height: 46px;
+    place-items: center;
+    border: 1px solid var(--line);
+    border-radius: 50%;
+    color: var(--wine);
+    font-weight: 800;
+  }
+
+  .axis-heading h3 {
+    margin: 0;
+    font-size: 1.45rem;
+  }
+
+  .axis-heading p {
+    max-width: 680px;
+    margin: 8px 0 0;
+    color: var(--muted);
+    line-height: 1.75;
+  }
+
+  .question-stack {
+    display: grid;
+    gap: 12px;
+  }
+
+  .question-block {
+    margin: 0;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: rgba(255, 250, 241, 0.78);
+    padding: 18px;
+  }
+
+  .question-block.needs-answer {
+    border-color: rgba(110, 47, 68, 0.72);
+    box-shadow: 0 0 0 3px rgba(110, 47, 68, 0.12);
+  }
+
+  .question-block legend {
+    float: left;
+    width: 100%;
+    margin-bottom: 14px;
+    color: var(--ink);
+    font-weight: 800;
+    line-height: 1.55;
+  }
+
+  .question-block legend span {
+    margin-right: 10px;
+    color: var(--wine);
+  }
+
+  .question-block legend + * {
+    clear: both;
+  }
+
+  .choice-grid {
+    display: grid;
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .choice-option {
+    display: flex;
+    min-height: 48px;
+    align-items: center;
+    gap: 7px;
+    border: 1px solid rgba(37, 67, 58, 0.14);
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.38);
+    padding: 8px;
+    color: var(--muted);
+    font-size: 0.86rem;
+    line-height: 1.25;
+    cursor: pointer;
+  }
+
+  .choice-option input {
+    flex: 0 0 auto;
+    accent-color: var(--wine);
+  }
+
+  .choice-option:has(input:checked) {
+    border-color: rgba(110, 47, 68, 0.7);
+    background: rgba(110, 47, 68, 0.08);
+    color: var(--ink);
+    font-weight: 800;
+  }
+
+  .form-actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px;
+    border-top: 1px solid var(--line);
+    margin-top: 24px;
+    padding-top: 22px;
+  }
+
+  .form-error {
+    flex-basis: 100%;
+    margin: 0;
+    color: var(--wine);
+    font-weight: 800;
+  }
+
+  .button:disabled {
+    cursor: not-allowed;
+    opacity: 0.48;
+  }
+
+  .result-panel {
+    position: sticky;
+    top: 96px;
+  }
+
+  .type-code {
+    margin: 8px 0;
+    color: var(--wine);
+    font-size: clamp(3.2rem, 5vw, 4.8rem);
+    font-weight: 900;
+    line-height: 1;
+  }
+
+  .result-panel h2 {
+    margin: 0 0 12px;
+    font-size: 1.45rem;
+    line-height: 1.25;
+  }
+
+  .result-copy {
+    color: var(--muted);
+    line-height: 1.75;
+  }
+
+  .result-meta {
+    display: grid;
+    grid-template-columns: 0.8fr 1.2fr;
+    gap: 10px;
+    margin: 18px 0;
+  }
+
+  .result-meta div {
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 12px;
+  }
+
+  .result-meta span,
+  .result-meta strong {
+    display: block;
+  }
+
+  .result-meta span {
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+
+  .result-meta strong {
+    margin-top: 6px;
+    line-height: 1.45;
+  }
+
+  .result-note {
+    border: 1px solid rgba(110, 47, 68, 0.24);
+    border-radius: 6px;
+    background: rgba(110, 47, 68, 0.07);
+    padding: 12px;
+    color: var(--wine);
+    line-height: 1.65;
+  }
+
+  .dimension-list {
+    display: grid;
+    gap: 14px;
+    margin-top: 20px;
+  }
+
+  .dimension-row {
+    border-top: 1px solid var(--line);
+    padding-top: 14px;
+  }
+
+  .dimension-head {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    color: var(--ink);
+    font-size: 0.9rem;
+  }
+
+  .dimension-head span {
+    color: var(--wine);
+    font-weight: 800;
+    text-align: right;
+  }
+
+  .axis-meter {
+    display: flex;
+    height: 10px;
+    overflow: hidden;
+    border-radius: 999px;
+    margin: 10px 0 8px;
+    background: rgba(37, 67, 58, 0.1);
+  }
+
+  .axis-meter-left {
+    background: var(--gold);
+  }
+
+  .axis-meter-right {
+    background: var(--wine);
+  }
+
+  .axis-labels {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+
+  .growth-box {
+    border-top: 1px solid var(--line);
+    margin-top: 20px;
+    padding-top: 16px;
+  }
+
+  .growth-box h3 {
+    margin: 0 0 10px;
+    font-size: 1.05rem;
+  }
+
+  .growth-box p {
+    margin: 10px 0;
+    color: var(--muted);
+    line-height: 1.7;
+  }
+
+  .result-actions {
+    display: grid;
+    gap: 10px;
+    margin-top: 18px;
+  }
+
+  .method-section {
+    border-top: 1px solid var(--line);
+    background: rgba(220, 231, 227, 0.46);
+  }
+
+  .method-grid {
+    display: grid;
+    grid-template-columns: minmax(240px, 0.7fr) minmax(0, 1.3fr);
+    gap: 28px;
+  }
+
+  .method-grid h2 {
+    margin: 8px 0 0;
+    font-size: clamp(1.6rem, 2.6vw, 2.5rem);
+    line-height: 1.18;
+  }
+
+  .method-copy {
+    color: var(--muted);
+    line-height: 1.9;
+  }
+
+  .method-copy p {
+    margin: 0 0 14px;
+  }
+
+  @media (max-width: 1100px) {
+    .test-hero,
+    .test-layout,
+    .method-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .result-panel {
+      position: static;
+    }
+  }
+
+  @media (max-width: 760px) {
+    .test-toolbar {
+      position: static;
+      align-items: start;
+      flex-direction: column;
+    }
+
+    .progress-box {
+      width: 100%;
+      text-align: left;
+    }
+
+    .choice-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .test-visual {
+      grid-template-columns: 1fr;
+    }
+
+    .result-meta {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

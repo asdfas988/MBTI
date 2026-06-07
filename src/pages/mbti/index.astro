@@ -15,6 +15,10 @@ const allTypes = ["ISTJ", "ISFJ", "INFJ", "INTJ", "ISTP", "ISFP", "INFP", "INTP"
         <p class="eyebrow">MBTI Profiles</p>
         <h1>MBTI 与类型</h1>
         <p class="lead">类型不是终点。它更像一张入口地图，帮助我们继续理解价值感、防御方式、关系模式与成长课题。</p>
+        <div class="hero-actions">
+          <a class="button" href="/test/">做 16 型测试</a>
+          <a class="button secondary" href="/reading-paths/beginner/">查看阅读路径</a>
+        </div>
       </div>
       <div class="type-grid" aria-label="16 型人格索引">
         {allTypes.map((type) => {
@@ -60,6 +64,13 @@ const allTypes = ["ISTJ", "ISFJ", "INFJ", "INTJ", "ISTP", "ISFP", "INFP", "INTP"
     max-width: 660px;
     color: var(--muted);
     line-height: 1.9;
+  }
+
+  .hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 24px;
   }
 
   .type-grid {

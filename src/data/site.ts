@@ -9,6 +9,7 @@ export const navigation = [
   { label: "首页", href: "/" },
   { label: "文章", href: "/articles/" },
   { label: "MBTI", href: "/mbti/" },
+  { label: "测试", href: "/test/" },
   { label: "概念词典", href: "/concepts/" },
   { label: "专题", href: "/topics/" },
   { label: "阅读路径", href: "/reading-paths/beginner/" },
