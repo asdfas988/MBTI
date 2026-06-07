@@ -1,0 +1,52 @@
+---
+title: "功能水平"
+description: "功能水平指个体在自我照料、学习工作、家庭、社交、亲密关系、风险管理和社会角色中的实际运作能力。"
+plainDefinition: "心理状态对真实生活运作能力的影响程度。"
+group: "心理治疗与评估"
+english: "Functioning"
+aliases: ["心理社会功能"]
+domains: ["临床评估", "功能"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["functional-assessment", "outcome-monitoring", "treatment-goal", "quality-of-life"]
+pubDate: 2026-06-08
+tags: ["功能", "严重度", "生活"]
+sourceRefs:
+  - label: "WHO ICD-11 Browser"
+    url: "https://icd.who.int/browse/2025-01/mms/en"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
+---
+
+功能水平指个体在自我照料、学习工作、家庭、社交、亲密关系、风险管理和社会角色中的实际运作能力。
+
+## 概念边界
+
+功能水平不是社会地位或成就。它要结合个人阶段、资源、文化、身体健康和环境要求来理解。
+
+## 为什么重要
+
+诊断名称不能完整说明严重度。功能水平能告诉我们一个人需要多少支持，以及治疗是否真的改善了生活。
+
+## 常见表现
+
+- 日常作息和自我照料是否稳定
+- 学习工作是否可持续
+- 关系是否能维持基本互惠
+- 危机时是否能使用支持和安全措施
+
+## 容易混淆
+
+- 不等于看起来正常就没问题
+- 不等于成绩好就功能好
+- 不等于一时低功能就是永久能力差
+
+## 在人格动力中的作用
+
+功能水平反映内在资源和外部要求的匹配。羞耻会让人掩盖功能下降，直到系统突然崩溃。
+
+## 自我观察
+
+- 我现在最受影响的功能领域是什么？
+- 我是在恢复，维持，还是硬撑？
+- 哪些支持能直接改善日常功能？

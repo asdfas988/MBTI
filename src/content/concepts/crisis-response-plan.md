@@ -1,0 +1,52 @@
+---
+title: "危机应对计划"
+description: "危机应对计划是在风险升高前预先写好的步骤，帮助个体识别预警信号、使用应对策略、联系支持者并获得紧急帮助。"
+plainDefinition: "危机来临时可以照着做的具体求助和安全步骤。"
+group: "心理治疗与评估"
+english: "Crisis Response Plan"
+aliases: ["危机反应计划"]
+domains: ["危机干预", "风险管理"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["safety-plan", "suicide-risk-assessment", "protective-factors-suicide", "means-restriction"]
+pubDate: 2026-06-08
+tags: ["危机", "安全计划", "自杀预防"]
+sourceRefs:
+  - label: "NIMH: Suicide Prevention"
+    url: "https://www.nimh.nih.gov/health/topics/suicide-prevention"
+  - label: "CDC: Suicide Prevention"
+    url: "https://www.cdc.gov/suicide/prevention/index.html"
+---
+
+危机应对计划是在风险升高前预先写好的步骤，帮助个体识别预警信号、使用应对策略、联系支持者并获得紧急帮助。
+
+## 概念边界
+
+它不是泛泛的鼓励清单，也不是替代专业治疗。有效计划需要具体到人名、电话、地点、危险手段处理和紧急资源。
+
+## 为什么重要
+
+危机时大脑很难做复杂决定。提前制定计划能减少临场负担，让支持者和当事人都知道下一步做什么。
+
+## 常见表现
+
+- 列出个人预警信号
+- 写下可独自使用的短时应对方法
+- 列出可联系的人和专业资源
+- 明确危险手段限制和急诊路径
+
+## 容易混淆
+
+- 不等于只写“保持积极”
+- 不等于一次写完永不更新
+- 不等于只有自杀风险时才有用
+
+## 在人格动力中的作用
+
+危机计划把混乱体验外化成步骤，帮助自我在痛苦中重新获得一点组织能力，也让关系支持更可靠。
+
+## 自我观察
+
+- 我的危机计划是否在手机和纸面都能找到？
+- 支持者是否知道我希望他们怎么做？
+- 我是否定期更新计划，而不是等危机来了才想？

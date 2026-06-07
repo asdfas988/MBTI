@@ -1,0 +1,52 @@
+---
+title: "关系破裂与修复"
+description: "关系破裂与修复指治疗或亲密关系中误解、退缩、对抗或失望被识别、讨论并重新建立连接的过程。"
+plainDefinition: "关系出了裂缝后，把误解和受伤拿出来修复。"
+group: "心理治疗与评估"
+english: "Rupture and Repair"
+aliases: ["治疗联盟破裂修复"]
+domains: ["治疗关系", "治疗过程"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["therapeutic-alliance", "therapeutic-alliance-rupture", "empathy", "mentalization"]
+pubDate: 2026-06-08
+tags: ["治疗联盟", "修复", "关系"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "NICE: Borderline personality disorder guideline"
+    url: "https://www.nice.org.uk/guidance/cg78"
+---
+
+关系破裂与修复指治疗或亲密关系中误解、退缩、对抗或失望被识别、讨论并重新建立连接的过程。
+
+## 概念边界
+
+修复不是简单道歉，也不是谁赢谁输。它需要承认影响、理解双方心理状态、调整互动并恢复基本安全。
+
+## 为什么重要
+
+修复能力是治疗有效性和人格功能的重要指标。许多关系不是因有冲突而失败，而是因无法修复而反复断裂。
+
+## 常见表现
+
+- 出现沉默、迟到、回避、争辩或突然疏远
+- 能谈论关系中发生了什么
+- 双方能承认误解和影响
+- 修复后关系更真实或边界更清楚
+
+## 容易混淆
+
+- 不等于没有破裂才是好关系
+- 不等于立刻原谅
+- 不等于治疗者永远正确
+
+## 在人格动力中的作用
+
+破裂会激活早期抛弃、羞耻和攻击期待。修复提供新的关系经验：冲突可以被看见，而不必走向毁灭。
+
+## 自我观察
+
+- 我关系中最常见的破裂形式是什么？
+- 我会追赶、攻击、冻结还是切断？
+- 我能否表达影响，而不是只证明谁错？
