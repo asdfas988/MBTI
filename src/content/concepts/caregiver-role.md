@@ -1,0 +1,52 @@
+---
+title: "照护者角色"
+description: "照护者角色指在家庭或关系中承担照料、支持、监督、安抚或资源协调责任的位置。"
+plainDefinition: "在关系中负责照顾和支持他人的角色。"
+group: "关系与依恋"
+english: "Caregiver Role"
+aliases: ["照料者角色"]
+domains: ["家庭系统", "照护"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["parentification", "compassion-fatigue", "family-boundary", "responsibility"]
+pubDate: 2026-06-08
+tags: ["照护者", "角色", "家庭"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "SAMHSA: Recovery and Recovery Support"
+    url: "https://www.samhsa.gov/mental-health/recovery"
+---
+
+照护者角色指在家庭或关系中承担照料、支持、监督、安抚或资源协调责任的位置。
+
+## 概念边界
+
+照护者角色本身不病理。问题在于责任是否过重、边界是否清楚、支持是否足够，以及是否超出发展阶段。
+
+## 为什么重要
+
+照护者常承受隐形压力。识别角色能帮助安排边界、喘息、资源和心理支持。
+
+## 常见表现
+
+- 负责日常照料、情绪安抚或医疗安排
+- 很难休息或表达不满
+- 把对方状态视为自己的责任
+- 忽视自己的身体和关系需要
+
+## 容易混淆
+
+- 不等于有爱就不会累
+- 不等于照护者不能有愤怒
+- 不等于所有照护都应该由家人承担
+
+## 在人格动力中的作用
+
+照护者角色容易与自我价值绑定。若照护成为唯一被需要方式，个体会在责任和怨恨之间摇摆。
+
+## 自我观察
+
+- 我承担的照护责任是否可持续？
+- 我有没有获得支持和喘息？
+- 我是否只有照顾别人时才觉得有价值？

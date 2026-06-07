@@ -1,0 +1,52 @@
+---
+title: "共情疲劳"
+description: "共情疲劳指长期投入照护和共情后出现的情感耗竭、麻木、耐心下降和助人能力下降。"
+plainDefinition: "长期照护别人后，共情系统变累、变麻木。"
+group: "精神病学基础"
+english: "Compassion Fatigue"
+aliases: ["同情疲劳"]
+domains: ["助人职业", "压力"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["burnout", "secondary-traumatic-stress", "vicarious-trauma", "empathy"]
+pubDate: 2026-06-08
+tags: ["共情疲劳", "助人者", "压力"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "CDC: Suicide Prevention"
+    url: "https://www.cdc.gov/suicide/prevention/index.html"
+---
+
+共情疲劳指长期投入照护和共情后出现的情感耗竭、麻木、耐心下降和助人能力下降。
+
+## 概念边界
+
+共情疲劳不是没有爱心，也不等于职业倦怠全部。它特别强调照护痛苦者带来的情感消耗。
+
+## 为什么重要
+
+共情疲劳若被羞耻掩盖，助人者可能过度工作、变冷漠或突然退出。命名它能促进边界和恢复。
+
+## 常见表现
+
+- 对痛苦故事变麻木或烦躁
+- 觉得自己没有多余情感可给
+- 工作后难以恢复
+- 对求助者产生愧疚、疏离或过度责任
+
+## 容易混淆
+
+- 不等于冷血
+- 不等于专业失败
+- 不等于只要更有使命感就能撑住
+
+## 在人格动力中的作用
+
+共情疲劳说明心理容器有容量限制。持续给予而缺少接收，会让关系功能从共情转向防御性关闭。
+
+## 自我观察
+
+- 我是在共情，还是只剩责任驱动？
+- 哪些边界能保护我的照护能力？
+- 我是否允许自己恢复，而不是只责备自己麻木？

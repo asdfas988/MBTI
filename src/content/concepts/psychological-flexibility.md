@@ -1,0 +1,52 @@
+---
+title: "心理灵活性"
+description: "心理灵活性指个体能接触当下经验，开放地容纳内在体验，并根据价值选择行动的能力。"
+plainDefinition: "能带着真实感受，灵活地朝重要价值行动。"
+group: "人格心理学"
+english: "Psychological Flexibility"
+aliases: ["心理弹性灵活性"]
+domains: ["ACT", "适应"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["acceptance-and-commitment-therapy", "defusion", "values", "committed-action"]
+pubDate: 2026-06-08
+tags: ["ACT", "心理灵活性", "价值"]
+sourceRefs:
+  - label: "Association for Contextual Behavioral Science: ACT"
+    url: "https://contextualscience.org/act"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+心理灵活性指个体能接触当下经验，开放地容纳内在体验，并根据价值选择行动的能力。
+
+## 概念边界
+
+心理灵活性不是随便变通，也不是没有痛苦。它强调接纳、觉察、价值和承诺行动的整合。
+
+## 为什么重要
+
+心理灵活性是 ACT 的核心目标，也能贯通焦虑、抑郁、创伤和人格成长。它让改变不依赖于先把痛苦清零。
+
+## 常见表现
+
+- 能注意到当下而非完全自动化
+- 能容纳情绪和想法而不立即逃避
+- 清楚重要价值
+- 即使不舒服也能做小的承诺行动
+
+## 容易混淆
+
+- 不等于情绪稳定到没有波动
+- 不等于讨好环境
+- 不等于回避冲突
+
+## 在人格动力中的作用
+
+心理灵活性让自我从防御性控制转向价值性选择。它不是更强硬，而是更能在复杂现实中移动。
+
+## 自我观察
+
+- 我是在控制痛苦，还是朝价值行动？
+- 我能否带着不适做一件重要的小事？
+- 我的反应是自动防御，还是灵活选择？

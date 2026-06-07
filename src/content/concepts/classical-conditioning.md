@@ -1,0 +1,52 @@
+---
+title: "经典条件作用"
+description: "经典条件作用指原本中性的刺激因与有意义刺激反复配对而引发条件反应，例如某气味因创伤关联而触发恐惧。"
+plainDefinition: "一个原本普通的线索，因为和强烈事件关联，后来也能触发反应。"
+group: "心理治疗与评估"
+english: "Classical Conditioning"
+aliases: ["古典条件作用"]
+domains: ["学习理论", "行为治疗"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["fear-conditioning", "exposure-therapy", "conditioned-response", "trauma-trigger"]
+pubDate: 2026-06-08
+tags: ["经典条件作用", "学习", "恐惧"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "NIMH: Research Domain Criteria"
+    url: "https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc"
+---
+
+经典条件作用指原本中性的刺激因与有意义刺激反复配对而引发条件反应，例如某气味因创伤关联而触发恐惧。
+
+## 概念边界
+
+它不是所有学习的全部。经典条件作用强调刺激与反应的关联，而非行为后果。
+
+## 为什么重要
+
+恐惧、创伤触发、厌恶和某些身体反应都可用条件作用理解，是暴露治疗的重要基础。
+
+## 常见表现
+
+- 特定声音、气味或地点触发反应
+- 反应像自动发生
+- 线索与过去事件有关
+- 暴露和新学习可改变关联
+
+## 容易混淆
+
+- 不等于人像机器一样简单
+- 不等于所有触发都有清晰记忆
+- 不等于知道原因就会消失
+
+## 在人格动力中的作用
+
+条件作用把过去写进身体反应。治疗帮助自我在当下重新学习：线索不是事件本身。
+
+## 自我观察
+
+- 哪些线索会自动触发我？
+- 它们曾和什么经验配对？
+- 我需要怎样的新经验来改变关联？

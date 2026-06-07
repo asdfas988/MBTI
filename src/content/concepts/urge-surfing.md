@@ -1,0 +1,52 @@
+---
+title: "冲动冲浪"
+description: "冲动冲浪是一种正念和成瘾治疗技巧，帮助个体观察冲动像浪一样升起、达到高峰并下降，而不立即行动。"
+plainDefinition: "把冲动当作会起伏的浪，而不是必须服从的命令。"
+group: "心理治疗与评估"
+english: "Urge Surfing"
+aliases: ["冲动浪潮练习"]
+domains: ["成瘾治疗", "正念"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["distress-tolerance", "mindfulness-skills", "addiction", "impulsivity"]
+pubDate: 2026-06-08
+tags: ["冲动", "正念", "成瘾"]
+sourceRefs:
+  - label: "APA: Different approaches to psychotherapy"
+    url: "https://www.apa.org/topics/psychotherapy/approaches"
+  - label: "SAMHSA: Recovery and Recovery Support"
+    url: "https://www.samhsa.gov/mental-health/recovery"
+---
+
+冲动冲浪是一种正念和成瘾治疗技巧，帮助个体观察冲动像浪一样升起、达到高峰并下降，而不立即行动。
+
+## 概念边界
+
+冲动冲浪不是硬忍，也不是适合所有高危情境。高风险时还需要环境限制和求助。
+
+## 为什么重要
+
+许多成瘾、暴食、自伤和冲动行为在冲动高峰时发生。学会等待浪过去能恢复选择。
+
+## 常见表现
+
+- 观察冲动在身体中的位置和强度
+- 给冲动打分并看它变化
+- 不争辩也不立即行动
+- 配合移除危险手段和替代行为
+
+## 容易混淆
+
+- 不等于压抑冲动
+- 不等于冲动一定很快消失
+- 不等于高危时只靠自己练习
+
+## 在人格动力中的作用
+
+冲动冲浪让行动化变成可观察体验。自我从冲动中分化出来，获得一点时间和边界。
+
+## 自我观察
+
+- 这个冲动在身体哪里？
+- 它如果是一阵浪，现在处在什么阶段？
+- 我需要什么支持来不被浪带走？

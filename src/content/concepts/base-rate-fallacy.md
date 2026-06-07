@@ -1,0 +1,52 @@
+---
+title: "基率谬误"
+description: "基率谬误指在判断某个结果概率时忽视目标状态在总体中的基础发生率，导致对测验阳性或阴性结果过度解释。"
+plainDefinition: "只看测验结果，忘了某问题在人群中本来有多常见。"
+group: "心理治疗与评估"
+english: "Base Rate Fallacy"
+aliases: ["忽视基率"]
+domains: ["心理测量", "判断"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["base-rate", "positive-predictive-value", "false-positive", "score-interpretation"]
+pubDate: 2026-06-08
+tags: ["基率", "判断偏差", "测验解释"]
+sourceRefs:
+  - label: "AERA/APA/NCME: Standards for Educational and Psychological Testing"
+    url: "https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+基率谬误指在判断某个结果概率时忽视目标状态在总体中的基础发生率，导致对测验阳性或阴性结果过度解释。
+
+## 概念边界
+
+它不是说测验无用，而是说测验解释必须结合人群基率、风险背景和预测值。
+
+## 为什么重要
+
+低基率问题即使测验不错，也可能出现很多假阳性。理解基率能减少过度诊断和恐慌。
+
+## 常见表现
+
+- 看到阳性结果就断定有问题
+- 忽略样本是高风险还是普通人群
+- 不区分筛查和诊断
+- 没有报告预测值和不确定性
+
+## 容易混淆
+
+- 不等于直觉一定错
+- 不等于敏感度特异度不重要
+- 不等于少见问题就无需筛查
+
+## 在人格动力中的作用
+
+基率谬误体现人容易被显眼证据抓住。心理评估需要让焦虑慢一点，让统计背景进入判断。
+
+## 自我观察
+
+- 这个问题在我所在人群中本来多常见？
+- 阳性结果代表概率增加到多少？
+- 我是否把筛查结果当成诊断结论？

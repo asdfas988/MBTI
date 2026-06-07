@@ -1,0 +1,52 @@
+---
+title: "替代性创伤"
+description: "替代性创伤指长期接触他人创伤后，助人者的世界观、安全感、信任、控制感和意义系统发生改变。"
+plainDefinition: "长期听见和处理他人创伤后，自己的世界观被改变。"
+group: "精神病学基础"
+english: "Vicarious Trauma"
+aliases: ["替代创伤"]
+domains: ["创伤", "助人职业"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["secondary-traumatic-stress", "compassion-fatigue", "burnout", "countertransference"]
+pubDate: 2026-06-08
+tags: ["替代性创伤", "助人者", "世界观"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "CDC: Suicide Prevention"
+    url: "https://www.cdc.gov/suicide/prevention/index.html"
+---
+
+替代性创伤指长期接触他人创伤后，助人者的世界观、安全感、信任、控制感和意义系统发生改变。
+
+## 概念边界
+
+它不同于一次性压力反应，更强调累积性、认知和意义系统变化，也不同于单纯职业倦怠。
+
+## 为什么重要
+
+替代性创伤会影响治疗质量、关系和生活信念。组织和个人都需要创伤知情的支持系统。
+
+## 常见表现
+
+- 开始普遍觉得世界危险或人不可信
+- 对亲密关系、孩子或社会安全过度警觉
+- 意义感、信仰或职业热情下降
+- 边界变硬、麻木或过度救援
+
+## 容易混淆
+
+- 不等于脆弱
+- 不等于普通累
+- 不等于只靠休假就一定恢复
+
+## 在人格动力中的作用
+
+替代性创伤是治疗关系和社会现实进入助人者内在世界的结果。它需要被督导、同伴和制度共同容纳。
+
+## 自我观察
+
+- 我的世界观是否因工作变得更危险化？
+- 我是否还能感到希望和连接？
+- 我需要哪些组织层面的保护，而不只是个人调节？

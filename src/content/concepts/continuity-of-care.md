@@ -1,0 +1,52 @@
+---
+title: "照护连续性"
+description: "照护连续性指当事人在不同服务、阶段和专业人员之间转换时，治疗信息、责任和支持不断裂。"
+plainDefinition: "从一个服务转到另一个服务时，支持不断掉线。"
+group: "心理治疗与评估"
+english: "Continuity of Care"
+aliases: ["连续照护"]
+domains: ["精神卫生服务", "风险管理"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["case-management", "aftercare-plan", "discharge-planning", "collaborative-care"]
+pubDate: 2026-06-08
+tags: ["连续照护", "转介", "服务"]
+sourceRefs:
+  - label: "SAMHSA: Recovery and Recovery Support"
+    url: "https://www.samhsa.gov/mental-health/recovery"
+  - label: "SAMHSA: Crisis Services"
+    url: "https://www.samhsa.gov/find-help/988"
+---
+
+照护连续性指当事人在不同服务、阶段和专业人员之间转换时，治疗信息、责任和支持不断裂。
+
+## 概念边界
+
+连续性不是永远由同一个人照护。它强调交接清楚、计划可追踪、风险有人负责。
+
+## 为什么重要
+
+住院出院、危机后、转诊和治疗结束阶段都是风险点。连续照护能减少复发、脱落和安全事件。
+
+## 常见表现
+
+- 有清楚转介和复诊安排
+- 关键信息被同意后传递
+- 危机计划和药物计划不中断
+- 当事人知道下一步找谁
+
+## 容易混淆
+
+- 不等于服务越多越好
+- 不等于隐私可以无边界共享
+- 不等于一次出院说明已经恢复
+
+## 在人格动力中的作用
+
+连续照护在服务系统中提供稳定客体。对依恋和危机敏感者，断裂本身可能成为新的触发。
+
+## 自我观察
+
+- 我从一个服务转到另一个服务时，谁接住我？
+- 下一次联系的时间和对象明确吗？
+- 哪些信息必须在交接中保留？

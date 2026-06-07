@@ -1,0 +1,52 @@
+---
+title: "访谈融洽关系"
+description: "访谈融洽关系指评估者与当事人之间形成的基本信任、合作、尊重和沟通顺畅感。"
+plainDefinition: "访谈中让人愿意说真实情况的基本信任感。"
+group: "心理治疗与评估"
+english: "Rapport"
+aliases: ["评估关系融洽"]
+domains: ["临床访谈", "治疗关系"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["therapeutic-alliance", "clinical-interview", "empathy", "therapeutic-presence"]
+pubDate: 2026-06-08
+tags: ["访谈", "关系", "信任"]
+sourceRefs:
+  - label: "APA: Different approaches to psychotherapy"
+    url: "https://www.apa.org/topics/psychotherapy/approaches"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+访谈融洽关系指评估者与当事人之间形成的基本信任、合作、尊重和沟通顺畅感。
+
+## 概念边界
+
+融洽关系不是讨好，也不是避免困难问题。它是在尊重和清楚边界中建立合作。
+
+## 为什么重要
+
+没有融洽关系，资料可能被防御、羞耻或不信任扭曲。好的评估先让人足够安全。
+
+## 常见表现
+
+- 当事人理解访谈目的和边界
+- 评估者语气尊重、清楚、稳定
+- 困难问题能被逐步提出
+- 双方能修正误解
+
+## 容易混淆
+
+- 不等于聊天愉快
+- 不等于评估者不能挑战
+- 不等于来访者喜欢治疗者就足够
+
+## 在人格动力中的作用
+
+融洽关系提供初步安全基地。它让自我不必把所有能量用于防御，从而更能观察和表达。
+
+## 自我观察
+
+- 这个关系让我更愿意真实表达吗？
+- 边界和目的是否清楚？
+- 不舒服或误解能否被谈出来？

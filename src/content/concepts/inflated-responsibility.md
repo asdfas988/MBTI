@@ -1,0 +1,52 @@
+---
+title: "夸大责任感"
+description: "夸大责任感指个体高估自己造成或防止伤害的责任范围，常见于强迫症和焦虑相关问题。"
+plainDefinition: "把本不该全由自己承担的风险也当成自己的责任。"
+group: "精神病学基础"
+english: "Inflated Responsibility"
+aliases: ["责任夸大"]
+domains: ["强迫症", "认知治疗"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["responsibility-belief", "checking-compulsion", "guilt", "superego"]
+pubDate: 2026-06-08
+tags: ["OCD", "责任", "认知"]
+sourceRefs:
+  - label: "International OCD Foundation"
+    url: "https://iocdf.org/"
+  - label: "NIMH: Obsessive-Compulsive Disorder"
+    url: "https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd"
+---
+
+夸大责任感指个体高估自己造成或防止伤害的责任范围，常见于强迫症和焦虑相关问题。
+
+## 概念边界
+
+它不同于成熟负责。成熟责任能区分可控与不可控，夸大责任则把可能性、控制和罪责混成一团。
+
+## 为什么重要
+
+夸大责任会驱动检查、回避、保证和心理仪式。它让生活变成持续防灾任务。
+
+## 常见表现
+
+- 觉得不检查就是故意让危险发生
+- 对小错误产生灾难性罪责
+- 难以把责任分给他人或环境
+- 宁可耗尽也要确保万无一失
+
+## 容易混淆
+
+- 不等于善良
+- 不等于高标准
+- 不等于所有责任都应该放下
+
+## 在人格动力中的作用
+
+夸大责任常与严厉超我和全能防御有关。个体通过承担过多责任来抵抗无助，却也把自己困住。
+
+## 自我观察
+
+- 这件事我真实能控制多少？
+- 我是否把“可能发生”当成“我应负责”？
+- 放下一部分责任会激活什么羞耻或恐惧？

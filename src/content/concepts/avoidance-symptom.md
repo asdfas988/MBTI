@@ -1,0 +1,52 @@
+---
+title: "回避症状"
+description: "回避症状指个体为避免创伤记忆、情绪、地点、人物、话题或身体感受而主动远离相关线索。"
+plainDefinition: "为了不被创伤触发而避开人、地点、话题或感受。"
+group: "精神病学基础"
+english: "Avoidance Symptom"
+aliases: ["创伤回避症状"]
+domains: ["创伤", "PTSD"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["avoidance-coping", "post-traumatic-stress-disorder", "trauma-trigger", "exposure-therapy"]
+pubDate: 2026-06-08
+tags: ["PTSD", "回避", "创伤"]
+sourceRefs:
+  - label: "VA National Center for PTSD: PTSD Treatment"
+    url: "https://www.ptsd.va.gov/understand_tx/tx_basics.asp"
+  - label: "WHO ICD-11 Browser"
+    url: "https://icd.who.int/browse/2025-01/mms/en"
+---
+
+回避症状指个体为避免创伤记忆、情绪、地点、人物、话题或身体感受而主动远离相关线索。
+
+## 概念边界
+
+回避在短期内可以保护个体，但作为 PTSD 症状时，它持续限制生活并阻止记忆整合。
+
+## 为什么重要
+
+回避是 PTSD 维持机制之一。治疗常需要在稳定基础上逐步减少回避，恢复生活范围。
+
+## 常见表现
+
+- 不谈创伤或相关主题
+- 避开地点、人物、新闻或气味
+- 用忙碌、麻木或物质压住感受
+- 生活半径因触发物逐渐缩小
+
+## 容易混淆
+
+- 不等于不愿意配合
+- 不等于忘记了创伤
+- 不等于所有回避都应立即打破
+
+## 在人格动力中的作用
+
+回避保护自我不被创伤记忆淹没，但也让过去持续支配现在。稳定化和暴露都在帮助自我重新取得选择权。
+
+## 自我观察
+
+- 哪些回避短期保护我，长期困住我？
+- 我是否有足够资源面对一点点触发？
+- 我的生活因回避缩小到什么程度？

@@ -1,0 +1,52 @@
+---
+title: "亲职化"
+description: "亲职化指儿童或青少年过早承担照料父母、调节家庭情绪、经济或保护兄弟姐妹等超出发展阶段的成人责任。"
+plainDefinition: "孩子被迫像大人一样照顾家庭或父母。"
+group: "关系与依恋"
+english: "Parentification"
+aliases: ["角色倒置"]
+domains: ["家庭系统", "发展创伤"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["family-boundary", "caregiver-role", "responsibility", "developmental-trauma"]
+pubDate: 2026-06-08
+tags: ["亲职化", "家庭角色", "照料"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "American Association for Marriage and Family Therapy"
+    url: "https://www.aamft.org/"
+---
+
+亲职化指儿童或青少年过早承担照料父母、调节家庭情绪、经济或保护兄弟姐妹等超出发展阶段的成人责任。
+
+## 概念边界
+
+亲职化不同于适度帮忙。关键是责任是否长期、超龄、缺少选择，并牺牲儿童自身发展需要。
+
+## 为什么重要
+
+亲职化会形成过度负责、讨好、难以求助和自我价值依赖照顾他人的模式。
+
+## 常见表现
+
+- 孩子承担父母情绪安抚者角色
+- 过早照顾兄弟姐妹或家庭事务
+- 自己的需求被视为负担
+- 长大后难以放下责任或表达脆弱
+
+## 容易混淆
+
+- 不等于懂事就是好
+- 不等于家庭互助都病理
+- 不等于孩子能力强就不受影响
+
+## 在人格动力中的作用
+
+亲职化让儿童用功能价值换取依恋位置。成人后，亲密常等同于照顾、救援和不麻烦别人。
+
+## 自我观察
+
+- 我小时候是否被期待照顾大人的情绪？
+- 我现在是否只有有用时才觉得被需要？
+- 我能否把一部分责任还给该承担的人？

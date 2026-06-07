@@ -1,0 +1,52 @@
+---
+title: "脱离保护者模式"
+description: "脱离保护者模式指通过麻木、疏离、逃避、理智化或成瘾行为来切断痛苦情绪和依恋需要的状态。"
+plainDefinition: "为了不痛，切断感受和关系需要。"
+group: "人格结构"
+english: "Detached Protector Mode"
+aliases: ["隔离保护者模式"]
+domains: ["图式治疗", "防御"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["schema-mode", "dissociation", "avoidance-coping", "emotional-numbing"]
+pubDate: 2026-06-08
+tags: ["图式治疗", "脱离保护者", "防御"]
+sourceRefs:
+  - label: "APA: Different approaches to psychotherapy"
+    url: "https://www.apa.org/topics/psychotherapy/approaches"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+脱离保护者模式指通过麻木、疏离、逃避、理智化或成瘾行为来切断痛苦情绪和依恋需要的状态。
+
+## 概念边界
+
+它不是冷漠人格。它是一种保护性应对，曾帮助个体避免被情绪淹没。
+
+## 为什么重要
+
+该模式会让治疗卡住，因为个体“知道很多”却感受不到。识别它有助于温和靠近情绪。
+
+## 常见表现
+
+- 说起痛苦时感觉麻木或像旁观者
+- 通过游戏、工作、物质或幻想逃离感受
+- 避免亲密和脆弱表达
+- 治疗中容易空白、理智化或失联
+
+## 容易混淆
+
+- 不等于没有情绪
+- 不等于成熟冷静
+- 不等于治疗者应强行突破
+
+## 在人格动力中的作用
+
+脱离保护者保护脆弱儿童免受再次伤害，但也阻断爱、哀伤和修复。治疗需要尊重其功能，再逐步降低隔离。
+
+## 自我观察
+
+- 我何时突然变麻木或抽离？
+- 这个保护者在保护我免于什么？
+- 我能否只接触一点点情绪，而不是全开或全关？

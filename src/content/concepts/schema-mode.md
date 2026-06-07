@@ -1,0 +1,52 @@
+---
+title: "图式模式"
+description: "图式模式指某一时刻被激活的一组情绪、身体、信念和应对反应，常用于理解人格困难中的状态切换。"
+plainDefinition: "某一刻被激活的“心理状态组合”。"
+group: "人格结构"
+english: "Schema Mode"
+aliases: ["模式状态"]
+domains: ["图式治疗", "人格动力"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["schema-therapy", "vulnerable-child-mode", "detached-protector", "healthy-adult-mode"]
+pubDate: 2026-06-08
+tags: ["图式治疗", "模式", "人格"]
+sourceRefs:
+  - label: "APA: Different approaches to psychotherapy"
+    url: "https://www.apa.org/topics/psychotherapy/approaches"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+图式模式指某一时刻被激活的一组情绪、身体、信念和应对反应，常用于理解人格困难中的状态切换。
+
+## 概念边界
+
+图式模式不是固定人格类型，也不是多重人格。它描述状态模式如何在触发下切换。
+
+## 为什么重要
+
+模式概念能帮助个体识别自己何时进入脆弱儿童、惩罚父母、脱离保护者或健康成人状态。
+
+## 常见表现
+
+- 不同情境中像进入不同心理状态
+- 情绪、信念和行为一起改变
+- 状态常有早期图式来源
+- 治疗中学习命名和调节模式
+
+## 容易混淆
+
+- 不等于人格分裂
+- 不等于贴标签逃避责任
+- 不等于所有状态都同样健康
+
+## 在人格动力中的作用
+
+图式模式把人格动力具体化为可观察状态。治疗目标是让健康成人模式更能照顾和整合其他模式。
+
+## 自我观察
+
+- 我现在进入了哪个模式？
+- 这个模式在保护什么需要？
+- 健康成人部分可以怎样回应它？

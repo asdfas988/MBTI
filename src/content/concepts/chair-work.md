@@ -1,0 +1,52 @@
+---
+title: "椅子技术"
+description: "椅子技术通过让不同自我部分、模式或关系对象在不同椅子上对话，帮助情绪表达、整合和边界建立。"
+plainDefinition: "把内在不同声音或关系对象放到不同位置对话。"
+group: "心理治疗与评估"
+english: "Chair Work"
+aliases: ["椅子工作"]
+domains: ["体验治疗", "图式治疗"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["schema-mode", "healthy-adult-mode", "punitive-parent-mode", "experiential-therapy"]
+pubDate: 2026-06-08
+tags: ["椅子技术", "体验治疗", "模式"]
+sourceRefs:
+  - label: "APA: Different approaches to psychotherapy"
+    url: "https://www.apa.org/topics/psychotherapy/approaches"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+椅子技术通过让不同自我部分、模式或关系对象在不同椅子上对话，帮助情绪表达、整合和边界建立。
+
+## 概念边界
+
+椅子技术不是表演，也不是适合所有时机。它需要安全框架和情绪承受度。
+
+## 为什么重要
+
+许多冲突只在脑中打架。椅子技术把内在冲突外化，让健康成人更容易介入。
+
+## 常见表现
+
+- 让批评声音、脆弱部分或愤怒部分分开表达
+- 在椅子间切换视角
+- 练习对内在部分回应
+- 处理未完成关系对话
+
+## 容易混淆
+
+- 不等于戏剧化越强越好
+- 不等于失控宣泄
+- 不等于没有后续整合
+
+## 在人格动力中的作用
+
+椅子技术把分裂的自我状态放入可见空间。通过对话，个体能从被某一部分占据转向整合。
+
+## 自我观察
+
+- 我内在有哪些声音在争夺控制？
+- 健康成人部分能对惩罚声音说什么？
+- 哪些未说出口的话需要一个安全空间？

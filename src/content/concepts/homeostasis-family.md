@@ -1,0 +1,52 @@
+---
+title: "家庭稳态"
+description: "家庭稳态指家庭系统倾向于维持熟悉的互动平衡，即使这种平衡包含症状、冲突或不健康角色。"
+plainDefinition: "家庭会把成员拉回熟悉的互动平衡。"
+group: "关系与依恋"
+english: "Family Homeostasis"
+aliases: ["家庭系统稳态"]
+domains: ["家庭系统", "系统理论"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["family-systems-therapy", "identified-patient", "resistance-to-change", "homeostasis"]
+pubDate: 2026-06-08
+tags: ["稳态", "家庭系统", "改变"]
+sourceRefs:
+  - label: "American Association for Marriage and Family Therapy"
+    url: "https://www.aamft.org/"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+家庭稳态指家庭系统倾向于维持熟悉的互动平衡，即使这种平衡包含症状、冲突或不健康角色。
+
+## 概念边界
+
+稳态不是说家庭故意阻止改变。它是系统层面的惯性和适应方式。
+
+## 为什么重要
+
+理解稳态能解释为什么个体改变后，家庭可能出现反弹、拉扯或新的症状位置。
+
+## 常见表现
+
+- 成员尝试改变时被劝回旧角色
+- 症状减轻后其他冲突浮现
+- 家庭对新边界感到不安
+- 旧沟通方式反复恢复
+
+## 容易混淆
+
+- 不等于家人有恶意
+- 不等于所有稳定都不好
+- 不等于改变必须切断家庭
+
+## 在人格动力中的作用
+
+稳态保护系统免于不确定，却也维持痛苦。治疗常需要让家庭承受新的不稳定，直到形成更健康平衡。
+
+## 自我观察
+
+- 我改变时，家庭怎样把我拉回去？
+- 旧平衡保护了谁、牺牲了谁？
+- 新边界需要怎样的过渡期？

@@ -1,0 +1,52 @@
+---
+title: "表达性情绪"
+description: "表达性情绪指家庭成员对患者表现出的批评、敌意或过度情感卷入水平，常用于研究精神障碍复发风险。"
+plainDefinition: "家庭中批评、敌意和过度卷入的情绪表达水平。"
+group: "关系与依恋"
+english: "Expressed Emotion"
+aliases: ["家庭表达情绪"]
+domains: ["家庭系统", "精神病学"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["high-expressed-emotion", "family-systems-therapy", "relapse-prevention", "psychoeducation"]
+pubDate: 2026-06-08
+tags: ["表达性情绪", "家庭", "复发"]
+sourceRefs:
+  - label: "NIMH: Schizophrenia"
+    url: "https://www.nimh.nih.gov/health/topics/schizophrenia"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+表达性情绪指家庭成员对患者表现出的批评、敌意或过度情感卷入水平，常用于研究精神障碍复发风险。
+
+## 概念边界
+
+表达性情绪不是责怪家庭。它描述互动环境中的压力水平，并可通过心理教育和沟通改变。
+
+## 为什么重要
+
+高表达性情绪与某些精神障碍复发风险相关。识别它有助于家庭干预、复发预防和照护者支持。
+
+## 常见表现
+
+- 频繁批评症状或人格
+- 敌意、责备和羞辱
+- 过度保护、过度控制或情感卷入
+- 家庭互动后患者压力显著上升
+
+## 容易混淆
+
+- 不等于家人不爱
+- 不等于所有情绪表达都危险
+- 不等于患者无需承担治疗责任
+
+## 在人格动力中的作用
+
+表达性情绪显示照护焦虑如何变成批评或控制。家庭需要把恐惧转化为更有效的支持。
+
+## 自我观察
+
+- 我的关心是否以批评或控制表达？
+- 家庭互动后症状是稳定还是升级？
+- 我们能否学习更低压力的沟通方式？

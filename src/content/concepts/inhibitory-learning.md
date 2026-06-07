@@ -1,0 +1,52 @@
+---
+title: "抑制性学习"
+description: "抑制性学习模型认为暴露治疗并非抹除旧恐惧，而是建立新的“线索并不等于危险”的学习来抑制旧反应。"
+plainDefinition: "不是删掉恐惧，而是学会新的安全反应来压过旧恐惧。"
+group: "心理治疗与评估"
+english: "Inhibitory Learning"
+aliases: ["抑制学习"]
+domains: ["暴露治疗", "学习理论"]
+level: "高级"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["extinction-learning", "expectancy-violation", "exposure-therapy", "fear-conditioning"]
+pubDate: 2026-06-08
+tags: ["抑制性学习", "暴露", "恐惧"]
+sourceRefs:
+  - label: "NIMH: Research Domain Criteria"
+    url: "https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+抑制性学习模型认为暴露治疗并非抹除旧恐惧，而是建立新的“线索并不等于危险”的学习来抑制旧反应。
+
+## 概念边界
+
+它不同于只追求焦虑下降的暴露观。核心是违背预期和增强新学习的可迁移性。
+
+## 为什么重要
+
+该模型帮助设计更有效暴露，例如变化情境、减少安全行为、关注预期违背而非只看焦虑下降。
+
+## 常见表现
+
+- 明确暴露前的灾难预期
+- 观察预期是否被违背
+- 在不同场景和强度中练习
+- 允许焦虑存在但学习新意义
+
+## 容易混淆
+
+- 不等于恐惧必须完全消失
+- 不等于暴露越久越好
+- 不等于忽略情绪体验
+
+## 在人格动力中的作用
+
+抑制性学习把治疗目标从消灭情绪转为扩大心理容量。旧恐惧仍在，但不再唯一支配行动。
+
+## 自我观察
+
+- 我这次要检验哪个预期？
+- 暴露有没有真正违背旧预测？
+- 我如何让新学习迁移到生活中？

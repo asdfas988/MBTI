@@ -1,0 +1,52 @@
+---
+title: "消退学习"
+description: "消退学习指在原有威胁线索反复不再带来预期危险后，形成新的安全或不危险学习。"
+plainDefinition: "反复发现触发线索没有带来灾难，从而学到新的反应。"
+group: "心理治疗与评估"
+english: "Extinction Learning"
+aliases: ["恐惧消退学习"]
+domains: ["暴露治疗", "学习理论"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["extinction", "exposure-therapy", "inhibitory-learning", "fear-conditioning"]
+pubDate: 2026-06-08
+tags: ["消退学习", "暴露", "恐惧"]
+sourceRefs:
+  - label: "NIMH: Research Domain Criteria"
+    url: "https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+消退学习指在原有威胁线索反复不再带来预期危险后，形成新的安全或不危险学习。
+
+## 概念边界
+
+消退学习不是删除旧记忆。旧恐惧可在压力或新情境中恢复，因此需要多情境练习。
+
+## 为什么重要
+
+暴露治疗依赖消退学习。理解它能减少对“为什么我又怕了”的挫败感。
+
+## 常见表现
+
+- 接触触发物后预期灾难没有发生
+- 恐惧逐渐下降或意义改变
+- 在多个情境中练习新反应
+- 复发时用新学习重新稳定
+
+## 容易混淆
+
+- 不等于一次成功就结束
+- 不等于恐惧完全消失才有效
+- 不等于压抑恐惧
+
+## 在人格动力中的作用
+
+消退学习让自我和身体形成新记忆：过去的危险线索现在可以被重新理解。
+
+## 自我观察
+
+- 这次暴露让我学到了什么新东西？
+- 旧恐惧在哪些情境最容易回来？
+- 我是否需要在更多地方练习？

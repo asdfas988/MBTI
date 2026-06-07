@@ -1,0 +1,52 @@
+---
+title: "道德困扰"
+description: "道德困扰指个体知道或相信应采取某种道德行动，却因制度、权力、资源或现实限制无法这样做而产生的痛苦。"
+plainDefinition: "知道什么是对的，却被现实限制挡住而痛苦。"
+group: "精神病学基础"
+english: "Moral Distress"
+aliases: ["道德痛苦"]
+domains: ["职业伦理", "压力"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["moral-injury", "burnout", "values", "responsibility"]
+pubDate: 2026-06-08
+tags: ["道德困扰", "伦理", "职业压力"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "VA National Center for PTSD: Moral Injury"
+    url: "https://www.ptsd.va.gov/professional/treat/cooccurring/moral_injury.asp"
+---
+
+道德困扰指个体知道或相信应采取某种道德行动，却因制度、权力、资源或现实限制无法这样做而产生的痛苦。
+
+## 概念边界
+
+道德困扰不同于一般压力，也不等于道德伤害。它强调被阻止采取道德行动的处境。
+
+## 为什么重要
+
+医疗、心理、教育和社会服务中常见道德困扰。长期未处理会导致倦怠、犬儒和离职。
+
+## 常见表现
+
+- 觉得自己被迫违背专业价值
+- 对制度限制感到愤怒或无力
+- 反复回想本可以怎样做
+- 出现羞耻、罪疚或职业意义下降
+
+## 容易混淆
+
+- 不等于个人矫情
+- 不等于所有不满都是道德困扰
+- 不等于只靠个人调节解决
+
+## 在人格动力中的作用
+
+道德困扰使超我、现实限制和责任感发生冲突。若无法被见证，个体可能把制度性无力内化成个人失败。
+
+## 自我观察
+
+- 我被迫违背了哪条价值？
+- 这是个人责任还是制度限制？
+- 有没有申诉、讨论或修复的现实渠道？

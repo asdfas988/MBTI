@@ -1,0 +1,52 @@
+---
+title: "惩罚父母模式"
+description: "惩罚父母模式指内化的严厉、羞辱、惩罚性声音被激活，对自我进行攻击、否定和责备。"
+plainDefinition: "脑中像严厉父母一样骂自己、惩罚自己。"
+group: "人格结构"
+english: "Punitive Parent Mode"
+aliases: ["惩罚性父母模式"]
+domains: ["图式治疗", "超我"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["schema-mode", "superego", "shame", "self-criticism"]
+pubDate: 2026-06-08
+tags: ["图式治疗", "惩罚父母", "羞耻"]
+sourceRefs:
+  - label: "APA: Different approaches to psychotherapy"
+    url: "https://www.apa.org/topics/psychotherapy/approaches"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+惩罚父母模式指内化的严厉、羞辱、惩罚性声音被激活，对自我进行攻击、否定和责备。
+
+## 概念边界
+
+它不是良心本身。健康良心能指导修复，惩罚父母模式则让人陷入羞耻和自毁。
+
+## 为什么重要
+
+该模式常维持抑郁、自伤、完美主义和人格困难。治疗需要削弱惩罚声音，强化健康成人。
+
+## 常见表现
+
+- 脑中出现“你活该”“你很坏”
+- 错误后不是修复而是自我惩罚
+- 难以接受安慰或宽容
+- 羞耻驱动过度努力或放弃
+
+## 容易混淆
+
+- 不等于责任感
+- 不等于自我要求高就是成熟
+- 不等于批评越狠越能进步
+
+## 在人格动力中的作用
+
+惩罚父母模式是严厉超我的具体化。它曾可能维持适应，但长期摧毁自我价值和情绪调节。
+
+## 自我观察
+
+- 这个声音像谁？
+- 它是在帮助我修复，还是羞辱我？
+- 健康成人会如何回应这个声音？

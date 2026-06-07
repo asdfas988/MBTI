@@ -1,0 +1,52 @@
+---
+title: "意象重塑"
+description: "意象重塑是一种体验性技术，通过在想象中重新进入痛苦记忆并引入保护、回应或新结局，改变其情绪意义。"
+plainDefinition: "在想象中重新处理旧记忆，让当时缺失的保护和回应出现。"
+group: "心理治疗与评估"
+english: "Imagery Rescripting"
+aliases: ["意象改写"]
+domains: ["图式治疗", "创伤治疗"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["schema-therapy", "trauma", "vulnerable-child-mode", "limited-reparenting"]
+pubDate: 2026-06-08
+tags: ["意象重塑", "图式治疗", "创伤"]
+sourceRefs:
+  - label: "APA: Different approaches to psychotherapy"
+    url: "https://www.apa.org/topics/psychotherapy/approaches"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+意象重塑是一种体验性技术，通过在想象中重新进入痛苦记忆并引入保护、回应或新结局，改变其情绪意义。
+
+## 概念边界
+
+意象重塑不是篡改事实，也不是幻想逃避。它改变的是记忆的情绪意义和自我位置。
+
+## 为什么重要
+
+许多早期记忆以画面和身体感保存。意象工作能触及单纯理性讨论难以到达的情绪层。
+
+## 常见表现
+
+- 回到具体记忆画面
+- 表达当时未能表达的需要和愤怒
+- 引入保护者或健康成人回应
+- 结束后整合新的意义
+
+## 容易混淆
+
+- 不等于编造记忆
+- 不等于一次练习解决创伤
+- 不等于没有稳定化就直接进入
+
+## 在人格动力中的作用
+
+意象重塑让内在脆弱儿童获得迟到的见证和保护。它通过新体验改写客体关系意义。
+
+## 自我观察
+
+- 这段记忆中当时的我最需要什么？
+- 谁应该承担责任而不是孩子承担？
+- 健康成人能如何进入这个画面？
