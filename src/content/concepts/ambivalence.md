@@ -14,6 +14,7 @@ sourceRefs:
     url: "https://dictionary.apa.org/"
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["psychic-conflict", "motivational-interviewing", "splitting"]
 ---
 

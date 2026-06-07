@@ -14,6 +14,7 @@ sourceRefs:
     url: "https://www.nimh.nih.gov/health/topics/substance-use-and-mental-health"
   - label: "WHO ICD-11 Browser: Mental, behavioural or neurodevelopmental disorders"
     url: "https://icd.who.int/browse/2025-01/mms/en"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["comorbidity", "avoidance-coping", "affect-regulation"]
 ---
 
