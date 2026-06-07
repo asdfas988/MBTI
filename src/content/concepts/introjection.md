@@ -16,7 +16,7 @@ sourceRefs:
     url: "https://dictionary.apa.org/"
   - label: "American Psychoanalytic Association: psychoanalytic terms"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
-  - label: "British Psychoanalytic Council: psychoanalytic psychotherapy"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
     url: "https://www.psychoanalytic-council.org/about-psychotherapy/what-pp.html"
 ---
 

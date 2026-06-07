@@ -1,0 +1,45 @@
+---
+title: "社交焦虑障碍"
+description: "对社交或表现情境中的负面评价、羞辱或尴尬产生强烈恐惧并导致回避的焦虑障碍。"
+pubDate: 2026-06-07
+tags: ["社交焦虑", "焦虑障碍", "羞耻"]
+group: "精神病学基础"
+plainDefinition: "对社交或表现情境中的负面评价、羞辱或尴尬产生强烈恐惧并导致回避的焦虑障碍。"
+english: "Social Anxiety Disorder"
+aliases: ["社交恐惧"]
+domains: ["精神医学", "焦虑"]
+level: "基础"
+sourceRefs: 
+  - label: "NIMH: Anxiety Disorders"
+    url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+related: ["shame", "introversion", "avoidant-personality-disorder"]
+---
+
+社交焦虑并不是单纯害羞。它通常伴随对被看见、被评价、出错或脸红发抖的强烈担心，并可能限制学习、工作和亲密关系。
+
+## 概念边界
+社交焦虑需要与内向、孤独症谱系、回避型人格模式、创伤后的不信任和抑郁性退缩区分。
+
+## 为什么重要
+长期回避会让社交世界越来越窄，也会强化“我无法承受评价”的信念。
+
+## 常见表现
+- 害怕发言、吃饭、表演或与陌生人互动
+- 反复预演社交失败并事后反刍
+- 回避机会或依赖安全行为
+- 身体症状如脸红、出汗、颤抖或心跳加快
+
+## 容易混淆
+- 与内向不同：内向不必然痛苦或回避
+- 与孤独症不同：社交焦虑更核心的是负面评价恐惧
+- 与自卑不同：焦虑涉及具体情境和身体反应
+
+## 在人格动力中的作用
+社交焦虑常与羞耻、超我批判、被凝视经验和理想自我要求有关。回避保护自尊，也限制新的关系经验。
+
+## 自我观察
+- 我害怕的是社交本身，还是被评价后的羞耻？
+- 我用了哪些安全行为避免别人看见真实的我？
+- 事后反复回放是否让羞耻更强？

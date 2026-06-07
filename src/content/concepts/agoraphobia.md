@@ -1,0 +1,45 @@
+---
+title: "广场恐惧"
+description: "对难以逃离或难以获得帮助的公共、开放、拥挤或交通情境产生恐惧并回避。"
+pubDate: 2026-06-07
+tags: ["广场恐惧", "惊恐", "回避"]
+group: "精神病学基础"
+plainDefinition: "对难以逃离或难以获得帮助的公共、开放、拥挤或交通情境产生恐惧并回避。"
+english: "Agoraphobia"
+aliases: ["旷野恐惧"]
+domains: ["精神医学", "焦虑"]
+level: "进阶"
+sourceRefs: 
+  - label: "NIMH: Anxiety Disorders"
+    url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+related: ["panic-disorder", "separation-anxiety", "avoidance-coping"]
+---
+
+广场恐惧常与惊恐发作相关，但不完全相同。个体可能害怕在地铁、商场、排队、独处外出或空旷场所中突然失控、丢脸或无法求助。
+
+## 概念边界
+它不是单纯不喜欢人多，也不是懒得出门。核心是对逃离困难、失控和无法获得帮助的恐惧。
+
+## 为什么重要
+广场恐惧会迅速压缩生活半径，造成依赖和功能损害。早期识别能防止回避系统固化。
+
+## 常见表现
+- 回避公共交通、拥挤场所、排队或独自外出
+- 需要安全人物陪同
+- 担心惊恐、晕倒、失控或无法逃离
+- 生活范围逐渐缩小
+
+## 容易混淆
+- 与社交焦虑不同：社交焦虑怕评价，广场恐惧怕逃离和求助困难
+- 与抑郁退缩不同：这里有明确情境恐惧
+- 与内向不同：内向不必然回避公共空间
+
+## 在人格动力中的作用
+依赖与自主冲突常会被广场恐惧放大：外出既象征独立，也意味着离开安全客体。
+
+## 自我观察
+- 我害怕的是人群评价，还是无法逃走和求助？
+- 我的安全人物或安全物品如何影响行动范围？
+- 我是否把独立行动体验成危险？

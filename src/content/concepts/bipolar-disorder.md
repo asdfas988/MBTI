@@ -1,0 +1,46 @@
+---
+title: "双相障碍"
+description: "以躁狂或轻躁狂发作与抑郁发作交替或反复出现为核心的心境障碍。"
+pubDate: 2026-06-07
+tags: ["双相障碍", "心境障碍", "躁狂"]
+group: "精神病学基础"
+plainDefinition: "以躁狂或轻躁狂发作与抑郁发作交替或反复出现为核心的心境障碍。"
+english: "Bipolar Disorder"
+aliases: ["躁郁症"]
+domains: ["精神医学"]
+level: "基础"
+clinicalBoundary: "疑似躁狂、轻躁狂或严重抑郁时，应由精神科或合格临床专业人员评估。"
+sourceRefs: 
+  - label: "NIMH: Bipolar Disorder"
+    url: "https://www.nimh.nih.gov/health/topics/bipolar-disorder"
+  - label: "WHO ICD-11 Browser: Mental, behavioural or neurodevelopmental disorders"
+    url: "https://icd.who.int/browse/2025-01/mms/en"
+related: ["mania", "hypomania", "depression"]
+---
+
+双相障碍的关键不只是情绪波动，而是具有发作性的高涨或易激惹心境、精力增加、睡眠需求减少、活动增多、冲动和判断受损等。
+
+## 概念边界
+双相障碍不同于普通心情起伏，也不同于边缘型人格中的关系触发性情绪波动。诊断需要病程、持续时间、发作质量和功能影响。
+
+## 为什么重要
+把双相障碍误认为单纯抑郁或人格问题，会影响治疗选择和风险管理。躁狂或轻躁狂线索需要专业精神科评估。
+
+## 常见表现
+- 睡眠减少却精力异常充沛
+- 话多、思维奔逸、活动明显增加
+- 冲动消费、性冲动、冒险或夸大自信
+- 抑郁期出现低落、兴趣下降和功能受损
+
+## 容易混淆
+- 与情绪不稳定不同：双相强调发作性和特定症状群
+- 与 ADHD 不同：ADHD 通常更持续，躁狂有阶段性改变
+- 与人格障碍不同：人格模式更长期、关系触发更明显
+
+## 在人格动力中的作用
+动力学理解可以探索躁狂防御和抑郁中的自我攻击，但不能替代病程评估和医学治疗。
+
+## 自我观察
+- 我是否有过睡很少却异常兴奋或易怒的阶段？
+- 这些阶段是否带来现实后果或他人担忧？
+- 我的情绪变化是按关系事件触发，还是呈现独立发作？
