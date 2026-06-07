@@ -1,24 +1,53 @@
 ---
 title: "合理化"
 description: "用看似合理的解释掩盖真正的动机、情绪或冲突。"
-plainDefinition: "给自己一个说得过去的理由，好避开真正难受的原因。"
+plainDefinition: "给自己一个说得过去的理由，好避开真正难受、羞耻或矛盾的原因。"
 group: "防御机制"
+english: "Rationalization"
+aliases: []
+domains: ["防御机制"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["intellectualization", "shame"]
 pubDate: 2026-06-07
-tags: ["精神分析", "防御机制", "自我解释"]
+tags: ["自我解释", "防御"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA Dictionary: defense mechanism"
+    url: "https://dictionary.apa.org/defense-mechanism"
+  - label: "Britannica: defense mechanism"
+    url: "https://www.britannica.com/topic/defense-mechanism"
 ---
 
-合理化会让人感觉自己很清醒、很有逻辑，但它有时只是把羞耻、失落、嫉妒或攻击性包上一层体面的解释。
+用看似合理的解释掩盖真正的动机、情绪或冲突。
+
+## 概念边界
+
+合理化不等于理性分析。真正的分析会容纳情绪和责任，合理化则急于消除不舒服。
+
+## 为什么重要
+
+合理化常让人逻辑上赢了，却失去接触真实感受的机会。
 
 ## 常见表现
 
-- 被拒绝后说“我本来也不想要”。
-- 因害怕失败而不尝试，却解释为“这件事不值得”。
-- 明明受伤了，却只谈原则、效率或大局。
+- 解释很多，但越解释越远离感受。
+- 失败后马上说其实我也不想要。
+- 把伤害他人的行为包装成原则或客观需要。
 
-## 容易误解
+## 容易混淆
 
-合理化不等于理性思考。真正的理性可以容纳情绪；合理化常常是用解释把情绪挡在外面。
+- 不等于所有理由都是假的。
+- 不等于没有现实因素。
+- 判断关键是解释是否让人更诚实。
+
+## 在人格动力中的作用
+
+合理化维护自尊，减少羞耻，但可能让人无法修正模式。
 
 ## 自我观察
 
-这个解释是在帮助我理解自己，还是在帮我避开某种难堪？
+- 这个理由让我更接近真相，还是更远？
+- 如果没有这套解释，我会感到什么？
+- 我是否在用道理遮住羞耻或恐惧？

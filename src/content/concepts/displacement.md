@@ -1,24 +1,53 @@
 ---
 title: "置换"
-description: "把情绪从真正对象转移到更安全、更容易表达的对象上。"
-plainDefinition: "不敢对真正的人生气，于是把火发到别处。"
+description: "把情绪从真正对象转向替代对象。"
+plainDefinition: "不敢对真正对象表达的情绪，被转移到更安全、更容易承受的对象上。"
 group: "防御机制"
+english: "Displacement"
+aliases: []
+domains: ["防御机制"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["acting-out", "emotion-regulation"]
 pubDate: 2026-06-07
-tags: ["精神分析", "防御机制", "情绪"]
+tags: ["情绪", "防御"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA Dictionary: defense mechanism"
+    url: "https://dictionary.apa.org/defense-mechanism"
+  - label: "Britannica: defense mechanism"
+    url: "https://www.britannica.com/topic/defense-mechanism"
 ---
 
-置换常发生在权力不对等或关系风险较高的场景。人可能无法直接向真正让自己受伤的人表达愤怒，于是把情绪转向伴侣、家人、同事或自己。
+把情绪从真正对象转向替代对象。
+
+## 概念边界
+
+置换不是无缘无故发脾气，而是情绪来源和表达对象发生错位。
+
+## 为什么重要
+
+置换解释了为什么人在上级面前忍住怒气，却回家对亲近的人发火。
 
 ## 常见表现
 
-- 在工作中受挫，回家后对亲近的人发火。
-- 不敢对父母表达不满，却对伴侣格外挑剔。
-- 对外界愤怒转向自责，觉得都是自己不好。
+- 对弱势或亲密对象爆发，而真正压力源没有被处理。
+- 小事触发大反应。
+- 事后发现怒气其实属于另一个场景。
 
-## 容易误解
+## 容易混淆
 
-置换不是情绪“无缘无故”。它通常有来源，只是来源和出口不在同一个地方。
+- 不等于情绪虚假。
+- 不等于被发火的人没有任何责任。
+- 关键是找到情绪真正来源。
+
+## 在人格动力中的作用
+
+置换降低直接冲突风险，却可能伤害安全关系。
 
 ## 自我观察
 
-我的情绪最初是从哪里来的？眼前这个人真的承载了全部原因吗？
+- 我这股情绪最早是从哪里来的？
+- 我是否把不能对某人说的话说给了另一个人？
+- 真正需要被处理的关系是哪一个？

@@ -23,6 +23,20 @@ const concepts = defineCollection({
   schema: baseEntry.extend({
     group: z.string(),
     plainDefinition: z.string(),
+    english: z.string().optional(),
+    aliases: z.array(z.string()).default([]),
+    domains: z.array(z.string()).default([]),
+    level: z.string().default("基础"),
+    clinicalBoundary: z.string().optional(),
+    sourceRefs: z
+      .array(
+        z.object({
+          label: z.string(),
+          url: z.string().url(),
+        }),
+      )
+      .default([]),
+    related: z.array(z.string()).default([]),
   }),
 });
 

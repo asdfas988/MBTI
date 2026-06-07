@@ -6,6 +6,10 @@ const concepts = (await getCollection("concepts")).sort((a, b) =>
   a.data.title.localeCompare(b.data.title, "zh-CN"),
 );
 const groups = [...new Set(concepts.map((entry) => entry.data.group))];
+const groupStats = groups.map((group) => ({
+  group,
+  count: concepts.filter((entry) => entry.data.group === group).length,
+}));
 ---
 
 <BaseLayout title="心理概念词典" description="查询精神分析、人格心理学和精神动力学中的核心概念。">
@@ -15,14 +19,14 @@ const groups = [...new Set(concepts.map((entry) => entry.data.group))];
         <div>
           <p class="eyebrow">Concept Dictionary</p>
           <h1>心理概念词典</h1>
-          <p>用清晰的语言理解防御、关系、冲突与人格结构。每个词条都尽量避免把人简化成标签。</p>
+          <p>用清晰的语言理解防御、精神动力、依恋、人格结构、人格心理学与精神病学基础概念。每个词条都包含概念边界、常见表现、易混点、自我观察和参考来源，避免把人简化成标签。</p>
           <div class="search-box" role="search">
             <label class="sr-only" for="concept-search">搜索心理概念</label>
-            <input id="concept-search" type="search" data-search placeholder="搜索：投射、移情、防御机制…" />
+            <input id="concept-search" type="search" data-search placeholder="搜索：投射、transference、依恋、人格障碍…" />
           </div>
           <div class="dictionary-guide">
-            <strong>词条阅读顺序</strong>
-            <span>先读一句话定义，再看关系表现，最后回到自我观察问题。</span>
+            <strong>已收录 {concepts.length} 个词条</strong>
+            <span>建议先读一句话定义，再看概念边界、常见表现和易混点，最后回到自我观察问题。</span>
           </div>
         </div>
         <div class="book-stack card" aria-hidden="true">
@@ -35,21 +39,25 @@ const groups = [...new Set(concepts.map((entry) => entry.data.group))];
       <div class="container">
         <div class="filter-row" aria-label="概念分类">
           <button class="pill filter-button active" type="button" data-filter="all">全部</button>
-          {groups.map((group) => <button class="pill filter-button" type="button" data-filter={group}>{group}</button>)}
+          {groupStats.map((item) => (
+            <button class="pill filter-button" type="button" data-filter={item.group}>
+              {item.group}<span>{item.count}</span>
+            </button>
+          ))}
         </div>
         <p class="result-count" data-count>共 {concepts.length} 个概念</p>
         <div class="usage-grid">
           <div class="card card-pad">
             <strong>如果你从 MBTI 来</strong>
-            <p>先查“防御机制”和“移情”，再回到具体类型页，会更容易看见类型背后的关系动力。</p>
+            <p>先查“认知功能”“大五人格模型”和“防御机制”，再回到类型页，会更容易区分偏好、特质和防御。</p>
           </div>
           <div class="card card-pad">
             <strong>如果你从关系问题来</strong>
-            <p>先读“投射”和“重复强迫”，它们能解释很多过度反应和熟悉的痛苦模式。</p>
+            <p>先读“依恋”“内在工作模型”“移情”和“重复强迫”，它们能解释很多过度反应和熟悉的痛苦模式。</p>
           </div>
           <div class="card card-pad">
             <strong>如果你在学习精神分析</strong>
-            <p>把词条当作索引，而不是诊断工具。概念是为了理解经验，不是给人贴标签。</p>
+            <p>从“无意识”“心理冲突”“防御机制”“客体关系”“人格组织”进入，概念是为了理解经验，不是给人贴标签。</p>
           </div>
         </div>
         <div class="concept-list" data-list>
@@ -59,13 +67,15 @@ const groups = [...new Set(concepts.map((entry) => entry.data.group))];
               href={`/concepts/${entry.id}/`}
               data-concept
               data-group={entry.data.group}
-              data-keywords={`${entry.data.title} ${entry.data.plainDefinition} ${entry.data.description} ${entry.data.tags.join(" ")}`}
+              data-keywords={`${entry.data.title} ${entry.data.english ?? ""} ${entry.data.aliases.join(" ")} ${entry.data.domains.join(" ")} ${entry.data.level} ${entry.data.plainDefinition} ${entry.data.description} ${entry.data.tags.join(" ")}`}
             >
               <span class="icon" aria-hidden="true">{entry.data.title.slice(0, 1)}</span>
               <div>
-                <span class="entry-group">{entry.data.group}</span>
+                <span class="entry-group">{entry.data.group} · {entry.data.level}</span>
                 <strong>{entry.data.title}</strong>
+                {entry.data.english && <em>{entry.data.english}</em>}
                 <p>{entry.data.plainDefinition}</p>
+                {entry.data.aliases.length > 0 && <small>别名：{entry.data.aliases.join("、")}</small>}
               </div>
               <span class="arrow" aria-hidden="true">-></span>
             </a>
@@ -73,7 +83,7 @@ const groups = [...new Set(concepts.map((entry) => entry.data.group))];
         </div>
         <div class="empty-state card card-pad" data-empty hidden>
           <strong>没有找到匹配概念</strong>
-          <p>可以换一个关键词，例如“关系”“防御”“依恋”“MBTI”，或者先从全部分类浏览。</p>
+          <p>可以换一个关键词，例如“关系”“防御”“依恋”“MBTI”“anxiety”，或者先从全部分类浏览。</p>
         </div>
       </div>
     </section>
@@ -225,7 +235,16 @@ const groups = [...new Set(concepts.map((entry) => entry.data.group))];
   }
 
   .filter-button {
+    display: inline-flex;
+    gap: 7px;
+    align-items: center;
     cursor: pointer;
+  }
+
+  .filter-button span {
+    color: inherit;
+    opacity: 0.72;
+    font-size: 0.82rem;
   }
 
   .filter-button.active {
@@ -303,8 +322,23 @@ const groups = [...new Set(concepts.map((entry) => entry.data.group))];
     font-weight: 800;
   }
 
+  .concept-entry em {
+    display: block;
+    margin-top: 4px;
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-style: normal;
+  }
+
   .concept-entry p {
     margin: 6px 0 0;
+  }
+
+  .concept-entry small {
+    display: block;
+    margin-top: 8px;
+    color: var(--muted);
+    line-height: 1.6;
   }
 
   .arrow {
