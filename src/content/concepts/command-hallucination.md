@@ -1,0 +1,52 @@
+---
+title: "命令性幻听"
+description: "命令性幻听是听幻觉的一种，声音对个体发出指令，内容可能从日常动作到自伤、他伤或危险行为。"
+plainDefinition: "听到声音命令自己做某事，尤其涉及伤害时需要立即风险评估。"
+group: "精神病学基础"
+english: "Command Hallucination"
+aliases: ["命令幻听"]
+domains: ["精神病性症状", "风险评估"]
+level: "专业"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["auditory-hallucination", "risk-assessment", "safety-plan", "psychosis"]
+pubDate: 2026-06-08
+tags: ["幻听", "风险", "精神病性症状"]
+sourceRefs:
+  - label: "NIMH: Schizophrenia"
+    url: "https://www.nimh.nih.gov/health/topics/schizophrenia"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+命令性幻听是听幻觉的一种，声音对个体发出指令，内容可能从日常动作到自伤、他伤或危险行为。
+
+## 概念边界
+
+不是所有命令性幻听都会导致行动，风险取决于内容、确信度、服从倾向、情绪和保护因素。
+
+## 为什么重要
+
+命令性幻听直接关系安全。网站内容应明确，涉及自伤或他伤命令时需要及时联系专业和紧急支持。
+
+## 常见表现
+
+- 声音要求做特定行为
+- 声音带有威胁、惩罚或道德压力
+- 个体难以抗拒或相信必须服从
+- 命令内容涉及危险时风险升高
+
+## 容易混淆
+
+- 不等于普通内心冲动
+- 不等于一定会行动
+- 不等于可以靠争辩解决
+
+## 在人格动力中的作用
+
+命令声音可能呈现严厉内在客体或迫害性超我，但安全处置和药物/危机评估常是优先。
+
+## 自我观察
+
+- 声音是否让我伤害自己或别人？
+- 我有多想服从它？
+- 我能否立刻联系可信的人并远离危险物品？

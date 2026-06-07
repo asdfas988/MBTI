@@ -1,0 +1,52 @@
+---
+title: "继发性自恋"
+description: "继发性自恋是精神分析概念，指客体投注撤回到自我，常用于理解某些退行、自恋防御和精神病性状态。"
+plainDefinition: "原本投向外部客体的力比多撤回并重新投注到自我。"
+group: "精神动力学"
+english: "Secondary Narcissism"
+aliases: ["次级自恋"]
+domains: ["自恋理论", "精神分析"]
+level: "高级"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["narcissism", "decathexis", "cathexis", "withdrawal"]
+pubDate: 2026-06-08
+tags: ["自恋", "力比多", "退行"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "American Psychoanalytic Association: About Psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
+---
+
+继发性自恋是精神分析概念，指客体投注撤回到自我，常用于理解某些退行、自恋防御和精神病性状态。
+
+## 概念边界
+
+它不同于普通自我照顾。继发性自恋强调从外部客体关系撤回投注。
+
+## 为什么重要
+
+这个概念帮助理解人在创伤、失望或脆弱时为何从关系撤回，转向自我幻想或自我封闭。
+
+## 常见表现
+
+- 对外部关系兴趣下降
+- 自我幻想或全能感增强
+- 他人被体验为不重要或威胁
+- 客体失望后投注撤回
+
+## 容易混淆
+
+- 不等于独处
+- 不等于健康自爱
+- 不等于所有退缩都是继发性自恋
+
+## 在人格动力中的作用
+
+继发性自恋可以保护受伤自我免于依赖痛苦，但也会削弱客体关系和现实连接。
+
+## 自我观察
+
+- 我是在照顾自己，还是从关系完全撤回？
+- 我撤回前经历了什么失望？
+- 我能否在保护自己时保留一点连接？

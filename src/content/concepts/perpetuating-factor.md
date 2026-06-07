@@ -1,0 +1,52 @@
+---
+title: "维持因素"
+description: "维持因素指在问题出现后持续强化困难的机制，如回避、安全行为、睡眠不足、关系循环或二级收益。"
+plainDefinition: "让问题持续、反复或难以改善的行为、关系、认知或环境因素。"
+group: "心理治疗与评估"
+english: "Perpetuating Factor"
+aliases: ["持续因素"]
+domains: ["个案概念化", "心理治疗"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["five-ps-formulation", "maintaining-factor", "avoidance-coping", "safety-behavior"]
+pubDate: 2026-06-08
+tags: ["维持因素", "个案概念化", "治疗计划"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
+---
+
+维持因素指在问题出现后持续强化困难的机制，如回避、安全行为、睡眠不足、关系循环或二级收益。
+
+## 概念边界
+
+维持因素不等于最初原因。一个问题可能由 A 诱发，却由 B 持续维持。
+
+## 为什么重要
+
+治疗最常从维持因素入手，因为它们通常比远因更可改变。
+
+## 常见表现
+
+- 回避让恐惧持续
+- 反复保证寻求维持焦虑
+- 睡眠和物质使用加重情绪
+- 关系中的追逐-撤退循环不断重复
+
+## 容易混淆
+
+- 不等于责怪当事人
+- 不等于原因只有现在
+- 不等于所有维持因素都能立刻改变
+
+## 在人格动力中的作用
+
+维持因素常与防御和重复强迫有关。它们保护熟悉结构，也阻止新的经验进入。
+
+## 自我观察
+
+- 是什么让问题没有自然好转？
+- 我哪些应对短期有效、长期维持问题？
+- 最小可改变的维持环节是什么？

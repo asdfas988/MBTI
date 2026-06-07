@@ -1,0 +1,52 @@
+---
+title: "治疗目标"
+description: "治疗目标是治疗计划的重要组成部分，用来明确治疗希望改善的症状、功能、关系或自我理解。"
+plainDefinition: "治疗中希望达成的具体、可讨论、可评估的改变方向。"
+group: "心理治疗与评估"
+english: "Treatment Goal"
+aliases: ["咨询目标"]
+domains: ["心理治疗", "治疗计划"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["treatment-plan", "measurement-based-care", "clinical-significance", "working-alliance"]
+pubDate: 2026-06-08
+tags: ["治疗目标", "治疗计划", "评估"]
+sourceRefs:
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+治疗目标是治疗计划的重要组成部分，用来明确治疗希望改善的症状、功能、关系或自我理解。
+
+## 概念边界
+
+目标不是治疗者单方面规定，也不是一开始就永远固定。它应随理解加深而调整。
+
+## 为什么重要
+
+清晰目标能减少治疗漂移，也让来访者知道自己不是只在“聊”，而是在朝某些改变工作。
+
+## 常见表现
+
+- 描述希望改变什么
+- 能连接症状、功能或关系
+- 可通过体验或行为观察变化
+- 与来访者价值和现实条件相关
+
+## 容易混淆
+
+- 不等于立刻解决所有问题
+- 不等于只追求快乐
+- 不等于治疗者替来访者设目标
+
+## 在人格动力中的作用
+
+目标本身也会暴露冲突：有人想改变症状，却害怕失去症状带来的保护或身份。
+
+## 自我观察
+
+- 我希望治疗后生活哪里不同？
+- 这个目标是我的，还是别人替我设的？
+- 目标背后有没有矛盾愿望？

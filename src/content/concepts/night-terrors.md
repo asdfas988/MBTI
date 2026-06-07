@@ -1,0 +1,52 @@
+---
+title: "夜惊"
+description: "夜惊是一种异态睡眠，常发生于非 REM 深睡眠阶段，表现为突然惊恐、尖叫、出汗或难以安抚。"
+plainDefinition: "睡眠中突然惊叫、恐惧和身体激活，醒后通常记忆很少或混乱。"
+group: "精神病学基础"
+english: "Night Terrors"
+aliases: ["睡惊症"]
+domains: ["睡眠医学", "儿童心理"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["parasomnia", "sleepwalking", "nightmare-disorder", "stress"]
+pubDate: 2026-06-08
+tags: ["夜惊", "睡眠", "异态睡眠"]
+sourceRefs:
+  - label: "MedlinePlus: Sleep Disorders"
+    url: "https://medlineplus.gov/sleepdisorders.html"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+夜惊是一种异态睡眠，常发生于非 REM 深睡眠阶段，表现为突然惊恐、尖叫、出汗或难以安抚。
+
+## 概念边界
+
+夜惊不同于噩梦。夜惊中个体通常未完全清醒，事后回忆少；噩梦则常能回忆梦境。
+
+## 为什么重要
+
+理解夜惊能减少照护者恐慌和责备，也能关注睡眠不足、压力和安全环境。
+
+## 常见表现
+
+- 睡中突然惊叫或坐起
+- 心跳快、出汗、表情恐惧
+- 很难被叫醒或安抚
+- 醒后不记得或记忆很少
+
+## 容易混淆
+
+- 不等于故意闹
+- 不等于一定有创伤
+- 不等于噩梦本身
+
+## 在人格动力中的作用
+
+夜惊可被压力影响，但主要是睡眠觉醒调节问题。家庭需要稳定回应，而非追问梦境意义。
+
+## 自我观察
+
+- 发生时是否有安全风险？
+- 最近是否睡眠不足或压力增大？
+- 照护者能否用平静方式保护而非强行唤醒？

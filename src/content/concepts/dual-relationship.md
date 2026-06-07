@@ -1,0 +1,52 @@
+---
+title: "双重关系"
+description: "双重关系指专业关系之外还存在亲友、商业、师生、上下级或其他角色关系，可能带来伦理风险。"
+plainDefinition: "治疗者与来访者同时存在治疗以外的其他关系，可能影响边界和判断。"
+group: "心理治疗与评估"
+english: "Dual Relationship"
+aliases: ["多重关系"]
+domains: ["心理伦理", "治疗边界"]
+level: "专业"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["therapeutic-boundary", "therapeutic-contract", "confidentiality", "scope-of-practice"]
+pubDate: 2026-06-08
+tags: ["伦理", "双重关系", "边界"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
+---
+
+双重关系指专业关系之外还存在亲友、商业、师生、上下级或其他角色关系，可能带来伦理风险。
+
+## 概念边界
+
+不是所有非治疗接触都同等有害，但任何双重关系都需要评估权力差异、剥削风险和治疗影响。
+
+## 为什么重要
+
+双重关系会干扰移情、保密、拒绝权和治疗判断，尤其在小圈子和网络环境中常见。
+
+## 常见表现
+
+- 治疗者同时是朋友、雇主、老师或商业伙伴
+- 来访者难以自由表达不满
+- 边界和保密变得模糊
+- 治疗利益与其他利益冲突
+
+## 容易混淆
+
+- 不等于所有偶遇都违规
+- 不等于熟人就一定不能帮助
+- 不等于只要双方同意就没有风险
+
+## 在人格动力中的作用
+
+双重关系会强化依赖、讨好或被控制感，也可能让治疗者反移情和利益冲突不自觉。
+
+## 自我观察
+
+- 这段关系之外还有什么角色？
+- 我能否自由拒绝或表达不满？
+- 是否需要转介以保护治疗空间？

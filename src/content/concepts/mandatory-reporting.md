@@ -1,0 +1,52 @@
+---
+title: "强制报告"
+description: "强制报告指在儿童虐待、老人虐待、严重危险或其他法定情形中，专业人员必须报告以保护安全。"
+plainDefinition: "法律或伦理要求专业人员在特定风险或虐待情境下向有关机构报告。"
+group: "心理治疗与评估"
+english: "Mandatory Reporting"
+aliases: ["法定报告"]
+domains: ["心理伦理", "风险管理"]
+level: "专业"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["confidentiality", "duty-to-protect", "risk-assessment", "trauma-informed-care"]
+pubDate: 2026-06-08
+tags: ["伦理", "强制报告", "安全"]
+sourceRefs:
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+强制报告指在儿童虐待、老人虐待、严重危险或其他法定情形中，专业人员必须报告以保护安全。
+
+## 概念边界
+
+强制报告规则因地区不同而不同。科普内容只能说明原则，不能替代当地法律建议。
+
+## 为什么重要
+
+它让来访者和内容读者知道保密的边界，也保护弱势群体免受持续伤害。
+
+## 常见表现
+
+- 涉及儿童或无行为能力者被虐待风险
+- 存在法定报告要求
+- 专业人员需说明报告范围
+- 报告应尽量减少额外创伤
+
+## 容易混淆
+
+- 不等于所有秘密都会被报告
+- 不等于惩罚来访者
+- 不等于治疗关系一定结束
+
+## 在人格动力中的作用
+
+报告可能让创伤幸存者感到再次失控。创伤知情做法需要尽量解释、协商和保持尊重。
+
+## 自我观察
+
+- 我所在地区哪些情况必须报告？
+- 来访者是否提前知道保密例外？
+- 如何在保护安全时减少二次伤害？

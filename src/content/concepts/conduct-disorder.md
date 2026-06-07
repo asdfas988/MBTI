@@ -1,0 +1,52 @@
+---
+title: "品行障碍"
+description: "品行障碍指儿童青少年持续出现侵犯他人、破坏财物、欺骗偷窃或严重违反规则的行为模式。"
+plainDefinition: "反复违反他人权利或社会规则的行为模式，如攻击、破坏、欺骗或严重违规。"
+group: "精神病学基础"
+english: "Conduct Disorder"
+aliases: []
+domains: ["儿童精神医学", "行为问题"]
+level: "专业"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["oppositional-defiant-disorder", "antisocial-personality-disorder", "aggression", "risk-assessment"]
+pubDate: 2026-06-08
+tags: ["品行障碍", "攻击", "儿童青少年"]
+sourceRefs:
+  - label: "WHO ICD-11 Browser"
+    url: "https://icd.who.int/browse/2025-01/mms/en"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+品行障碍指儿童青少年持续出现侵犯他人、破坏财物、欺骗偷窃或严重违反规则的行为模式。
+
+## 概念边界
+
+它比一般叛逆严重，涉及权利侵犯和规则破坏。评估要看年龄、环境、创伤、家庭和社会因素。
+
+## 为什么重要
+
+准确识别能及早干预，减少学校排斥、司法风险和人格发展中的敌意循环。
+
+## 常见表现
+
+- 攻击人或动物
+- 破坏财物或纵火
+- 欺骗、偷窃或逃学离家
+- 缺乏悔意或对他人痛苦冷漠可能出现
+
+## 容易混淆
+
+- 不等于调皮
+- 不等于所有违法都由障碍解释
+- 不等于不可改变
+
+## 在人格动力中的作用
+
+严重行为问题常与攻击性、依恋破裂、羞耻防御和环境暴力交织。干预需要边界、责任和关系修复并行。
+
+## 自我观察
+
+- 行为是否侵犯他人安全或权利？
+- 背后是否有创伤、忽视或同伴环境因素？
+- 如何同时建立责任和支持？

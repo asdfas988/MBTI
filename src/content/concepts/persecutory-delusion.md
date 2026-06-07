@@ -1,0 +1,54 @@
+---
+title: "被害妄想"
+description: "被害妄想是妄想的一种，个体坚信他人、组织或力量正在伤害、监视、跟踪或针对自己。"
+plainDefinition: "坚信自己正被监视、迫害、陷害或攻击，即使证据不足也难以修正。"
+group: "精神病学基础"
+english: "Persecutory Delusion"
+aliases: ["迫害妄想"]
+domains: ["精神病性症状", "精神病学基础"]
+level: "专业"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["delusion", "paranoid-ideation", "psychosis", "schizophrenia"]
+pubDate: 2026-06-08
+tags: ["妄想", "被害", "现实检验"]
+sourceRefs:
+  - label: "NIMH: Schizophrenia"
+    url: "https://www.nimh.nih.gov/health/topics/schizophrenia"
+  - label: "WHO ICD-11 Browser"
+    url: "https://icd.who.int/browse/2025-01/mms/en"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+被害妄想是妄想的一种，个体坚信他人、组织或力量正在伤害、监视、跟踪或针对自己。
+
+## 概念边界
+
+它不同于合理警觉或真实受害。关键在于信念固定、证据不足、难以修正，并影响功能。
+
+## 为什么重要
+
+被害妄想会显著增加恐惧、退缩、防御性攻击和求助困难，回应时不能简单争辩或嘲笑。
+
+## 常见表现
+
+- 确信被跟踪、监控、投毒或陷害
+- 把中性事件解释为迫害证据
+- 反复检查、报警、躲避或反击
+- 难以接受替代解释
+
+## 容易混淆
+
+- 不等于所有怀疑
+- 不等于创伤后的警觉
+- 不等于一定没有现实压力
+
+## 在人格动力中的作用
+
+从动力角度看，被害体验可能与投射、羞耻和攻击有关，但临床回应需要降低威胁感并评估安全。
+
+## 自我观察
+
+- 这个信念有没有可能被证据修正？
+- 我是否因此做出危险防御？
+- 我能否让专业人员帮我一起评估现实？

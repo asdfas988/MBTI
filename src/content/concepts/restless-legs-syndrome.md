@@ -1,0 +1,52 @@
+---
+title: "不宁腿综合征"
+description: "不宁腿综合征是一种睡眠相关运动障碍，表现为腿部不适感和移动冲动，通常在静息和夜间加重。"
+plainDefinition: "休息时腿部不适并强烈想动，常在夜间加重，影响入睡和睡眠质量。"
+group: "精神病学基础"
+english: "Restless Legs Syndrome"
+aliases: ["RLS"]
+domains: ["睡眠医学", "精神病学基础"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["sleep-disturbance", "insomnia-disorder", "fatigue", "anxiety"]
+pubDate: 2026-06-08
+tags: ["睡眠", "腿部不适", "运动障碍"]
+sourceRefs:
+  - label: "MedlinePlus: Sleep Disorders"
+    url: "https://medlineplus.gov/sleepdisorders.html"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+不宁腿综合征是一种睡眠相关运动障碍，表现为腿部不适感和移动冲动，通常在静息和夜间加重。
+
+## 概念边界
+
+它不同于单纯焦虑坐立不安。典型特征是休息时腿部不适、活动缓解、夜间加重。
+
+## 为什么重要
+
+不宁腿会造成慢性睡眠不足，进而影响情绪、注意和冲动控制。
+
+## 常见表现
+
+- 腿部爬行、酸胀、刺痒或难以描述的不适
+- 必须移动腿才舒服
+- 晚上或躺下时更明显
+- 睡眠和白天精力受影响
+
+## 容易混淆
+
+- 不等于普通腿酸
+- 不等于所有坐立不安
+- 不等于纯心理焦虑
+
+## 在人格动力中的作用
+
+身体不适可能被误读为心理烦躁。准确命名有助于减少自责，并把睡眠作为心理调节基础。
+
+## 自我观察
+
+- 不适是否在休息时出现、活动后缓解？
+- 是否影响睡眠？
+- 是否需要检查药物、铁水平或睡眠问题？
