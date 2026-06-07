@@ -1,0 +1,51 @@
+---
+title: "共调节"
+description: "个体通过与他人的互动、声音、节奏、触碰、表情或理解来共同调节情绪和身体唤起。"
+plainDefinition: "我不是只靠自己平静下来，也会借由关系一起稳定。"
+group: "关系与依恋"
+english: "Co-Regulation"
+aliases: []
+domains: ["关系与依恋", "情绪调节"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["safe-haven", "affect-regulation", "social-support", "therapeutic-alliance"]
+pubDate: 2026-06-07
+tags: ["共调节", "依恋", "情绪调节"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy"
+---
+
+个体通过与他人的互动、声音、节奏、触碰、表情或理解来共同调节情绪和身体唤起。
+
+## 概念边界
+
+共调节不是依赖别人替自己负责，也不是任何陪伴都有调节作用。安全、节奏和边界决定共调节质量。
+
+## 为什么重要
+
+很多自我调节能力来自先被别人调节过。把共调节写清楚，能减少“你应该自己处理情绪”的孤立化观点。
+
+## 常见表现
+
+- 听到稳定声音后身体放松。
+- 被理解后情绪强度下降。
+- 与安全的人同步呼吸、节奏或注意力。
+
+## 容易混淆
+
+- 不等于情绪传染。
+- 不等于永远需要别人。
+- 不等于对方必须满足所有需求。
+
+## 在人格动力中的作用
+
+共调节经验可被内化为自我调节。治疗关系、亲密关系和照料关系都可能承担这种功能。
+
+## 自我观察
+
+- 谁能帮助我稳定，而不是更激活我？
+- 我如何在共调节后回到自我调节？
+- 我是否羞于承认需要别人帮助稳定？

@@ -1,0 +1,51 @@
+---
+title: "因素分析"
+description: "一种统计方法，用于探索或验证多个题项背后的潜在维度结构。"
+plainDefinition: "看看一堆题目背后是不是可以整理出几个稳定维度。"
+group: "心理治疗与评估"
+english: "Factor Analysis"
+aliases: []
+domains: ["心理治疗与评估", "心理测量"]
+level: "专业"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["construct-validity", "big-five-personality-model", "psychometrics", "internal-consistency"]
+pubDate: 2026-06-07
+tags: ["统计", "测评", "维度"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA Dictionary: Big Five Personality Model"
+    url: "https://dictionary.apa.org/big-five-personality-model"
+---
+
+一种统计方法，用于探索或验证多个题项背后的潜在维度结构。
+
+## 概念边界
+
+因素分析是工具，不会自动证明理论正确。样本、题项、模型选择和解释方式都会影响结果。
+
+## 为什么重要
+
+大五人格等模型和大量量表都依赖因素结构证据。理解它，能帮助读者判断测试维度是否有实证基础。
+
+## 常见表现
+
+- 探索题项聚成哪些潜在因素。
+- 验证理论维度是否符合数据。
+- 用于量表修订、题项筛选和结构效度研究。
+
+## 容易混淆
+
+- 不等于机器自动发现真理。
+- 不等于因素名称天然有心理意义。
+- 不等于一次样本结果可普遍适用。
+
+## 在人格动力中的作用
+
+因素分析提供的是群体层面的结构线索；人格动力理解还需要把维度放回个体故事和关系模式中。
+
+## 自我观察
+
+- 这个测试维度有没有因素结构支持？
+- 因素名称是否被过度解释了？
+- 群体结构如何帮助我理解个体差异？

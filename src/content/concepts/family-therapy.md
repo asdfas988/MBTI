@@ -1,0 +1,51 @@
+---
+title: "家庭治疗"
+description: "把家庭作为互动系统来理解和干预，关注沟通、边界、角色、代际模式和症状功能。"
+plainDefinition: "问题不只在某一个人身上，也可能嵌在家庭互动的循环里。"
+group: "心理治疗与评估"
+english: "Family Therapy"
+aliases: []
+domains: ["心理治疗与评估", "家庭系统"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["enmeshment", "differentiation-of-self", "psychological-boundaries", "role-confusion"]
+pubDate: 2026-06-07
+tags: ["家庭治疗", "系统", "边界"]
+sourceRefs:
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+把家庭作为互动系统来理解和干预，关注沟通、边界、角色、代际模式和症状功能。
+
+## 概念边界
+
+家庭治疗不是责怪家庭，也不是否认个体责任。它关注系统互动如何维持问题，以及如何改变循环。
+
+## 为什么重要
+
+很多人格和情绪问题在家庭系统中被激活和维持。家庭治疗提供比个体标签更宽的视角。
+
+## 常见表现
+
+- 观察沟通、联盟、三角关系和边界。
+- 处理代际期待、角色固着和冲突模式。
+- 帮助家庭成员改变互动循环。
+
+## 容易混淆
+
+- 不等于全家开批斗会。
+- 不等于问题一定是父母造成。
+- 不等于个体治疗没有价值。
+
+## 在人格动力中的作用
+
+家庭系统既能提供安全基地，也能成为纠缠、投射和角色固化的场所。改变系统可改变个体症状功能。
+
+## 自我观察
+
+- 我的症状在家庭中承担什么功能？
+- 家庭里谁和谁被卷在一起，谁被排除？
+- 什么互动循环最需要改变？

@@ -1,0 +1,53 @@
+---
+title: "背叛创伤"
+description: "由依赖或信任的重要对象造成的伤害，因关系依赖和现实安全需要而特别难以整合。"
+plainDefinition: "伤害来自我本来需要信任、依靠或爱的人。"
+group: "关系与依恋"
+english: "Betrayal Trauma"
+aliases: []
+domains: ["关系与依恋", "创伤心理学"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["attachment-injury", "trauma", "dissociation", "trust"]
+pubDate: 2026-06-07
+tags: ["背叛", "创伤", "依恋"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "SAMHSA: Trauma and violence"
+    url: "https://www.samhsa.gov/mental-health/trauma-violence"
+  - label: "VA National Center for PTSD"
+    url: "https://www.ptsd.va.gov/"
+---
+
+由依赖或信任的重要对象造成的伤害，因关系依赖和现实安全需要而特别难以整合。
+
+## 概念边界
+
+背叛创伤不是普通失望或冲突，而是信任关系中的严重伤害。它可能涉及亲密、家庭、机构或照护关系。
+
+## 为什么重要
+
+背叛创伤之所以难，是因为受伤者可能仍依赖施害或失信对象。心理系统会在知道和不知道、靠近和逃离之间撕裂。
+
+## 常见表现
+
+- 对信任、亲密和安全产生长期怀疑。
+- 出现麻木、解离、反复求证或关系监控。
+- 在继续依赖对方时难以承认伤害。
+
+## 容易混淆
+
+- 不等于普通吵架。
+- 不等于受害者“想太多”。
+- 不等于修复只靠一句道歉。
+
+## 在人格动力中的作用
+
+背叛创伤会损伤好客体和基本信任，使依恋对象同时成为安全来源和危险来源。
+
+## 自我观察
+
+- 我是否在依赖一个也伤害我的对象？
+- 我为了维持关系压下了哪些事实？
+- 安全修复需要哪些边界和现实行动？

@@ -1,0 +1,51 @@
+---
+title: "临床临界值"
+description: "用于区分一般范围与可能具有临床意义范围的分数界限，常见于症状量表和风险评估。"
+plainDefinition: "分数高到某个程度，可能不只是普通波动，而需要临床关注。"
+group: "心理治疗与评估"
+english: "Clinical Cutoff"
+aliases: []
+domains: ["心理治疗与评估", "临床评估"]
+level: "专业"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["cutoff-score", "functional-impairment", "distress", "clinical-interview"]
+pubDate: 2026-06-07
+tags: ["临床", "量表", "风险"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Evidence-Based Practice in Psychology"
+    url: "https://www.apa.org/practice/guidelines/evidence-based-statement"
+---
+
+用于区分一般范围与可能具有临床意义范围的分数界限，常见于症状量表和风险评估。
+
+## 概念边界
+
+临床临界值仍然不能单独诊断。它只提示结果进入值得临床关注的区间，需要结合症状持续时间、功能和访谈。
+
+## 为什么重要
+
+它帮助读者理解“普通烦恼”和“需要专业帮助”之间不是靠感觉判断，也不是靠单个分数决定。
+
+## 常见表现
+
+- 症状量表设定正常、轻中重或临床范围。
+- 用于治疗前评估和过程追踪。
+- 结果变化可帮助判断治疗进展。
+
+## 容易混淆
+
+- 不等于确诊。
+- 不等于低于临界值就无需关心。
+- 不等于所有人共用同一解释。
+
+## 在人格动力中的作用
+
+临床临界值为治疗框架提供现实锚点，防止过度心理化严重症状，也防止把普通情绪病理化。
+
+## 自我观察
+
+- 我的痛苦是否已经影响功能？
+- 分数和现实生活证据是否一致？
+- 我是否需要专业访谈来理解结果？

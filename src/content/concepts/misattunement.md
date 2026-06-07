@@ -1,0 +1,51 @@
+---
+title: "失调谐"
+description: "回应者未能准确匹配个体的情绪、节奏或需要，可能表现为忽视、过度反应、误解或侵入。"
+plainDefinition: "我需要的是被接住，但你给我的回应和我错开了。"
+group: "关系与依恋"
+english: "Misattunement"
+aliases: []
+domains: ["关系与依恋", "发展心理学"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["attunement", "rupture-and-repair", "attachment-injury", "shame"]
+pubDate: 2026-06-07
+tags: ["失调谐", "依恋", "修复"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy"
+---
+
+回应者未能准确匹配个体的情绪、节奏或需要，可能表现为忽视、过度反应、误解或侵入。
+
+## 概念边界
+
+失调谐不可避免，关系不可能永远准确。关键在于是否反复、严重、不可修复，以及个体是否因此形成长期防御。
+
+## 为什么重要
+
+关系中的小错位本身不一定伤害人；真正重要的是错位能不能被看见和修复。
+
+## 常见表现
+
+- 需要安抚时被讲道理或批评。
+- 需要空间时被追问或侵入。
+- 表达情绪后被误解、忽视或放大。
+
+## 容易混淆
+
+- 不等于对方不爱。
+- 不等于一次错位就是创伤。
+- 不等于必须追求完美同步。
+
+## 在人格动力中的作用
+
+失调谐若可修复，会发展韧性；若长期不可修复，则可能形成羞耻、假我、退缩或焦虑依恋。
+
+## 自我观察
+
+- 这次错位能否被谈论和修复？
+- 我是否把旧失调谐投到眼前关系？
+- 我能否具体说明需要怎样的回应？

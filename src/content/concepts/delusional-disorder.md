@@ -1,0 +1,53 @@
+---
+title: "妄想性障碍"
+description: "以持续妄想为核心，而其他精神病性症状和功能受损程度相对有限的诊断概念。"
+plainDefinition: "某个固定信念强到难以被证据改变，并持续组织人的现实理解。"
+group: "精神病学基础"
+english: "Delusional Disorder"
+aliases: []
+domains: ["精神病学基础", "精神病性障碍"]
+level: "专业"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["delusion", "psychosis", "reality-testing", "paranoid-personality-disorder"]
+pubDate: 2026-06-07
+tags: ["妄想", "精神病性障碍", "现实检验"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "NIMH: Schizophrenia"
+    url: "https://www.nimh.nih.gov/health/topics/schizophrenia"
+  - label: "WHO: ICD-11 Browser"
+    url: "https://icd.who.int/browse/2025-01/mms/en"
+---
+
+以持续妄想为核心，而其他精神病性症状和功能受损程度相对有限的诊断概念。
+
+## 概念边界
+
+妄想性障碍不同于强烈观点、阴谋兴趣或偏执型人格模式。关键在于信念固定性、现实检验、证据不可修正性和病程。
+
+## 为什么重要
+
+它帮助读者避免把所有怀疑都叫妄想，也避免在真正现实检验受损时仅用人格解释。
+
+## 常见表现
+
+- 持续坚信被害、被爱、身体异常、嫉妒或特殊身份等内容。
+- 对反证缺乏可修正性。
+- 除妄想相关领域外，部分生活功能可能相对保留。
+
+## 容易混淆
+
+- 不等于普通怀疑。
+- 不等于偏执型人格障碍。
+- 不等于信念内容听起来奇怪就一定是妄想。
+
+## 在人格动力中的作用
+
+妄想可能在心理上提供确定性和意义，但临床上首先要守住现实检验、风险和医学评估。
+
+## 自我观察
+
+- 这个信念能否被新证据修正？
+- 它是否明显影响关系和生活？
+- 我是否需要让专业人员帮助评估现实检验？

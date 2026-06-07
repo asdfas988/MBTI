@@ -1,0 +1,51 @@
+---
+title: "哀伤"
+description: "面对丧失时出现的情绪、身体、认知和关系反应，包括悲痛、想念、愤怒、空洞和意义重建。"
+plainDefinition: "重要的东西失去了，心理需要时间重新学习如何生活。"
+group: "人格心理学"
+english: "Grief"
+aliases: []
+domains: ["人格心理学", "丧失与哀悼"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["mourning-and-melancholia", "decathexis", "love", "depression"]
+pubDate: 2026-06-07
+tags: ["哀伤", "丧失", "哀悼"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy"
+---
+
+面对丧失时出现的情绪、身体、认知和关系反应，包括悲痛、想念、愤怒、空洞和意义重建。
+
+## 概念边界
+
+哀伤不是抑郁的同义词，也没有唯一正确阶段。它可以波动、反复，并与文化和关系意义有关。
+
+## 为什么重要
+
+哀伤是人格动力中的核心主题：人如何失去、如何保留内在对象、如何重新投注生活。
+
+## 常见表现
+
+- 悲痛、想念、哭泣、愤怒、麻木或空洞。
+- 反复想起失去的人、关系、身份或可能性。
+- 逐渐在保留记忆的同时恢复生活。
+
+## 容易混淆
+
+- 不等于软弱。
+- 不等于必须尽快走出来。
+- 不等于所有低落都是病理抑郁。
+
+## 在人格动力中的作用
+
+哀伤让投注从失去对象中重新组织。若哀悼受阻，可能转为忧郁、自责或重复抓取。
+
+## 自我观察
+
+- 我失去的具体是什么：人、关系、身份还是未来？
+- 我允许自己以什么方式哀悼？
+- 我如何在不背叛记忆的情况下重新生活？

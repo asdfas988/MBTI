@@ -1,0 +1,51 @@
+---
+title: "隔离分区"
+description: "把相互冲突的信念、情感、身份或行为分隔在不同心理区域中，使它们暂时不发生冲突。"
+plainDefinition: "我把矛盾的自己放进不同抽屉里，暂时不让它们碰面。"
+group: "防御机制"
+english: "Compartmentalization"
+aliases: []
+domains: ["防御机制", "人格结构"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["dissociation", "splitting", "identity-disturbance", "self-concept"]
+pubDate: 2026-06-07
+tags: ["防御", "矛盾", "整合"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA Dictionary: psychoanalysis"
+    url: "https://dictionary.apa.org/psychoanalysis"
+---
+
+把相互冲突的信念、情感、身份或行为分隔在不同心理区域中，使它们暂时不发生冲突。
+
+## 概念边界
+
+隔离分区不同于健康的角色切换。问题在于矛盾部分长期不能整合，甚至让人对自己的行为、价值和关系保持选择性失明。
+
+## 为什么重要
+
+它解释了为什么一个人在不同场景中可以像完全不同的人，却很少真正感到内部冲突。
+
+## 常见表现
+
+- 工作、亲密、网络或家庭中的自我像彼此隔开。
+- 某些行为和价值明显冲突，却很少被同时想起。
+- 被他人指出矛盾时感到困惑、防御或否认。
+
+## 容易混淆
+
+- 不等于多面性。
+- 不等于社交角色灵活。
+- 不等于解离障碍诊断。
+
+## 在人格动力中的作用
+
+隔离分区保护人不被冲突淹没，但也阻碍身份整合、责任承担和关系中的真实一致性。
+
+## 自我观察
+
+- 我的哪些部分从不在同一时间出现？
+- 我是否用场景切换避免面对矛盾？
+- 我能否允许不同自我开始对话？
