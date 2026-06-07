@@ -1,0 +1,51 @@
+---
+title: "退缩"
+description: "从关系、情境、情绪或现实参与中撤离，以降低压力、冲突或受伤风险。"
+plainDefinition: "我离开、沉默或缩回自己，以便不再被外界触碰。"
+group: "防御机制"
+english: "Withdrawal"
+aliases: []
+domains: ["防御机制", "关系模式"]
+level: "基础"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["avoidance-coping", "detachment", "schizoid-personality-disorder", "decathexis"]
+pubDate: 2026-06-07
+tags: ["防御", "退离", "关系"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA Dictionary: psychoanalysis"
+    url: "https://dictionary.apa.org/psychoanalysis"
+---
+
+从关系、情境、情绪或现实参与中撤离，以降低压力、冲突或受伤风险。
+
+## 概念边界
+
+退缩可以是必要的自我保护，也可以成为长期回避。关键看它是否帮助恢复，还是让生活和关系越来越窄。
+
+## 为什么重要
+
+退缩是很多内向、创伤、羞耻和人格防御中常见的共同动作。理解它能避免简单责备“你怎么又不说话”。
+
+## 常见表现
+
+- 冲突中沉默、离开、断联或躲进内心世界。
+- 压力大时减少社交、工作参与或身体活动。
+- 短期感觉安全，长期更孤立。
+
+## 容易混淆
+
+- 不等于休息。
+- 不等于内向。
+- 不等于所有退缩都应该被拉出来。
+
+## 在人格动力中的作用
+
+退缩通过降低外部刺激保护自体，但也可能阻止修复、现实检验和新的关系经验。
+
+## 自我观察
+
+- 我退缩后是恢复了，还是更孤立？
+- 我真正想避免的是冲突、羞耻还是依赖？
+- 我能否用一句话保持连接，而不是完全消失？

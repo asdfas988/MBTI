@@ -1,0 +1,51 @@
+---
+title: "强迫性人格特质维度"
+description: "ICD-11 人格特质维度之一，强调过度控制、完美主义、僵硬和对错误的高度担忧。"
+plainDefinition: "人通过规则、秩序和控制来获得安全，但也可能失去弹性。"
+group: "人格结构"
+english: "Anankastia"
+aliases: []
+domains: ["人格结构", "人格障碍维度"]
+level: "专业"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["obsessive-compulsive-personality-disorder", "perfectionism", "conscientiousness", "personality-functioning"]
+pubDate: 2026-06-07
+tags: ["ICD-11", "人格维度", "完美主义"]
+sourceRefs:
+  - label: "WHO: ICD-11 Browser"
+    url: "https://icd.who.int/browse/2025-01/mms/en"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+ICD-11 人格特质维度之一，强调过度控制、完美主义、僵硬和对错误的高度担忧。
+
+## 概念边界
+
+Anankastia 是人格特质维度，不等于强迫症，也不等于认真负责。它关注控制和僵硬是否成为长期功能问题。
+
+## 为什么重要
+
+维度语言比标签更细腻：同样是认真，有人是自律，有人是被错误恐惧驱动。
+
+## 常见表现
+
+- 过度计划、检查、排序或追求正确。
+- 难以容忍模糊、变化和他人的不同做法。
+- 因为标准过高而拖延、疲惫或关系紧张。
+
+## 容易混淆
+
+- 不等于 OCD。
+- 不等于所有高尽责性都有问题。
+- 不等于只要放松就能解决。
+
+## 在人格动力中的作用
+
+强迫性维度常通过控制外部秩序来管理内在混乱、攻击性、羞耻或不确定感。
+
+## 自我观察
+
+- 我的规则是在服务生活，还是生活在服务规则？
+- 我对错误的恐惧来自现实后果还是内在惩罚？
+- 我能否练习足够好，而不是绝对正确？

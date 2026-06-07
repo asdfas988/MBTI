@@ -1,0 +1,51 @@
+---
+title: "反思功能"
+description: "理解自己和他人行为背后心理状态的能力，包括感受、愿望、信念、意图和误解。"
+plainDefinition: "我能想到：行为背后有心理状态，而我对它的理解可能会错。"
+group: "人格结构"
+english: "Reflective Functioning"
+aliases: []
+domains: ["人格结构", "心理化"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["mentalization", "empathy", "attachment", "reality-testing"]
+pubDate: 2026-06-07
+tags: ["心理化", "反思", "关系"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "PMC: mentalization and reflective functioning"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7033252/"
+---
+
+理解自己和他人行为背后心理状态的能力，包括感受、愿望、信念、意图和误解。
+
+## 概念边界
+
+反思功能不是读心术，也不是永远正确解释别人。它强调对心理状态的好奇、暂时性和可修正性。
+
+## 为什么重要
+
+它是人格发展和治疗中的核心能力：冲突不再只有“你害我”，而能变成“我们各自在想什么、怕什么”。
+
+## 常见表现
+
+- 能把行为和感受、信念、愿望联系起来。
+- 能承认自己可能误解他人。
+- 情绪强烈时仍保留一点好奇。
+
+## 容易混淆
+
+- 不等于过度分析。
+- 不等于替伤害行为找借口。
+- 不等于忽视现实证据。
+
+## 在人格动力中的作用
+
+反思功能越强，行动化和投射越容易转化为语言与理解；越弱，关系越容易陷入误读和冲动。
+
+## 自我观察
+
+- 我现在是在确定对方恶意，还是在推测一种可能？
+- 我的行为背后有什么感受和愿望？
+- 我能否同时理解心理动因和现实责任？
