@@ -1,0 +1,84 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { contentPrinciples, referenceSites } from "@/data/patterns";
+---
+
+<BaseLayout title="内容方法与参考站点" description="列出与内在剧场相近的中文和英文内容站，以及本站借鉴的内容结构与排版方法。">
+  <main class="container references-page">
+    <p class="eyebrow">Reference Study</p>
+    <h1>内容方法与参考站点</h1>
+    <p class="lead">这些站点并不是要被复制，而是帮助我们看见成熟心理学内容站通常怎样组织入口、解释概念、设计长文阅读和处理可信度边界。</p>
+
+    <section class="reference-list">
+      {referenceSites.map((site) => (
+        <article class="card card-pad">
+          <a href={site.url}>{site.name}</a>
+          <p>{site.pattern}</p>
+        </article>
+      ))}
+    </section>
+
+    <section class="principles card card-pad">
+      <h2>本站采用的优化原则</h2>
+      <ol>
+        {contentPrinciples.map((principle) => <li>{principle}</li>)}
+      </ol>
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  .references-page {
+    padding: 58px 0;
+  }
+
+  h1 {
+    margin: 10px 0;
+    font-size: clamp(2.3rem, 5vw, 5rem);
+    line-height: 1.06;
+  }
+
+  .lead {
+    max-width: 760px;
+    color: var(--muted);
+    line-height: 1.85;
+  }
+
+  .reference-list {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+    margin-top: 30px;
+  }
+
+  .reference-list a {
+    color: var(--wine);
+    font-size: 1.15rem;
+    font-weight: 900;
+  }
+
+  .reference-list p {
+    color: var(--muted);
+    line-height: 1.75;
+  }
+
+  .principles {
+    margin-top: 28px;
+  }
+
+  .principles h2 {
+    margin: 0 0 12px;
+  }
+
+  .principles ol {
+    margin: 0;
+    color: var(--muted);
+    line-height: 1.85;
+  }
+
+  @media (max-width: 900px) {
+    .reference-list {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

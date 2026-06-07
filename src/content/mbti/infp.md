@@ -3,6 +3,17 @@ title: "INFP"
 description: "理想、敏感与内在价值感的心理动力。"
 typeCode: "INFP"
 functions: ["Fi", "Ne", "Si", "Te"]
+coreNeed: "真实感与价值一致"
+stressPoint: "关系失真、被误解、外部效率要求"
+defenses: ["理想化", "退缩", "理智化", "沉默抗议"]
+typeSays: "这个类型重视理想、内在价值、独处和意义感。"
+dynamicQuestion: "这些理想在保护什么？当现实不符合想象时，自我会如何防御？"
+cycle:
+  - "被某种精神共鸣吸引"
+  - "在心里迅速完成理想化想象"
+  - "现实细节让期待受挫"
+  - "通过退缩或沉默重新获得安全感"
+  - "在更诚实的表达里修复关系"
 pubDate: 2026-06-07
 category: "MBTI 类型"
 tags: ["INFP", "MBTI", "精神动力学"]

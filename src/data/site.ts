@@ -11,5 +11,7 @@ export const navigation = [
   { label: "MBTI", href: "/mbti/" },
   { label: "概念词典", href: "/concepts/" },
   { label: "专题", href: "/topics/" },
+  { label: "阅读路径", href: "/reading-paths/beginner/" },
+  { label: "内容方法", href: "/references/" },
   { label: "关于", href: "/about/" },
 ];

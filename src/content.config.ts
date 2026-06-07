@@ -38,6 +38,12 @@ const mbti = defineCollection({
   schema: baseEntry.extend({
     typeCode: z.string(),
     functions: z.array(z.string()),
+    coreNeed: z.string(),
+    stressPoint: z.string(),
+    defenses: z.array(z.string()),
+    typeSays: z.string(),
+    dynamicQuestion: z.string(),
+    cycle: z.array(z.string()),
   }),
 });
 

@@ -20,7 +20,24 @@ const articles = (await getCollection("articles")).slice(0, 3);
   pubDate={entry.data.pubDate}
   readingMinutes={10}
 >
+  <section class="topic-brief">
+    <h2>这个专题解决什么问题</h2>
+    <p>{entry.data.description}</p>
+    <div class="brief-grid">
+      <span>适合：刚开始接触精神分析的读者</span>
+      <span>目标：把概念带回真实关系场景</span>
+      <span>方法：定义、表现、例子、反思问题一起读</span>
+    </div>
+  </section>
   <Content />
+  <section class="reading-sequence">
+    <h2>建议阅读顺序</h2>
+    <div class="sequence-grid">
+      <div><span>01</span><strong>先建立定义</strong><p>理解这个专题最核心的概念，不急着套用到自己身上。</p></div>
+      <div><span>02</span><strong>再看关系表现</strong><p>观察它如何出现在亲密关系、工作关系和自我评价里。</p></div>
+      <div><span>03</span><strong>最后回到成长</strong><p>不是消灭某种反应，而是让自我拥有更多选择。</p></div>
+    </div>
+  </section>
   <section class="topic-map">
     <h2>专题结构</h2>
     <div class="map-grid">
@@ -52,6 +69,64 @@ const articles = (await getCollection("articles")).slice(0, 3);
     margin-top: 42px;
   }
 
+  .topic-brief,
+  .reading-sequence {
+    margin: 32px 0;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: rgba(255, 250, 241, 0.82);
+    padding: 22px;
+  }
+
+  .topic-brief p {
+    color: var(--muted);
+    line-height: 1.75;
+  }
+
+  .brief-grid,
+  .sequence-grid {
+    display: grid;
+    gap: 12px;
+  }
+
+  .brief-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    margin-top: 16px;
+  }
+
+  .brief-grid span {
+    border-radius: 6px;
+    background: rgba(220, 231, 227, 0.55);
+    padding: 12px;
+    color: var(--ink);
+    line-height: 1.55;
+  }
+
+  .sequence-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .sequence-grid div {
+    border-left: 3px solid var(--wine);
+    padding-left: 14px;
+  }
+
+  .sequence-grid span {
+    color: var(--wine);
+    font-weight: 900;
+  }
+
+  .sequence-grid strong {
+    display: block;
+    margin: 8px 0;
+  }
+
+  .sequence-grid p {
+    margin: 0;
+    color: var(--muted);
+    line-height: 1.65;
+  }
+
   .map-grid {
     display: flex;
     flex-wrap: wrap;
@@ -71,5 +146,12 @@ const articles = (await getCollection("articles")).slice(0, 3);
   .related-list {
     display: grid;
     gap: 16px;
+  }
+
+  @media (max-width: 760px) {
+    .brief-grid,
+    .sequence-grid {
+      grid-template-columns: 1fr;
+    }
   }
 </style>

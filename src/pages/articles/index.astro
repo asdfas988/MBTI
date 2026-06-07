@@ -6,6 +6,7 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 const articles = (await getCollection("articles")).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+const categories = [...new Set(articles.map((entry) => entry.data.category).filter(Boolean))];
 ---
 
 <BaseLayout title="全部文章" description="阅读 MBTI、精神分析、人格心理学和精神动力学相关文章。">
@@ -13,6 +14,17 @@ const articles = (await getCollection("articles")).sort(
     <p class="eyebrow">Articles</p>
     <h1>全部文章</h1>
     <p class="lead">这里不是把心理学概念堆成资料库，而是把它们带回人的性格、关系和内在冲突里。</p>
+    <div class="category-row" aria-label="文章分类">
+      <span class="pill">全部</span>
+      {categories.map((category) => <span class="pill">{category}</span>)}
+    </div>
+    <section class="editor-note card card-pad">
+      <div>
+        <strong>编辑阅读建议</strong>
+        <p>如果你是第一次来，先读 MBTI 与精神动力学，再读防御机制，最后回到关系模式。这样的顺序比随机刷文章更容易形成理解。</p>
+      </div>
+      <a class="button secondary" href="/reading-paths/beginner/">查看新手路径</a>
+    </section>
     <div class="grid grid-3">
       {articles.map((entry) => (
         <ArticleCard
@@ -40,8 +52,37 @@ const articles = (await getCollection("articles")).sort(
 
   .lead {
     max-width: 680px;
-    margin-bottom: 28px;
+    margin-bottom: 18px;
     color: var(--muted);
     line-height: 1.85;
+  }
+
+  .category-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 22px;
+  }
+
+  .editor-note {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 22px;
+    margin-bottom: 26px;
+    background: rgba(220, 231, 227, 0.5);
+  }
+
+  .editor-note p {
+    margin: 8px 0 0;
+    color: var(--muted);
+    line-height: 1.7;
+  }
+
+  @media (max-width: 760px) {
+    .editor-note {
+      align-items: start;
+      flex-direction: column;
+    }
   }
 </style>

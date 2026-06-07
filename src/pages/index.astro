@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import ArticleCard from "@/components/ArticleCard.astro";
 import TopicCard from "@/components/TopicCard.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
+import { contentPrinciples, referenceSites } from "@/data/patterns";
 
 const articles = (await getCollection("articles")).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
@@ -10,6 +11,13 @@ const articles = (await getCollection("articles")).sort(
 const concepts = await getCollection("concepts");
 const topics = await getCollection("topics");
 const types = await getCollection("mbti");
+
+const readerQuestions = [
+  { question: "我是哪一种人？", answer: "从 MBTI 类型与认知功能进入，但继续追问价值感和成熟度。", href: "/mbti/" },
+  { question: "我为什么总在关系里重复？", answer: "从依恋、移情和重复强迫理解熟悉感背后的旧剧本。", href: "/topics/attachment-relationships/" },
+  { question: "我为什么会反应过度？", answer: "从投射、防御机制和羞耻感区分现实刺激与内在被激活的部分。", href: "/concepts/projection/" },
+  { question: "我该从哪里开始读？", answer: "用新手路径把类型、概念、关系和人格结构串起来。", href: "/reading-paths/beginner/" },
+];
 ---
 
 <BaseLayout>
@@ -20,7 +28,7 @@ const types = await getCollection("mbti");
           <p class="eyebrow">MBTI · 精神分析 · 人格心理学 · 精神动力学</p>
           <h1>理解人格，不止知道自己是哪一种类型</h1>
           <p>
-            这里用 MBTI 作为入口，用精神分析和人格心理学深入理解人的防御、关系模式、内在冲突与成长可能。
+            这里用 MBTI 作为入口，用精神分析和人格心理学深入理解人的防御、关系模式、内在冲突与成长可能。你可以从一个类型、一段关系、一个概念，进入同一张人格地图。
           </p>
           <div class="hero-actions">
             <a class="button" href="/reading-paths/beginner/">开始阅读路径</a>
@@ -41,6 +49,26 @@ const types = await getCollection("mbti");
         <TopicCard title="精神分析入门" description="用普通人能读懂的方式解释本我、自我、防御和移情。" href="/articles/" label="我想理解心理动力" />
         <TopicCard title="心理概念词典" description="查询投射、压抑、重复强迫、客体关系等核心概念。" href="/concepts/" label="我想查一个词" />
         <TopicCard title="关系与依恋" description="理解亲密关系里的靠近、退缩、控制与害怕。" href="/topics/attachment-relationships/" label="我想理解关系" />
+      </div>
+    </section>
+
+    <section class="section question-section">
+      <div class="container">
+        <div class="section-header">
+          <div>
+            <p class="eyebrow">按问题进入</p>
+            <h2>先从你的困惑，而不是学科目录开始</h2>
+          </div>
+          <p>同类优秀内容站通常会把抽象理论翻译成读者真实会问的问题。这里也一样：先找到你卡住的地方，再进入概念。</p>
+        </div>
+        <div class="question-grid">
+          {readerQuestions.map((item) => (
+            <a class="question-card card card-pad" href={item.href}>
+              <strong>{item.question}</strong>
+              <span>{item.answer}</span>
+            </a>
+          ))}
+        </div>
       </div>
     </section>
 
@@ -83,6 +111,21 @@ const types = await getCollection("mbti");
       </div>
     </section>
 
+    <section class="section map-section">
+      <div class="container map-grid">
+        <div>
+          <p class="eyebrow">内容地图</p>
+          <h2>MBTI 是入口，心理动力是纵深</h2>
+          <p>参考 16Personalities 的类型入口、Personality Junkie 的功能深描、Verywell Mind 的可信长文结构，我们把内容组织成四层：类型、概念、关系、专题。</p>
+        </div>
+        <div class="map-panel card">
+          {["类型标签", "认知功能", "防御机制", "关系剧本", "人格结构", "成长课题"].map((label, index) => (
+            <span class={`map-node node-${index}`}>{label}</span>
+          ))}
+        </div>
+      </div>
+    </section>
+
     <section class="section">
       <div class="container">
         <div class="section-header">
@@ -117,6 +160,36 @@ const types = await getCollection("mbti");
               <span>{entry.data.plainDefinition}</span>
             </a>
           ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="section reference-section">
+      <div class="container">
+        <div class="section-header">
+          <div>
+            <p class="eyebrow">内容方法</p>
+            <h2>我们借鉴什么，也避开什么</h2>
+          </div>
+        </div>
+        <div class="reference-grid">
+          <div class="card card-pad">
+            <h3>参考过的内容站</h3>
+            <ul>
+              {referenceSites.slice(0, 4).map((site) => (
+                <li>
+                  <a href={site.url}>{site.name}</a>
+                  <span>{site.pattern}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div class="card card-pad">
+            <h3>本站采用的写作原则</h3>
+            <ol>
+              {contentPrinciples.map((principle) => <li>{principle}</li>)}
+            </ol>
+          </div>
         </div>
       </div>
     </section>
@@ -192,6 +265,37 @@ const types = await getCollection("mbti");
     border-block: 1px solid var(--line);
   }
 
+  .question-section {
+    padding-top: 26px;
+  }
+
+  .question-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 16px;
+  }
+
+  .question-card {
+    min-height: 190px;
+  }
+
+  .question-card strong,
+  .question-card span {
+    display: block;
+  }
+
+  .question-card strong {
+    color: var(--wine);
+    font-size: 1.2rem;
+    line-height: 1.35;
+  }
+
+  .question-card span {
+    margin-top: 14px;
+    color: var(--muted);
+    line-height: 1.75;
+  }
+
   .reading-grid {
     display: grid;
     grid-template-columns: 0.95fr 1.05fr;
@@ -238,6 +342,89 @@ const types = await getCollection("mbti");
     padding-bottom: 28px;
   }
 
+  .map-section {
+    border-block: 1px solid var(--line);
+    background: rgba(255, 250, 241, 0.5);
+  }
+
+  .map-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 0.8fr) minmax(360px, 1.2fr);
+    gap: 34px;
+    align-items: center;
+  }
+
+  .map-grid h2 {
+    margin: 10px 0;
+    font-size: clamp(1.8rem, 3vw, 3rem);
+    line-height: 1.16;
+  }
+
+  .map-grid p {
+    color: var(--muted);
+    line-height: 1.85;
+  }
+
+  .map-panel {
+    position: relative;
+    min-height: 340px;
+    overflow: hidden;
+    background:
+      radial-gradient(circle at center, rgba(185, 155, 95, 0.2), transparent 28%),
+      rgba(255, 250, 241, 0.8);
+  }
+
+  .map-panel::before {
+    content: "";
+    position: absolute;
+    inset: 48px;
+    border: 1px dashed rgba(37, 67, 58, 0.28);
+    border-radius: 50%;
+  }
+
+  .map-node {
+    position: absolute;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--paper);
+    padding: 10px 14px;
+    color: var(--ink);
+    font-weight: 800;
+    box-shadow: 0 8px 22px rgba(37, 67, 58, 0.08);
+  }
+
+  .node-0 {
+    left: 8%;
+    top: 18%;
+  }
+
+  .node-1 {
+    left: 38%;
+    top: 8%;
+  }
+
+  .node-2 {
+    right: 8%;
+    top: 28%;
+  }
+
+  .node-3 {
+    left: 14%;
+    bottom: 26%;
+  }
+
+  .node-4 {
+    left: 42%;
+    bottom: 12%;
+  }
+
+  .node-5 {
+    right: 10%;
+    bottom: 28%;
+    background: var(--wine);
+    color: var(--paper);
+  }
+
   .concept-row {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -256,6 +443,43 @@ const types = await getCollection("mbti");
     display: block;
   }
 
+  .reference-section {
+    padding-top: 28px;
+  }
+
+  .reference-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+  }
+
+  .reference-grid h3 {
+    margin: 0 0 14px;
+    font-size: 1.2rem;
+  }
+
+  .reference-grid ul,
+  .reference-grid ol {
+    margin: 0;
+    padding-left: 1.15em;
+    color: var(--muted);
+    line-height: 1.75;
+  }
+
+  .reference-grid li {
+    margin: 10px 0;
+  }
+
+  .reference-grid a {
+    display: block;
+    color: var(--wine);
+    font-weight: 800;
+  }
+
+  .reference-grid span {
+    display: block;
+  }
+
   .concept-chip span {
     margin-top: 8px;
     color: var(--muted);
@@ -265,7 +489,10 @@ const types = await getCollection("mbti");
   @media (max-width: 900px) {
     .hero-grid,
     .reading-grid,
-    .concept-row {
+    .concept-row,
+    .question-grid,
+    .map-grid,
+    .reference-grid {
       grid-template-columns: 1fr;
     }
 

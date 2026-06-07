@@ -3,6 +3,17 @@ title: "INTJ"
 description: "结构、预见与控制感背后的心理动力。"
 typeCode: "INTJ"
 functions: ["Ni", "Te", "Fi", "Se"]
+coreNeed: "可预见的结构与自主掌控"
+stressPoint: "计划被打断、能力被质疑、情绪失控"
+defenses: ["隔离情感", "控制", "理智化", "提前撤离"]
+typeSays: "这个类型重视战略、效率、长期规划和独立判断。"
+dynamicQuestion: "控制感在保护什么？当不可预测性出现时，自我如何处理脆弱和依赖？"
+cycle:
+  - "先在内心建立长期模型"
+  - "用结构和计划降低不确定性"
+  - "现实变化打乱预期"
+  - "通过控制、冷处理或重新规划恢复稳定"
+  - "学习把情感经验纳入判断"
 pubDate: 2026-06-05
 category: "MBTI 类型"
 tags: ["INTJ", "MBTI", "人格结构"]

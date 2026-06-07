@@ -23,6 +23,10 @@ const { title, description, category, pubDate, readingMinutes } = Astro.props;
           {pubDate && <time datetime={pubDate.toISOString()}>{pubDate.toLocaleDateString("zh-CN")}</time>}
           {readingMinutes && <span>约 {readingMinutes} 分钟阅读</span>}
         </div>
+        <div class="takeaway card">
+          <strong>本文先给一个判断</strong>
+          <p>{description}</p>
+        </div>
       </div>
       <div class="paper-figure" aria-hidden="true">
         <svg class="diagram-lines" viewBox="0 0 160 120" role="img">
@@ -34,14 +38,26 @@ const { title, description, category, pubDate, readingMinutes } = Astro.props;
       </div>
     </section>
     <section class="container content-grid">
-      <article class="prose article-body">
+      <article id="article-start" class="prose article-body">
         <slot />
       </article>
       <aside class="toc card card-pad" aria-label="延伸阅读">
-        <strong>相关概念</strong>
-        <a href="/concepts/projection/">投射</a>
-        <a href="/concepts/transference/">移情</a>
-        <a href="/concepts/repetition-compulsion/">重复强迫</a>
+        <div class="side-block">
+          <strong>阅读辅助</strong>
+          <a href="#article-start">正文开始</a>
+          <a href="/reading-paths/beginner/">新手路径</a>
+          <a href="/concepts/">概念词典</a>
+        </div>
+        <div class="side-block">
+          <strong>相关概念</strong>
+          <a href="/concepts/projection/">投射</a>
+          <a href="/concepts/transference/">移情</a>
+          <a href="/concepts/repetition-compulsion/">重复强迫</a>
+        </div>
+        <div class="reflection-box">
+          <strong>自我观察</strong>
+          <p>我现在的反应，是来自眼前这个人，还是来自某个熟悉的旧关系场景？</p>
+        </div>
         <div class="site-disclaimer">
           本文用于心理学学习与自我理解，不用于临床诊断或治疗。
         </div>
@@ -84,6 +100,23 @@ const { title, description, category, pubDate, readingMinutes } = Astro.props;
     font-size: 0.92rem;
   }
 
+  .takeaway {
+    max-width: 720px;
+    margin-top: 24px;
+    padding: 18px 20px;
+    background: rgba(220, 231, 227, 0.55);
+  }
+
+  .takeaway strong {
+    color: var(--wine);
+  }
+
+  .takeaway p {
+    margin: 8px 0 0;
+    color: var(--muted);
+    line-height: 1.75;
+  }
+
   .content-grid {
     display: grid;
     grid-template-columns: minmax(0, 760px) 270px;
@@ -102,6 +135,12 @@ const { title, description, category, pubDate, readingMinutes } = Astro.props;
     top: 96px;
   }
 
+  .side-block {
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 18px;
+    margin-bottom: 18px;
+  }
+
   .toc strong,
   .toc a {
     display: block;
@@ -111,6 +150,19 @@ const { title, description, category, pubDate, readingMinutes } = Astro.props;
     margin-top: 12px;
     color: var(--wine);
     font-weight: 700;
+  }
+
+  .reflection-box {
+    border-radius: 8px;
+    background: rgba(110, 47, 68, 0.08);
+    padding: 14px;
+  }
+
+  .reflection-box p {
+    margin: 8px 0 0;
+    color: var(--muted);
+    font-size: 0.94rem;
+    line-height: 1.7;
   }
 
   @media (max-width: 920px) {
