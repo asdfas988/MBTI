@@ -4,5 +4,6 @@ dist/
 .npm-cache/
 .dev-server.*.log
 .dev-server.pid
+.wrangler-login.*.log
 .env
 .env.local
