@@ -1,0 +1,52 @@
+---
+title: "躁狂性防御"
+description: "躁狂性防御是客体关系理论中的概念，指个体用高涨、否认、控制和贬低来抵御抑郁位置中的痛苦情感。"
+plainDefinition: "用兴奋、轻蔑、全能或忙碌来防御悲伤、依赖、内疚和丧失感。"
+group: "防御机制"
+english: "Manic Defense"
+aliases: ["躁狂防御"]
+domains: ["客体关系", "防御机制"]
+level: "高级"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["denial", "omnipotent-control", "devaluation", "depressive-position"]
+pubDate: 2026-06-08
+tags: ["躁狂性防御", "丧失", "防御"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "American Psychoanalytic Association: About Psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
+---
+
+躁狂性防御是客体关系理论中的概念，指个体用高涨、否认、控制和贬低来抵御抑郁位置中的痛苦情感。
+
+## 概念边界
+
+它不是躁狂发作诊断。躁狂性防御是一种心理防御方式，可在非双相障碍人群中出现。
+
+## 为什么重要
+
+它帮助理解为什么有些人在失去、愧疚或脆弱后反而变得亢奋、轻蔑和停不下来。
+
+## 常见表现
+
+- 用忙碌和兴奋回避悲伤
+- 轻蔑失去的人或关系
+- 表现出全能、无所谓或不可伤害
+- 难以停下来感受内疚和依恋
+
+## 容易混淆
+
+- 不等于双相躁狂
+- 不等于真正快乐
+- 不等于积极乐观
+
+## 在人格动力中的作用
+
+躁狂性防御试图否认依赖和丧失，把“我需要你”转成“我根本不在乎”。
+
+## 自我观察
+
+- 我的兴奋是否在遮住悲伤？
+- 我贬低的人或事是否其实很重要？
+- 如果停下来，我会遇到什么感受？

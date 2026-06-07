@@ -1,0 +1,52 @@
+---
+title: "原初场景"
+description: "原初场景是精神分析概念，指儿童对父母亲密或性关系的观察、想象和解释，以及由此引发的好奇、嫉妒、兴奋和焦虑。"
+plainDefinition: "儿童对父母性关系或亲密排除场景的真实、想象或幻想性表征。"
+group: "精神动力学"
+english: "Primal Scene"
+aliases: ["原场景"]
+domains: ["精神分析", "发展心理"]
+level: "高级"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["oedipus-complex", "castration-anxiety", "sexualization-defense", "triangulation"]
+pubDate: 2026-06-08
+tags: ["原初场景", "性心理发展", "幻想"]
+sourceRefs:
+  - label: "American Psychoanalytic Association: About Psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+原初场景是精神分析概念，指儿童对父母亲密或性关系的观察、想象和解释，以及由此引发的好奇、嫉妒、兴奋和焦虑。
+
+## 概念边界
+
+它不一定来自真实看到的场景，也可能是儿童对亲密、排除和来源问题的幻想性组织。
+
+## 为什么重要
+
+这个概念帮助理解性好奇、排除感、嫉妒和亲密关系中的第三者焦虑。
+
+## 常见表现
+
+- 对父母亲密关系强烈好奇或不安
+- 在亲密关系中难以承受被排除
+- 性和攻击、羞耻、竞争交织
+- 幻想中反复出现观看、闯入或被排除
+
+## 容易混淆
+
+- 不等于一定发生真实事件
+- 不等于儿童性化就是成人性
+- 不等于可以脱离文化和发展阶段解释
+
+## 在人格动力中的作用
+
+原初场景组织了主体如何理解欲望、第三者和亲密边界，也影响后来的嫉妒和三角关系。
+
+## 自我观察
+
+- 我如何体验亲密关系里的第三者？
+- 被排除会激活什么羞耻或愤怒？
+- 我对亲密和性的早期理解来自哪里？

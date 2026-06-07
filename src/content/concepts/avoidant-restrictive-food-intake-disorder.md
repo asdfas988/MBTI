@@ -1,0 +1,52 @@
+---
+title: "回避/限制性摄食障碍"
+description: "回避/限制性摄食障碍指个体因食物兴趣低、感官敏感或害怕不良后果而摄食不足，导致营养、体重或社会功能受损。"
+plainDefinition: "因为感官、恐惧或兴趣低等原因摄食不足，但核心并不是追求体重或体型。"
+group: "精神病学基础"
+english: "Avoidant/Restrictive Food Intake Disorder"
+aliases: ["ARFID"]
+domains: ["精神病学基础", "进食障碍"]
+level: "专业"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["eating-disorder", "anorexia-nervosa", "anxiety", "functional-impairment"]
+pubDate: 2026-06-08
+tags: ["进食障碍", "ARFID", "营养"]
+sourceRefs:
+  - label: "NIMH: Eating Disorders"
+    url: "https://www.nimh.nih.gov/health/topics/eating-disorders"
+  - label: "WHO ICD-11 Browser"
+    url: "https://icd.who.int/browse/2025-01/mms/en"
+---
+
+回避/限制性摄食障碍指个体因食物兴趣低、感官敏感或害怕不良后果而摄食不足，导致营养、体重或社会功能受损。
+
+## 概念边界
+
+它不同于神经性厌食症，核心通常不是体重体型扭曲或追求瘦，而是摄食本身的回避或限制。
+
+## 为什么重要
+
+这个概念能避免把所有少吃都归为减肥或挑食，也提醒评估营养和发展影响。
+
+## 常见表现
+
+- 食物种类极度有限
+- 因味道、质地、气味或呛噎恐惧而回避
+- 体重、营养或生长受影响
+- 聚餐、旅行或家庭关系显著受限
+
+## 容易混淆
+
+- 不等于普通挑食
+- 不等于一定在追求瘦
+- 不等于只靠劝吃就能解决
+
+## 在人格动力中的作用
+
+摄食回避可能与焦虑、控制感、感觉敏感或早期进食经验相关，但治疗需要同时关注营养、安全和心理功能。
+
+## 自我观察
+
+- 我回避食物主要因为体型，还是感官/恐惧/兴趣？
+- 营养和生活范围是否受影响？
+- 是否需要营养、医学和心理多方面评估？

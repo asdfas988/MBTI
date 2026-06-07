@@ -1,0 +1,52 @@
+---
+title: "身体意象障碍"
+description: "身体意象障碍指个体对身体外观、体重、形状或缺陷的感知和评价显著偏离现实并造成痛苦或功能损害。"
+plainDefinition: "对自己身体大小、形状或缺陷的体验明显失真，并引发痛苦或行为控制。"
+group: "精神病学基础"
+english: "Body Image Disturbance"
+aliases: ["身体形象困扰"]
+domains: ["进食障碍", "人格心理学"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["anorexia-nervosa", "body-dysmorphic-disorder", "shame", "self-esteem-regulation"]
+pubDate: 2026-06-08
+tags: ["身体意象", "进食障碍", "羞耻"]
+sourceRefs:
+  - label: "NIMH: Eating Disorders"
+    url: "https://www.nimh.nih.gov/health/topics/eating-disorders"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+身体意象障碍指个体对身体外观、体重、形状或缺陷的感知和评价显著偏离现实并造成痛苦或功能损害。
+
+## 概念边界
+
+对外貌不满意很常见，但当其持续支配自我价值、行为和社交功能时，就需要更认真评估。
+
+## 为什么重要
+
+身体意象是进食障碍和体象障碍的核心桥梁，也与羞耻、自尊和社会比较密切相关。
+
+## 常见表现
+
+- 反复检查、称重、照镜或回避镜子
+- 别人反馈无法缓解身体焦虑
+- 把体重或局部缺陷等同于自我价值
+- 因身体羞耻回避社交、亲密或工作学习
+
+## 容易混淆
+
+- 不等于单纯爱美
+- 不等于别人夸赞就能消失
+- 不等于只有低体重者才有
+
+## 在人格动力中的作用
+
+身体可能承载自我控制、羞耻和关系评价。对身体的攻击有时是在攻击无法被接纳的自我部分。
+
+## 自我观察
+
+- 我的身体评价是否决定了今天值不值得过？
+- 我是在照顾身体，还是惩罚身体？
+- 这种评价来自现实，还是来自羞耻和比较？

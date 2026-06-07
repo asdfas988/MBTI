@@ -1,0 +1,52 @@
+---
+title: "性格防御"
+description: "性格防御指防御机制长期嵌入人格风格和关系方式，成为个体稳定的自我呈现与适应模式。"
+plainDefinition: "防御长期固化为性格风格，让人以为“我就是这样”。"
+group: "防御机制"
+english: "Character Defense"
+aliases: ["人格化防御"]
+domains: ["精神动力学", "防御机制"]
+level: "高级"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["defense-mechanism", "personality-organization", "ego-syntonic", "maladaptive-trait"]
+pubDate: 2026-06-08
+tags: ["性格防御", "人格结构", "防御"]
+sourceRefs:
+  - label: "American Psychoanalytic Association: About Psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+性格防御指防御机制长期嵌入人格风格和关系方式，成为个体稳定的自我呈现与适应模式。
+
+## 概念边界
+
+它不同于一次性的防御反应。性格防御更稳定、更自我协调，因此本人常不觉得它是问题。
+
+## 为什么重要
+
+很多人格困境不是某次情绪失控，而是长期用同一种防御生活，导致关系和自我发展受限。
+
+## 常见表现
+
+- 总用同一风格处理亲密和冲突
+- 别人反复感到类似困难
+- 本人把防御体验为身份特征
+- 改变时会出现强烈焦虑或空虚
+
+## 容易混淆
+
+- 不等于坏性格
+- 不等于不可改变
+- 不等于所有稳定特质都是防御
+
+## 在人格动力中的作用
+
+性格防御把早期适应写进人格。治疗需要先尊重其保护功能，再逐步发展更灵活的选择。
+
+## 自我观察
+
+- 我常说“我就是这样”的部分在保护什么？
+- 这种风格让我失去了哪些可能？
+- 我能否在安全关系中尝试一点不同？

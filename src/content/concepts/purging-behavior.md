@@ -1,0 +1,52 @@
+---
+title: "清除行为"
+description: "清除行为是进食障碍中的风险行为，常用于减轻进食后的焦虑、羞耻或体重恐惧，但可能造成严重身体后果。"
+plainDefinition: "为了抵消进食或控制体重而催吐、滥用泻药、利尿剂或过度运动。"
+group: "精神病学基础"
+english: "Purging Behavior"
+aliases: ["补偿行为"]
+domains: ["进食障碍", "精神病学基础"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["bulimia-nervosa", "binge-eating-episode", "body-image-disturbance", "risk-assessment"]
+pubDate: 2026-06-08
+tags: ["进食障碍", "清除行为", "身体风险"]
+sourceRefs:
+  - label: "NIMH: Eating Disorders"
+    url: "https://www.nimh.nih.gov/health/topics/eating-disorders"
+  - label: "WHO ICD-11 Browser"
+    url: "https://icd.who.int/browse/2025-01/mms/en"
+---
+
+清除行为是进食障碍中的风险行为，常用于减轻进食后的焦虑、羞耻或体重恐惧，但可能造成严重身体后果。
+
+## 概念边界
+
+清除行为不只包括催吐，也包括不安全的药物使用和强迫性补偿。单次出现也值得重视风险。
+
+## 为什么重要
+
+清除行为可能导致电解质紊乱、心律问题、牙齿和胃肠损害，不应仅被理解为意志力问题。
+
+## 常见表现
+
+- 餐后频繁去卫生间或催吐
+- 滥用泻药、利尿剂、减肥药
+- 过度运动以抵消进食
+- 强烈害怕体重增加和进食失控
+
+## 容易混淆
+
+- 不等于健康运动
+- 不等于只是爱美
+- 不等于体重正常就没有危险
+
+## 在人格动力中的作用
+
+清除行为常在羞耻、控制感和身体形象焦虑之间循环，短暂缓解会强化长期困境。
+
+## 自我观察
+
+- 我是否用危险方式抵消进食？
+- 清除后是更自由，还是更被循环困住？
+- 身体是否已经出现警讯？

@@ -1,0 +1,52 @@
+---
+title: "色情化移情"
+description: "色情化移情指来访者在治疗关系中体验到强烈爱恋、性化或诱惑性情感，通常与依恋、理想化、羞耻和边界议题交织。"
+plainDefinition: "治疗或重要关系中出现强烈性化、爱恋或诱惑性的移情体验。"
+group: "精神动力学"
+english: "Erotic Transference"
+aliases: ["性化移情"]
+domains: ["精神分析技术", "治疗伦理"]
+level: "高级"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["transference", "sexualization-defense", "therapeutic-boundary", "idealization"]
+pubDate: 2026-06-08
+tags: ["移情", "性化", "边界"]
+sourceRefs:
+  - label: "American Psychoanalytic Association: About Psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+色情化移情指来访者在治疗关系中体验到强烈爱恋、性化或诱惑性情感，通常与依恋、理想化、羞耻和边界议题交织。
+
+## 概念边界
+
+它不是治疗者可以回应或利用的感情。专业边界必须清晰，材料可以被理解，但不能被行动化。
+
+## 为什么重要
+
+色情化移情既可能带来羞耻和退治，也可能成为理解依恋、欲望和权力关系的重要入口。
+
+## 常见表现
+
+- 强烈幻想治疗者或权威对象爱上自己
+- 用诱惑、理想化或性化方式维持连接
+- 对边界、缺席或解释反应强烈
+- 伴随羞耻、嫉妒或被拒绝感
+
+## 容易混淆
+
+- 不等于真实恋爱关系
+- 不等于来访者有错
+- 不等于治疗者可以越界
+
+## 在人格动力中的作用
+
+性化可能把依恋需求、攻击、羞耻和自尊调节包装成欲望，使关系既靠近又保持防御。
+
+## 自我观察
+
+- 这份爱恋里包含哪些需要被看见的需求？
+- 性化是否让我避免说出脆弱或愤怒？
+- 边界让我感到安全还是羞辱？

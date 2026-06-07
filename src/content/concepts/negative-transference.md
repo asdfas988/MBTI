@@ -1,0 +1,52 @@
+---
+title: "负性移情"
+description: "负性移情指个体在当前关系中体验到源自早期重要关系的负向情感和期待，常在治疗关系中成为关键材料。"
+plainDefinition: "把愤怒、怀疑、失望、恐惧或敌意等旧关系情感带入当前关系。"
+group: "精神动力学"
+english: "Negative Transference"
+aliases: ["消极移情"]
+domains: ["精神分析", "治疗关系"]
+level: "进阶"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["transference", "paranoid-ideation", "countertransference", "rupture-and-repair"]
+pubDate: 2026-06-08
+tags: ["移情", "愤怒", "关系模式"]
+sourceRefs:
+  - label: "American Psychoanalytic Association: About Psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+负性移情指个体在当前关系中体验到源自早期重要关系的负向情感和期待，常在治疗关系中成为关键材料。
+
+## 概念边界
+
+负性移情不意味着对方一定无辜，也不意味着当事人“太敏感”。需要同时看现实互动和旧模式再现。
+
+## 为什么重要
+
+许多治疗卡点来自负性移情无法被说出来，只能以退缩、攻击或中断治疗表达。
+
+## 常见表现
+
+- 觉得对方一定会批评、利用或抛弃自己
+- 对中性回应感到受伤或被羞辱
+- 反复测试、质问或撤退
+- 难以把失望直接谈出来
+
+## 容易混淆
+
+- 不等于所有不满都是移情
+- 不等于治疗者不用负责
+- 不等于负面情绪就该压下去
+
+## 在人格动力中的作用
+
+负性移情常暴露早期关系中的伤害、敌意和被害焦虑。被理解和修通后，关系弹性会增加。
+
+## 自我观察
+
+- 我现在的愤怒是否比当前事件更大？
+- 这种感觉像过去谁带给我的？
+- 我能否在关系中表达而不是撤退或攻击？

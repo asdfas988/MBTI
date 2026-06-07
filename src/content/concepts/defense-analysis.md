@@ -1,0 +1,52 @@
+---
+title: "防御分析"
+description: "防御分析是精神分析技术之一，关注防御机制的形式、功能、触发情境和关系后果。"
+plainDefinition: "在治疗中识别、理解并逐步解释一个人如何用防御处理冲突和情绪。"
+group: "精神动力学"
+english: "Defense Analysis"
+aliases: ["分析防御"]
+domains: ["精神分析技术", "心理治疗"]
+level: "高级"
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["defense-mechanism", "resistance-analysis", "interpretation", "ego"]
+pubDate: 2026-06-08
+tags: ["防御分析", "防御机制", "治疗技术"]
+sourceRefs:
+  - label: "American Psychoanalytic Association: About Psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+---
+
+防御分析是精神分析技术之一，关注防御机制的形式、功能、触发情境和关系后果。
+
+## 概念边界
+
+防御分析不是揭穿或羞辱来访者，而是帮助其理解防御如何保护自己又造成代价。
+
+## 为什么重要
+
+如果只解释被防御挡住的内容，来访者可能更防御。先理解防御，治疗更安全。
+
+## 常见表现
+
+- 注意情绪出现前后的转移、理智化或否认
+- 询问防御在保护什么
+- 观察防御在治疗关系中的重复
+- 逐步连接防御和代价
+
+## 容易混淆
+
+- 不等于攻击防御
+- 不等于所有防御都要拆掉
+- 不等于一次解释就能改变
+
+## 在人格动力中的作用
+
+防御分析把症状理解为自我保护策略，让人格改变从增强自我功能而非剥夺保护开始。
+
+## 自我观察
+
+- 我现在用了什么方式避免感受？
+- 这个防御曾经如何保护我？
+- 它现在让我付出什么代价？
