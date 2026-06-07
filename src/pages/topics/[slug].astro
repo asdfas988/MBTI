@@ -1,0 +1,75 @@
+---
+import { getCollection, render } from "astro:content";
+import ArticleCard from "@/components/ArticleCard.astro";
+import ArticleLayout from "@/layouts/ArticleLayout.astro";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("topics");
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const articles = (await getCollection("articles")).slice(0, 3);
+---
+
+<ArticleLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  category={entry.data.category}
+  pubDate={entry.data.pubDate}
+  readingMinutes={10}
+>
+  <Content />
+  <section class="topic-map">
+    <h2>专题结构</h2>
+    <div class="map-grid">
+      <span>焦虑</span>
+      <span>自我保护</span>
+      <span>防御机制</span>
+      <span>关系模式</span>
+      <span>人格成长</span>
+    </div>
+  </section>
+  <section>
+    <h2>推荐文章</h2>
+    <div class="related-list">
+      {articles.map((article) => (
+        <ArticleCard
+          title={article.data.title}
+          description={article.data.description}
+          href={`/articles/${article.id}/`}
+          category={article.data.category}
+          date={article.data.pubDate}
+        />
+      ))}
+    </div>
+  </section>
+</ArticleLayout>
+
+<style>
+  .topic-map {
+    margin-top: 42px;
+  }
+
+  .map-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 16px;
+  }
+
+  .map-grid span {
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 9px 13px;
+    background: rgba(255, 250, 241, 0.9);
+    color: var(--wine);
+    font-weight: 700;
+  }
+
+  .related-list {
+    display: grid;
+    gap: 16px;
+  }
+</style>

@@ -1,0 +1,79 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="新手阅读路径" description="从 MBTI 到防御机制、依恋关系和人格结构的入门阅读顺序。">
+  <main class="container path-page">
+    <p class="eyebrow">Beginner Path</p>
+    <h1>新手阅读路径</h1>
+    <p class="lead">如果你刚来到这里，可以按这个顺序阅读。它会从最容易进入的类型问题，慢慢走到更深的人格动力。</p>
+    <div class="steps">
+      <a class="step card card-pad" href="/mbti/">
+        <span>01</span>
+        <h2>从 MBTI 开始</h2>
+        <p>先把“我是哪一种人”作为入口，但不要停在标签上。</p>
+      </a>
+      <a class="step card card-pad" href="/concepts/projection/">
+        <span>02</span>
+        <h2>理解投射和防御</h2>
+        <p>看见自我是如何保护自己的，也看见保护如何变成限制。</p>
+      </a>
+      <a class="step card card-pad" href="/topics/attachment-relationships/">
+        <span>03</span>
+        <h2>进入关系模式</h2>
+        <p>把性格放回亲密关系里，理解靠近、退缩和重复。</p>
+      </a>
+      <a class="step card card-pad" href="/topics/defense-mechanisms/">
+        <span>04</span>
+        <h2>建立心理动力地图</h2>
+        <p>把概念、关系和人格成长连接起来。</p>
+      </a>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .path-page {
+    padding: 58px 0;
+  }
+
+  h1 {
+    margin: 10px 0;
+    font-size: clamp(2.3rem, 5vw, 5rem);
+    line-height: 1.06;
+  }
+
+  .lead {
+    max-width: 700px;
+    color: var(--muted);
+    line-height: 1.85;
+  }
+
+  .steps {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 16px;
+    margin-top: 34px;
+  }
+
+  .step span {
+    color: var(--wine);
+    font-weight: 900;
+  }
+
+  .step h2 {
+    margin: 12px 0 8px;
+    font-size: 1.28rem;
+  }
+
+  .step p {
+    color: var(--muted);
+    line-height: 1.7;
+  }
+
+  @media (max-width: 900px) {
+    .steps {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

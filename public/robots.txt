@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://inner-theatre.example.com/sitemap-index.xml

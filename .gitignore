@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.astro/
+.npm-cache/
+.dev-server.*.log
+.dev-server.pid
+.env
+.env.local

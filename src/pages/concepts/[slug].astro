@@ -1,0 +1,23 @@
+---
+import { getCollection, render } from "astro:content";
+import ArticleLayout from "@/layouts/ArticleLayout.astro";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("concepts");
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<ArticleLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  category={entry.data.group}
+  pubDate={entry.data.pubDate}
+  readingMinutes={5}
+>
+  <p><strong>一句话理解：</strong>{entry.data.plainDefinition}</p>
+  <Content />
+</ArticleLayout>

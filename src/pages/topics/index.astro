@@ -1,0 +1,41 @@
+---
+import { getCollection } from "astro:content";
+import TopicCard from "@/components/TopicCard.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const topics = (await getCollection("topics")).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+---
+
+<BaseLayout title="专题合集" description="围绕防御机制、依恋关系和人格结构整理的系统阅读专题。">
+  <main class="container listing">
+    <p class="eyebrow">Topics</p>
+    <h1>专题合集</h1>
+    <p class="lead">专题适合连续阅读。每个专题都提供一个入口问题、一组核心概念和一条阅读路径。</p>
+    <div class="grid grid-3">
+      {topics.map((entry) => (
+        <TopicCard title={entry.data.title} description={entry.data.description} href={`/topics/${entry.id}/`} label={entry.data.level} />
+      ))}
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .listing {
+    padding: 54px 0;
+  }
+
+  h1 {
+    margin: 10px 0;
+    font-size: clamp(2.2rem, 5vw, 4.5rem);
+    line-height: 1.08;
+  }
+
+  .lead {
+    max-width: 680px;
+    margin-bottom: 28px;
+    color: var(--muted);
+    line-height: 1.85;
+  }
+</style>

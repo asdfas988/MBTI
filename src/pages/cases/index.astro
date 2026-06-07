@@ -1,0 +1,44 @@
+---
+import { getCollection } from "astro:content";
+import ArticleCard from "@/components/ArticleCard.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const cases = await getCollection("cases");
+---
+
+<BaseLayout title="角色与案例分析" description="通过影视、文学和关系场景理解心理机制。">
+  <main class="container listing">
+    <p class="eyebrow">Cases</p>
+    <h1>角色与案例分析</h1>
+    <p class="lead">案例分析不是给人物贴诊断标签，而是借故事看见防御、依恋和人格结构如何运作。</p>
+    <div class="grid grid-3">
+      {cases.map((entry) => (
+        <ArticleCard
+          title={entry.data.title}
+          description={entry.data.description}
+          href={`/cases/${entry.id}/`}
+          category={entry.data.category}
+          date={entry.data.pubDate}
+        />
+      ))}
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .listing {
+    padding: 54px 0;
+  }
+
+  h1 {
+    margin: 10px 0;
+    font-size: clamp(2.2rem, 5vw, 4.5rem);
+  }
+
+  .lead {
+    max-width: 680px;
+    margin-bottom: 28px;
+    color: var(--muted);
+    line-height: 1.85;
+  }
+</style>

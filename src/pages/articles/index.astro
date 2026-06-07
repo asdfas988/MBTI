@@ -1,0 +1,47 @@
+---
+import { getCollection } from "astro:content";
+import ArticleCard from "@/components/ArticleCard.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const articles = (await getCollection("articles")).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+---
+
+<BaseLayout title="全部文章" description="阅读 MBTI、精神分析、人格心理学和精神动力学相关文章。">
+  <main class="container listing">
+    <p class="eyebrow">Articles</p>
+    <h1>全部文章</h1>
+    <p class="lead">这里不是把心理学概念堆成资料库，而是把它们带回人的性格、关系和内在冲突里。</p>
+    <div class="grid grid-3">
+      {articles.map((entry) => (
+        <ArticleCard
+          title={entry.data.title}
+          description={entry.data.description}
+          href={`/articles/${entry.id}/`}
+          category={entry.data.category}
+          date={entry.data.pubDate}
+        />
+      ))}
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .listing {
+    padding: 54px 0;
+  }
+
+  h1 {
+    margin: 10px 0;
+    font-size: clamp(2.2rem, 5vw, 4.5rem);
+    line-height: 1.08;
+  }
+
+  .lead {
+    max-width: 680px;
+    margin-bottom: 28px;
+    color: var(--muted);
+    line-height: 1.85;
+  }
+</style>

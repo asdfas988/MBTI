@@ -1,0 +1,77 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  href: string;
+  category?: string;
+  date?: Date;
+}
+
+const { title, description, href, category, date } = Astro.props;
+---
+
+<article class="article-card card">
+  <a href={href} aria-label={`阅读 ${title}`}>
+    <span class="thumb" aria-hidden="true"></span>
+    <div class="article-body">
+      {category && <span class="eyebrow">{category}</span>}
+      <h3>{title}</h3>
+      <p>{description}</p>
+      {date && <time datetime={date.toISOString()}>{date.toLocaleDateString("zh-CN")}</time>}
+    </div>
+  </a>
+</article>
+
+<style>
+  .article-card {
+    overflow: hidden;
+  }
+
+  a {
+    display: grid;
+    grid-template-columns: 118px 1fr;
+    min-height: 136px;
+  }
+
+  .thumb {
+    background:
+      radial-gradient(circle at 70% 24%, rgba(185, 155, 95, 0.24), transparent 32%),
+      linear-gradient(145deg, rgba(37, 67, 58, 0.18), rgba(255, 250, 241, 0.85));
+    border-right: 1px solid var(--line);
+  }
+
+  .article-body {
+    padding: 18px;
+  }
+
+  h3 {
+    margin: 8px 0;
+    font-size: 1.12rem;
+    line-height: 1.35;
+  }
+
+  p {
+    margin: 0;
+    color: var(--muted);
+    line-height: 1.65;
+  }
+
+  time {
+    display: inline-block;
+    margin-top: 12px;
+    color: var(--muted);
+    font-size: 0.84rem;
+  }
+
+  @media (max-width: 560px) {
+    a {
+      grid-template-columns: 1fr;
+    }
+
+    .thumb {
+      min-height: 130px;
+      border-right: 0;
+      border-bottom: 1px solid var(--line);
+    }
+  }
+</style>

@@ -1,0 +1,69 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="关于本站" description="了解内在剧场的写作理念、内容边界和阅读方式。">
+  <main class="container about-page">
+    <p class="eyebrow">About</p>
+    <h1>关于内在剧场</h1>
+    <div class="about-grid">
+      <article class="prose">
+        <p>内在剧场是一个中文心理学内容网站，关注 MBTI、精神分析、人格心理学和精神动力学之间可以互相照亮的地方。</p>
+        <p>我们不把 MBTI 当作答案，而是把它当作入口。真正值得讨论的是：一个人如何防御，如何爱，如何退缩，如何在相似关系里重复，又如何慢慢长出新的选择。</p>
+        <h2>写作原则</h2>
+        <p>内容会尽量保持清晰、克制和可读。避免把人简化成类型，也避免用心理学语言制造新的标签焦虑。</p>
+        <h2>内容边界</h2>
+        <p>本站内容用于心理学学习与自我理解，不用于临床诊断或治疗。如果你正在经历严重心理痛苦，请寻求专业心理咨询师、精神科医生或当地危机支持资源。</p>
+      </article>
+      <aside class="card card-pad">
+        <strong>适合谁阅读</strong>
+        <ul>
+          <li>对 MBTI 感兴趣，但不想停在娱乐标签的人。</li>
+          <li>想理解亲密关系模式和防御机制的人。</li>
+          <li>正在学习精神分析和人格心理学的读者。</li>
+        </ul>
+      </aside>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .about-page {
+    padding: 58px 0;
+  }
+
+  h1 {
+    margin: 10px 0 30px;
+    font-size: clamp(2.3rem, 5vw, 5rem);
+    line-height: 1.06;
+  }
+
+  .about-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 760px) 320px;
+    gap: 38px;
+    align-items: start;
+  }
+
+  aside {
+    position: sticky;
+    top: 96px;
+  }
+
+  ul {
+    margin: 14px 0 0;
+    padding-left: 1.2em;
+    color: var(--muted);
+    line-height: 1.85;
+  }
+
+  @media (max-width: 900px) {
+    .about-grid {
+      grid-template-columns: 1fr;
+    }
+
+    aside {
+      position: static;
+    }
+  }
+</style>

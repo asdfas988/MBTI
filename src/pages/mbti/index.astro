@@ -1,0 +1,119 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const types = (await getCollection("mbti")).sort((a, b) =>
+  a.data.typeCode.localeCompare(b.data.typeCode),
+);
+const allTypes = ["ISTJ", "ISFJ", "INFJ", "INTJ", "ISTP", "ISFP", "INFP", "INTP", "ESTP", "ESFP", "ENFP", "ENTP", "ESTJ", "ESFJ", "ENFJ", "ENTJ"];
+---
+
+<BaseLayout title="MBTI 与类型" description="从 MBTI、荣格八维和精神动力学理解人格类型。">
+  <main>
+    <section class="container type-hero">
+      <div>
+        <p class="eyebrow">MBTI Profiles</p>
+        <h1>MBTI 与类型</h1>
+        <p class="lead">类型不是终点。它更像一张入口地图，帮助我们继续理解价值感、防御方式、关系模式与成长课题。</p>
+      </div>
+      <div class="type-grid" aria-label="16 型人格索引">
+        {allTypes.map((type) => {
+          const entry = types.find((item) => item.data.typeCode === type);
+          return entry ? <a class="type-cell active" href={`/mbti/${entry.id}/`}>{type}</a> : <span class="type-cell">{type}</span>;
+        })}
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container grid grid-3">
+        {types.map((entry) => (
+          <a class="profile-card card card-pad" href={`/mbti/${entry.id}/`}>
+            <span class="eyebrow">{entry.data.functions.join(" · ")}</span>
+            <h2>{entry.data.typeCode}</h2>
+            <p>{entry.data.description}</p>
+            <div class="chips">
+              {entry.data.tags.slice(0, 3).map((tag) => <span>{tag}</span>)}
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  .type-hero {
+    display: grid;
+    grid-template-columns: 1fr 420px;
+    gap: 36px;
+    align-items: center;
+    padding: 58px 0 28px;
+  }
+
+  h1 {
+    margin: 10px 0;
+    font-size: clamp(2.4rem, 5vw, 5rem);
+    line-height: 1.06;
+  }
+
+  .lead {
+    max-width: 660px;
+    color: var(--muted);
+    line-height: 1.9;
+  }
+
+  .type-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: rgba(255, 250, 241, 0.7);
+    padding: 12px;
+  }
+
+  .type-cell {
+    display: grid;
+    min-height: 48px;
+    place-items: center;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    color: var(--muted);
+    font-weight: 800;
+  }
+
+  .type-cell.active {
+    background: var(--wine);
+    color: var(--paper);
+  }
+
+  .profile-card h2 {
+    margin: 12px 0 10px;
+    font-size: 2.5rem;
+  }
+
+  .profile-card p {
+    color: var(--muted);
+    line-height: 1.75;
+  }
+
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 18px;
+  }
+
+  .chips span {
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 6px 10px;
+    font-size: 0.82rem;
+  }
+
+  @media (max-width: 900px) {
+    .type-hero {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

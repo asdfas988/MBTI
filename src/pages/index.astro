@@ -1,0 +1,276 @@
+---
+import { getCollection } from "astro:content";
+import ArticleCard from "@/components/ArticleCard.astro";
+import TopicCard from "@/components/TopicCard.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const articles = (await getCollection("articles")).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+const concepts = await getCollection("concepts");
+const topics = await getCollection("topics");
+const types = await getCollection("mbti");
+---
+
+<BaseLayout>
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">MBTI · 精神分析 · 人格心理学 · 精神动力学</p>
+          <h1>理解人格，不止知道自己是哪一种类型</h1>
+          <p>
+            这里用 MBTI 作为入口，用精神分析和人格心理学深入理解人的防御、关系模式、内在冲突与成长可能。
+          </p>
+          <div class="hero-actions">
+            <a class="button" href="/reading-paths/beginner/">开始阅读路径</a>
+            <a class="button secondary" href="/concepts/">查询心理概念</a>
+          </div>
+        </div>
+        <div class="hero-visual paper-figure" aria-label="内在剧场的心理结构视觉图">
+          <div class="visual-note note-a">投射</div>
+          <div class="visual-note note-b">理想化</div>
+          <div class="visual-note note-c">关系剧本</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container grid grid-4">
+        <TopicCard title="MBTI 与类型" description="从 16 型、荣格八维和成长课题理解人格类型。" href="/mbti/" label="我想了解自己" />
+        <TopicCard title="精神分析入门" description="用普通人能读懂的方式解释本我、自我、防御和移情。" href="/articles/" label="我想理解心理动力" />
+        <TopicCard title="心理概念词典" description="查询投射、压抑、重复强迫、客体关系等核心概念。" href="/concepts/" label="我想查一个词" />
+        <TopicCard title="关系与依恋" description="理解亲密关系里的靠近、退缩、控制与害怕。" href="/topics/attachment-relationships/" label="我想理解关系" />
+      </div>
+    </section>
+
+    <section class="section reading-band">
+      <div class="container reading-grid">
+        <div>
+          <p class="eyebrow">新手阅读路径</p>
+          <h2>从“我是谁”走向“我为什么总是这样”</h2>
+          <p>网站的阅读顺序不是按学科堆叠，而是从读者最自然的疑问出发：类型、关系、防御，再到人格结构。</p>
+        </div>
+        <ol class="path-card card">
+          <li><span>01</span> 用 MBTI 建立第一张人格地图</li>
+          <li><span>02</span> 学会识别常见防御机制</li>
+          <li><span>03</span> 看见亲密关系中的重复剧本</li>
+          <li><span>04</span> 回到更成熟、更真实的表达</li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-header">
+          <div>
+            <p class="eyebrow">最新文章</p>
+            <h2>把类型标签讲深一点</h2>
+          </div>
+          <a class="pill" href="/articles/">查看全部文章</a>
+        </div>
+        <div class="grid grid-3">
+          {articles.slice(0, 3).map((entry) => (
+            <ArticleCard
+              title={entry.data.title}
+              description={entry.data.description}
+              href={`/articles/${entry.id}/`}
+              category={entry.data.category}
+              date={entry.data.pubDate}
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-header">
+          <div>
+            <p class="eyebrow">热门专题</p>
+            <h2>适合长期积累的心理学入口</h2>
+          </div>
+          <a class="pill" href="/topics/">全部专题</a>
+        </div>
+        <div class="grid grid-3">
+          {topics.map((entry) => (
+            <TopicCard title={entry.data.title} description={entry.data.description} href={`/topics/${entry.id}/`} label={entry.data.level} />
+          ))}
+          <TopicCard title="16 型人格档案" description={`已建立 ${types.length} 个类型页面，后续会逐步补全 16 型。`} href="/mbti/" label="类型索引" />
+        </div>
+      </div>
+    </section>
+
+    <section class="section concept-strip">
+      <div class="container">
+        <div class="section-header">
+          <div>
+            <p class="eyebrow">心理概念词典</p>
+            <h2>先理解概念，再理解自己</h2>
+          </div>
+          <a class="pill" href="/concepts/">进入词典</a>
+        </div>
+        <div class="concept-row">
+          {concepts.map((entry) => (
+            <a class="concept-chip" href={`/concepts/${entry.id}/`}>
+              <strong>{entry.data.title}</strong>
+              <span>{entry.data.plainDefinition}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding: 62px 0 36px;
+  }
+
+  .hero-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.05fr) minmax(320px, 0.95fr);
+    gap: 44px;
+    align-items: center;
+  }
+
+  h1 {
+    max-width: 760px;
+    margin: 14px 0;
+    font-size: clamp(2.4rem, 5.8vw, 5.7rem);
+    line-height: 1.04;
+  }
+
+  .hero-copy p:not(.eyebrow) {
+    max-width: 630px;
+    color: var(--muted);
+    font-size: 1.14rem;
+    line-height: 1.9;
+  }
+
+  .hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 28px;
+  }
+
+  .hero-visual {
+    min-height: 430px;
+    box-shadow: var(--shadow);
+  }
+
+  .visual-note {
+    position: absolute;
+    z-index: 2;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: rgba(255, 250, 241, 0.86);
+    padding: 8px 12px;
+    color: var(--wine);
+    font-weight: 700;
+  }
+
+  .note-a {
+    left: 34px;
+    top: 44px;
+  }
+
+  .note-b {
+    right: 44px;
+    top: 92px;
+  }
+
+  .note-c {
+    left: 70px;
+    bottom: 54px;
+  }
+
+  .reading-band {
+    background: rgba(220, 231, 227, 0.5);
+    border-block: 1px solid var(--line);
+  }
+
+  .reading-grid {
+    display: grid;
+    grid-template-columns: 0.95fr 1.05fr;
+    gap: 34px;
+    align-items: center;
+  }
+
+  .reading-grid h2 {
+    margin: 10px 0;
+    font-size: clamp(1.8rem, 3vw, 3rem);
+    line-height: 1.2;
+  }
+
+  .reading-grid p {
+    color: var(--muted);
+    line-height: 1.8;
+  }
+
+  .path-card {
+    margin: 0;
+    padding: 22px;
+    list-style: none;
+  }
+
+  .path-card li {
+    display: flex;
+    gap: 14px;
+    align-items: center;
+    border-bottom: 1px solid var(--line);
+    padding: 15px 0;
+    line-height: 1.5;
+  }
+
+  .path-card li:last-child {
+    border-bottom: 0;
+  }
+
+  .path-card span {
+    color: var(--wine);
+    font-weight: 800;
+  }
+
+  .concept-strip {
+    padding-bottom: 28px;
+  }
+
+  .concept-row {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+  }
+
+  .concept-chip {
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: rgba(255, 250, 241, 0.82);
+    padding: 18px;
+  }
+
+  .concept-chip strong,
+  .concept-chip span {
+    display: block;
+  }
+
+  .concept-chip span {
+    margin-top: 8px;
+    color: var(--muted);
+    line-height: 1.65;
+  }
+
+  @media (max-width: 900px) {
+    .hero-grid,
+    .reading-grid,
+    .concept-row {
+      grid-template-columns: 1fr;
+    }
+
+    .hero-visual {
+      min-height: 320px;
+    }
+  }
+</style>

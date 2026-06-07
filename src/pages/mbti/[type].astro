@@ -1,0 +1,59 @@
+---
+import { getCollection, render } from "astro:content";
+import ArticleLayout from "@/layouts/ArticleLayout.astro";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("mbti");
+  return entries.map((entry) => ({ params: { type: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<ArticleLayout
+  title={entry.data.typeCode}
+  description={entry.data.description}
+  category="MBTI 类型档案"
+  pubDate={entry.data.pubDate}
+  readingMinutes={8}
+>
+  <div class="type-summary">
+    <div>
+      <strong>功能序列</strong>
+      <p>{entry.data.functions.join(" · ")}</p>
+    </div>
+    <div>
+      <strong>阅读提醒</strong>
+      <p>类型描述不是诊断，也不是命运。它只是理解心理动力的一种入口。</p>
+    </div>
+  </div>
+  <Content />
+</ArticleLayout>
+
+<style>
+  .type-summary {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+    margin: 24px 0 34px;
+  }
+
+  .type-summary div {
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: rgba(255, 250, 241, 0.82);
+    padding: 18px;
+  }
+
+  .type-summary p {
+    margin: 8px 0 0;
+    color: var(--muted);
+  }
+
+  @media (max-width: 720px) {
+    .type-summary {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

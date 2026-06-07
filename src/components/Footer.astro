@@ -1,0 +1,56 @@
+---
+import { site } from "@/data/site";
+---
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <strong>{site.name}</strong>
+      <p>{site.description}</p>
+    </div>
+    <div>
+      <strong>内容边界</strong>
+      <p>本站内容用于心理学学习与自我理解，不用于临床诊断或治疗。</p>
+    </div>
+    <div>
+      <strong>开始阅读</strong>
+      <p><a href="/reading-paths/beginner/">新手阅读路径</a> · <a href="/concepts/">心理概念词典</a></p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    margin-top: 56px;
+    border-top: 1px solid var(--line);
+    background: rgba(37, 67, 58, 0.04);
+    padding: 36px 0;
+  }
+
+  .footer-grid {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr 1fr;
+    gap: 28px;
+    color: var(--muted);
+    line-height: 1.75;
+  }
+
+  strong {
+    color: var(--ink);
+  }
+
+  p {
+    margin: 10px 0 0;
+  }
+
+  a {
+    color: var(--wine);
+    font-weight: 700;
+  }
+
+  @media (max-width: 800px) {
+    .footer-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
