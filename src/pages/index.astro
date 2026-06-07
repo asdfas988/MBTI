@@ -11,6 +11,17 @@ const articles = (await getCollection("articles")).sort(
 const concepts = await getCollection("concepts");
 const topics = await getCollection("topics");
 const types = await getCollection("mbti");
+const featuredConceptIds = [
+  "projection",
+  "defense-mechanism",
+  "transference",
+  "repetition-compulsion",
+  "attachment",
+  "object-relations",
+];
+const featuredConcepts = featuredConceptIds
+  .map((id) => concepts.find((entry) => entry.id === id))
+  .filter((entry): entry is (typeof concepts)[number] => Boolean(entry));
 
 const readerQuestions = [
   { question: "我是哪一种人？", answer: "从 MBTI 类型与认知功能进入，但继续追问价值感和成熟度。", href: "/mbti/" },
@@ -166,7 +177,7 @@ const readerQuestions = [
           <a class="pill" href="/concepts/">进入词典</a>
         </div>
         <div class="concept-row">
-          {concepts.map((entry) => (
+          {featuredConcepts.map((entry) => (
             <a class="concept-chip" href={`/concepts/${entry.id}/`}>
               <strong>{entry.data.title}</strong>
               <span>{entry.data.plainDefinition}</span>
