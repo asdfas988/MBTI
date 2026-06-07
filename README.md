@@ -26,6 +26,13 @@ Build command: npm run build
 Build output directory: dist
 ```
 
+也可以用 Wrangler 直接部署静态产物：
+
+```bash
+npm run build
+npx wrangler pages deploy dist --project-name mbti
+```
+
 ## 内容目录
 
 ```text

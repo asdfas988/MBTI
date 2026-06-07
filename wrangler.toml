@@ -1,0 +1,5 @@
+name = "mbti"
+pages_build_output_dir = "dist"
+
+[vars]
+ASTRO_TELEMETRY_DISABLED = "1"
