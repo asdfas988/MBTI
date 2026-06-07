@@ -1,0 +1,45 @@
+---
+title: "面质"
+description: "治疗者温和而清楚地指出来访者叙述、情绪、行为或关系模式中的矛盾与回避。"
+pubDate: 2026-06-07
+tags: ["面质", "治疗技术", "防御"]
+group: "心理治疗与评估"
+plainDefinition: "治疗者温和而清楚地指出来访者叙述、情绪、行为或关系模式中的矛盾与回避。"
+english: "Confrontation"
+aliases: ["对质"]
+domains: ["心理治疗", "精神动力学"]
+level: "进阶"
+sourceRefs: 
+  - label: "American Psychological Association: Psychotherapy"
+    url: "https://www.apa.org/topics/psychotherapy"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+related: ["clarification", "interpretation-technique", "denial"]
+---
+
+面质不是攻击，而是把来访者尚未看见或不愿看见的矛盾呈现出来。例如“你说不在乎，但每次提到这件事都很痛”。
+
+## 概念边界
+面质不同于批评、羞辱或争辩。它需要治疗联盟、时机和尊重，否则容易造成防御或关系破裂。
+
+## 为什么重要
+许多防御依靠“不把矛盾放在一起”维持。面质帮助个体看见行为与愿望、语言与情绪之间的不一致。
+
+## 常见表现
+- 指出说法和行为不一致
+- 指出情绪和叙述不一致
+- 把回避或防御温和呈现
+- 邀请来访者一起观察而非被审判
+
+## 容易混淆
+- 与攻击不同：面质服务于觉察
+- 与解释不同：面质指出矛盾，解释说明意义
+- 与反驳不同：治疗者不争输赢
+
+## 在人格动力中的作用
+面质让分裂、否认和理智化难以继续完全隐藏。它把被分开的心理材料放回同一场域。
+
+## 自我观察
+- 我是否有“嘴上说不在乎、身体很在乎”的地方？
+- 别人指出矛盾时，我感到羞耻、愤怒还是好奇？
+- 这个矛盾保护了我什么？

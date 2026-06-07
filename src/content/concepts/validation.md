@@ -1,0 +1,45 @@
+---
+title: "情绪确认"
+description: "承认并表达一个人的情绪和反应在其经历、处境或内在逻辑中有可理解之处。"
+pubDate: 2026-06-07
+tags: ["情绪确认", "DBT", "治疗关系"]
+group: "心理治疗与评估"
+plainDefinition: "承认并表达一个人的情绪和反应在其经历、处境或内在逻辑中有可理解之处。"
+english: "Validation"
+aliases: ["验证", "情感确认"]
+domains: ["心理治疗", "关系"]
+level: "基础"
+sourceRefs: 
+  - label: "American Psychological Association: Psychotherapy"
+    url: "https://www.apa.org/topics/psychotherapy"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+related: ["dialectical-behavior-therapy", "therapeutic-alliance", "containment"]
+---
+
+情绪确认并不是同意所有行为，而是让人感到“我的体验被看见了”。在 DBT、创伤治疗、亲子沟通和治疗联盟中，它能降低防御和羞耻。
+
+## 概念边界
+确认情绪不同于认可伤害行为。可以确认“你很痛苦”，同时清楚设定“不能伤害自己或他人”的边界。
+
+## 为什么重要
+被否定的情绪更容易升级。确认能帮助个体从被攻击感回到可思考状态，是改变前的稳定条件。
+
+## 常见表现
+- 准确命名对方情绪
+- 说明这种反应在其经历中为何可理解
+- 不急于纠正、说服或比较
+- 确认情绪后再讨论行为选择
+
+## 容易混淆
+- 与赞同不同：确认体验不等于赞成行为
+- 与安慰不同：确认更强调理解其逻辑
+- 与讨好不同：确认可以同时有边界
+
+## 在人格动力中的作用
+确认提供镜映和涵容，修复“我的感受不重要”的内在客体经验。它也能降低羞耻防御，使真实材料更容易出现。
+
+## 自我观察
+- 我最需要别人确认的是哪种感受？
+- 我是否把未被确认体验成立刻被否定？
+- 我能否先确认自己的情绪，再选择行动？

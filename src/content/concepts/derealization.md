@@ -1,0 +1,45 @@
+---
+title: "现实解体"
+description: "感觉周围世界变得陌生、遥远、梦幻、扁平或不真实的解离体验。"
+pubDate: 2026-06-07
+tags: ["现实解体", "解离", "惊恐"]
+group: "精神病学基础"
+plainDefinition: "感觉周围世界变得陌生、遥远、梦幻、扁平或不真实的解离体验。"
+english: "Derealization"
+aliases: ["现实疏离"]
+domains: ["精神医学", "创伤"]
+level: "进阶"
+sourceRefs: 
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "NIMH: Anxiety Disorders"
+    url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
+related: ["dissociation", "depersonalization", "panic-disorder"]
+---
+
+现实解体时，环境像隔着雾、电影或玻璃。个体通常知道世界没有真的变假，但感受上非常不真实，常伴随焦虑、惊恐或创伤触发。
+
+## 概念边界
+现实解体不同于幻觉或妄想。它是一种主观真实感改变，现实检验通常仍在。
+
+## 为什么重要
+理解现实解体能降低二次恐慌：越害怕“我是不是疯了”，症状越容易加重。稳定化和降低焦虑常有帮助。
+
+## 常见表现
+- 周围环境像梦、电影或陌生场景
+- 时间、光线或距离感变奇怪
+- 伴随惊恐、疲劳或过度压力
+- 知道感受异常但难以停止
+
+## 容易混淆
+- 与精神病性知觉不同：现实解体通常能认识到是主观体验
+- 与发呆不同：它更强烈且令人困扰
+- 与审美陌生化不同：临床现实解体伴痛苦或失控感
+
+## 在人格动力中的作用
+现实解体把外部世界变远，使个体暂时少受威胁冲击。但长期依赖会削弱真实连接和安全感。
+
+## 自我观察
+- 现实解体前我是否过度焦虑、疲惫或被触发？
+- 我能否描述三个真实环境细节？
+- 我是否因为害怕症状而进一步放大症状？
