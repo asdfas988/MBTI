@@ -1,53 +1,54 @@
 ---
 title: "驱力"
-description: "精神分析中连接身体兴奋、欲望和心理表征的概念。"
-plainDefinition: "推动人寻求满足、释放张力或表达需要的内在力量。"
+description: "驱力指个体内部由身体需要、欲望、攻击性、性欲或紧张释放需求所推动的心理力量。经典精神分析用驱力解释欲望、防御、冲突和症状形成；当代精神动力学则常把驱力与依恋、客体关系和情感调节一起理解。"
+plainDefinition: "驱力是推动心理活动的内在需求、紧张和满足趋向。"
 group: "精神动力学"
 english: "Drive"
 aliases: []
 domains: ["精神动力学"]
 level: "进阶"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+clinicalBoundary: "驱力是精神分析和精神动力学中的解释性概念，不能脱离来访者历史、治疗关系和现实功能单独下判断。它适合用来理解体验和关系模式，不适合当作道德评价或快速贴标签。"
 related: ["libido", "psychic-conflict"]
 pubDate: 2026-06-07
 tags: ["欲望", "精神分析"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-  - label: "American Psychoanalytic Association: psychoanalytic terms"
+  - label: "American Psychoanalytic Association: Psychoanalytic Terms & Concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
-  - label: "American Psychoanalytic Association: about psychoanalysis"
+  - label: "American Psychoanalytic Association: About Psychoanalysis"
     url: "https://apsa.org/about-psychoanalysis/"
 ---
 
-精神分析中连接身体兴奋、欲望和心理表征的概念。
+驱力指个体内部由身体需要、欲望、攻击性、性欲或紧张释放需求所推动的心理力量。经典精神分析用驱力解释欲望、防御、冲突和症状形成；当代精神动力学则常把驱力与依恋、客体关系和情感调节一起理解。
 
 ## 概念边界
 
-驱力概念属于精神分析理论，不等同于现代神经科学中的单一生物本能。
+驱力是精神分析和精神动力学中的解释性概念，不能脱离来访者历史、治疗关系和现实功能单独下判断。它适合用来理解体验和关系模式，不适合当作道德评价或快速贴标签。
 
 ## 为什么重要
 
-驱力让人格不只是想法系统，也包含身体、欲望、攻击性和亲密需要。
+驱力是理解力比多、攻击性、冲突、防御和症状动力的基础概念。
 
 ## 常见表现
 
-- 某种需要反复寻找出口。
-- 被禁止的欲望以绕道方式出现。
-- 攻击性或亲密需求在关系中被触发。
+- 某些欲望或冲动反复出现，即使理性上不想如此。
+- 驱力满足受阻时可能转化为焦虑、愤怒、症状或替代行为。
+- 驱力与道德要求、现实限制和关系需要之间常形成冲突。
+- 成熟人格不是没有驱力，而是能更有弹性地调节和表达。
 
 ## 容易混淆
 
-- 不等于冲动控制差。
-- 不等于动物本能那么简单。
-- 不等于所有行为都由性驱力解释。
+- 不等于本能决定论：驱力会被关系、文化和自我功能塑形。
+- 不等于冲动行为：驱力可以被象征化、延迟和升华。
+- 不等于只有性：精神分析中的驱力概念也涉及攻击性和紧张调节。
 
 ## 在人格动力中的作用
 
-驱力与防御、超我和现实要求冲突时，会形成复杂的人格动力。
+驱力为人格动力提供能量来源。症状和防御常是在驱力、超我、现实和客体关系之间形成的折中；理解驱力能帮助个体找到更成熟的表达方式。
 
 ## 自我观察
 
-- 我最不愿承认的需要是什么？
-- 这个需要正在找什么出口？
-- 我能否让它被理解，而不是直接行动化？
+- 这个模式通常在什么关系或情境中被激活？
+- 它短期保护我避开了什么感受？
+- 如果不用这个旧方式，我担心会发生什么？

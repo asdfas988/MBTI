@@ -1,46 +1,57 @@
 ---
 title: "对抗性"
-description: "人格特质维度中指以自我中心、操控、敌意、夸大或缺乏合作为特征的倾向。"
-pubDate: 2026-06-07
-tags: ["人格维度", "对抗", "宜人性"]
+description: "对抗性描述个体在人际中倾向支配、利用、敌意、缺乏共情或夸大自我价值的模式。它与大五宜人性的低端相关，但临床上更关注其对关系、责任和他人权益的影响。"
+plainDefinition: "对抗性是适应不良人格特质中指向操纵、冷酷、夸大和敌意的人际领域。"
 group: "人格心理学"
-plainDefinition: "人格特质维度中指以自我中心、操控、敌意、夸大或缺乏合作为特征的倾向。"
 english: "Antagonism"
 aliases: ["敌对性"]
 domains: ["人格心理学", "人格结构"]
 level: "进阶"
-sourceRefs: 
-  - label: "American Psychiatric Association: DSM-5 Personality Disorders"
-    url: "https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM-5-Personality-Disorder.pdf"
-  - label: "APA Dictionary of Psychology: Big Five Personality Model"
-    url: "https://dictionary.apa.org/big-five-personality-model"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+clinicalBoundary: "对抗性是人格心理学中的描述性维度，不等于人格好坏，也不等于临床诊断。它需要结合情境、文化、发展阶段、功能影响和测量工具来理解。"
 related: ["agreeableness", "narcissism", "antisocial-personality-disorder"]
+pubDate: 2026-06-07
+tags: ["人格维度", "对抗", "宜人性"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology: Personality"
+    url: "https://dictionary.apa.org/personality"
+  - label: "APA Dictionary of Psychology: Personality Trait"
+    url: "https://dictionary.apa.org/personality-trait"
+  - label: "APA: DSM-5 Alternative Model for Personality Disorders"
+    url: "https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM-5-Personality-Disorder.pdf"
+  - label: "WHO: ICD-11 Clinical Descriptions and Diagnostic Requirements"
+    url: "https://www.who.int/publications/i/item/9789240077263"
 ---
 
-对抗性高的人在关系中更容易竞争、贬低、防御性攻击或把他人视为工具。它与宜人性较低、自恋和反社会特征有相关。
+
+对抗性描述个体在人际中倾向支配、利用、敌意、缺乏共情或夸大自我价值的模式。它与大五宜人性的低端相关，但临床上更关注其对关系、责任和他人权益的影响。
 
 ## 概念边界
-对抗性不是 assertiveness。健康坚定能尊重双方，对抗性更常牺牲他人主体性和合作关系。
+
+对抗性是人格心理学中的描述性维度，不等于人格好坏，也不等于临床诊断。它需要结合情境、文化、发展阶段、功能影响和测量工具来理解。
 
 ## 为什么重要
-对抗性会损害亲密、团队和治疗联盟，也常掩盖羞耻、威胁感或脆弱自尊。
+
+对抗性是理解自恋、反社会特质、敌意、防御性攻击和关系权力斗争的重要维度。
 
 ## 常见表现
-- 习惯性贬低或怀疑他人动机
-- 用控制、操纵或威胁维持优势
-- 难以承认错误或道歉
-- 把合作体验成输或被支配
+
+- 通常表现为跨时间、跨情境相对稳定的行为、情绪和关系倾向。
+- 在压力、亲密关系、工作任务和自我评价情境中更容易看出其功能影响。
+- 高低分本身没有绝对好坏，关键在于弹性、情境匹配和是否造成损害。
+- 与 MBTI 等类型框架相比，特质维度更适合描述连续差异和组合画像。
 
 ## 容易混淆
-- 与坚定不同：坚定有边界但不侵犯
-- 与愤怒不同：愤怒是情绪，对抗性是关系风格
-- 与自信不同：对抗性常需要压低他人
+
+- 不等于类型标签：特质是连续维度，不是非黑即白的分类。
+- 不等于道德评价：高低分都有适应优势和代价。
+- 不等于固定终身不变：人格具有稳定性，但也会随年龄、关系和干预改变。
 
 ## 在人格动力中的作用
-对抗性可作为羞耻和无力感的反向防御。通过攻击或控制他人，个体避免体验依赖和脆弱。
+
+对抗性常在羞耻、自卑、脆弱依赖或被控制恐惧上形成防御。通过攻击、支配或贬低他人，个体短期维持自尊，长期却削弱互惠关系。
 
 ## 自我观察
-- 我在关系中更想理解，还是更想赢？
-- 我是否把道歉体验成被羞辱？
-- 攻击别人前，我内在是否先感到受威胁？
+
+- 这个特质在我身上最常带来优势还是代价？
+- 它在什么场景中过强、过弱或缺乏弹性？
+- 我能否用更具体的行为描述它，而不是只用标签概括自己？

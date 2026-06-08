@@ -1,53 +1,54 @@
 ---
 title: "理想化"
-description: "夸大对象的好处或价值来获得安全感。"
-plainDefinition: "把某个人、关系或自我形象看得过于完美，以暂时避开失望、矛盾和风险。"
+description: "理想化指个体把他人、伴侣、治疗者、群体或自己某一面体验为近乎完美、强大或无缺点。它能带来希望和依附安全，但若过度，就会遮蔽现实信息，并为之后的失望和贬低埋下基础。"
+plainDefinition: "理想化是把某人、某物或某段关系看得过度完美，以获得安全感和自我稳定的防御方式。"
 group: "防御机制"
 english: "Idealization"
 aliases: []
 domains: ["防御机制"]
 level: "进阶"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+clinicalBoundary: "理想化是精神分析和精神动力学中的解释性概念，不能脱离来访者历史、治疗关系和现实功能单独下判断。它适合用来理解体验和关系模式，不适合当作道德评价或快速贴标签。"
 related: ["devaluation", "splitting"]
 pubDate: 2026-06-07
 tags: ["关系", "防御"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-  - label: "American Psychoanalytic Association: psychoanalytic terms"
+  - label: "American Psychoanalytic Association: Psychoanalytic Terms & Concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
-  - label: "American Psychoanalytic Association: about psychoanalysis"
-    url: "https://www.psychoanalytic-council.org/about-psychotherapy/what-pp.html"
+  - label: "American Psychoanalytic Association: About Psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
 ---
 
-夸大对象的好处或价值来获得安全感。
+理想化指个体把他人、伴侣、治疗者、群体或自己某一面体验为近乎完美、强大或无缺点。它能带来希望和依附安全，但若过度，就会遮蔽现实信息，并为之后的失望和贬低埋下基础。
 
 ## 概念边界
 
-理想化不同于欣赏。欣赏能看见优点和限制；理想化很难容纳缺点。
+理想化是精神分析和精神动力学中的解释性概念，不能脱离来访者历史、治疗关系和现实功能单独下判断。它适合用来理解体验和关系模式，不适合当作道德评价或快速贴标签。
 
 ## 为什么重要
 
-理想化能让人迅速获得希望和依靠，也可能让人忽略真实边界。
+理想化是理解移情、自恋、防御、粉丝心理和亲密关系起伏的重要概念。
 
 ## 常见表现
 
-- 刚认识就觉得对方完全懂自己。
-- 把权威、伴侣或理论当成最终答案。
-- 对方稍有瑕疵就感到巨大崩塌。
+- 迅速把对方看成唯一理解、拯救或证明自己价值的人。
+- 忽略对方限制、矛盾和现实边界。
+- 当对方不能维持完美形象时，失望会非常强烈。
+- 常与贬低、分裂和依恋焦虑交替出现。
 
 ## 容易混淆
 
-- 不等于爱。
-- 不等于尊重。
-- 不等于对方真的完美。
+- 不等于欣赏：欣赏能容纳优点和缺点，理想化更难承受缺点。
+- 不等于爱：爱通常需要看见真实的人，理想化更像需要对方承担安全功能。
+- 不等于一定有害：治疗早期适度理想化可支持希望，但需要逐渐现实化。
 
 ## 在人格动力中的作用
 
-理想化常和依恋需要、自尊调节以及对失望的恐惧相连。
+理想化常服务于稳定脆弱自尊和依恋安全。它把外部对象变成强大的支撑物；当个体能发展内部安全感，就不必靠完美对象维持自我价值。
 
 ## 自我观察
 
-- 我是否允许这个人有普通缺点？
-- 我理想化TA时，自己获得了什么安全感？
-- 如果TA不完美，我还剩下什么？
+- 这个模式通常在什么关系或情境中被激活？
+- 它短期保护我避开了什么感受？
+- 如果不用这个旧方式，我担心会发生什么？

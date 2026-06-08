@@ -1,46 +1,57 @@
 ---
 title: "去抑制性"
-description: "人格特质维度中指冲动、计划不足、风险行为和难以延迟满足的倾向。"
-pubDate: 2026-06-07
-tags: ["人格维度", "冲动", "自我控制"]
+description: "去抑制性描述个体难以抑制冲动、维持计划、遵守承诺或考虑后果的倾向。它可表现为冲动行为、风险选择、拖延、物质使用或情绪驱动下的行动化。"
+plainDefinition: "去抑制性是适应不良人格特质中指向冲动、缺乏计划和难以延迟满足的领域。"
 group: "人格心理学"
-plainDefinition: "人格特质维度中指冲动、计划不足、风险行为和难以延迟满足的倾向。"
 english: "Disinhibition"
 aliases: ["脱抑制"]
 domains: ["人格心理学", "精神医学"]
 level: "进阶"
-sourceRefs: 
-  - label: "American Psychiatric Association: DSM-5 Personality Disorders"
-    url: "https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM-5-Personality-Disorder.pdf"
-  - label: "APA Dictionary of Psychology: Big Five Personality Model"
-    url: "https://dictionary.apa.org/big-five-personality-model"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+clinicalBoundary: "去抑制性是人格心理学中的描述性维度，不等于人格好坏，也不等于临床诊断。它需要结合情境、文化、发展阶段、功能影响和测量工具来理解。"
 related: ["acting-out", "attention-deficit-hyperactivity-disorder", "substance-use-disorder"]
+pubDate: 2026-06-07
+tags: ["人格维度", "冲动", "自我控制"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology: Personality"
+    url: "https://dictionary.apa.org/personality"
+  - label: "APA Dictionary of Psychology: Personality Trait"
+    url: "https://dictionary.apa.org/personality-trait"
+  - label: "APA: DSM-5 Alternative Model for Personality Disorders"
+    url: "https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM-5-Personality-Disorder.pdf"
+  - label: "WHO: ICD-11 Clinical Descriptions and Diagnostic Requirements"
+    url: "https://www.who.int/publications/i/item/9789240077263"
 ---
 
-去抑制性高的人更容易在情绪或诱惑下立即行动，事后才处理后果。它可能与 ADHD、物质使用、边缘型模式或反社会特征交织。
+
+去抑制性描述个体难以抑制冲动、维持计划、遵守承诺或考虑后果的倾向。它可表现为冲动行为、风险选择、拖延、物质使用或情绪驱动下的行动化。
 
 ## 概念边界
-去抑制性不是活泼或自由。临床关注冲动是否反复造成损害，以及个体是否难以从后果中学习。
+
+去抑制性是人格心理学中的描述性维度，不等于人格好坏，也不等于临床诊断。它需要结合情境、文化、发展阶段、功能影响和测量工具来理解。
 
 ## 为什么重要
-冲动行为常把内在痛苦变成外部危机。理解去抑制性有助于设计延迟、环境控制和情绪调节策略。
+
+去抑制性连接人格评估、ADHD、成瘾、冲动控制和边缘型人格动力。
 
 ## 常见表现
-- 情绪强时立即发消息、消费、饮酒或行动
-- 难以持续计划和遵守承诺
-- 寻求刺激并低估风险
-- 事后后悔但下次仍难以停住
+
+- 通常表现为跨时间、跨情境相对稳定的行为、情绪和关系倾向。
+- 在压力、亲密关系、工作任务和自我评价情境中更容易看出其功能影响。
+- 高低分本身没有绝对好坏，关键在于弹性、情境匹配和是否造成损害。
+- 与 MBTI 等类型框架相比，特质维度更适合描述连续差异和组合画像。
 
 ## 容易混淆
-- 与外向不同：外向是能量和社交倾向
-- 与创造力不同：创造力不必然损害控制
-- 与偶尔冲动不同：特质层面更持续
+
+- 不等于类型标签：特质是连续维度，不是非黑即白的分类。
+- 不等于道德评价：高低分都有适应优势和代价。
+- 不等于固定终身不变：人格具有稳定性，但也会随年龄、关系和干预改变。
 
 ## 在人格动力中的作用
-去抑制性常服务于快速降低紧张、逃离空虚或反击羞耻。治疗重点是增加停顿和心理化空间。
+
+在人格动力中，去抑制性可能是自我功能不足，也可能是逃离空虚、羞耻或强烈情绪的方式。治疗需要同时处理冲动调节、情绪承受和行为后果。
 
 ## 自我观察
-- 我最常在哪种情绪下失去刹车？
-- 哪些环境会放大我的冲动？
-- 我能否建立一个行动前的固定停顿步骤？
+
+- 这个特质在我身上最常带来优势还是代价？
+- 它在什么场景中过强、过弱或缺乏弹性？
+- 我能否用更具体的行为描述它，而不是只用标签概括自己？
