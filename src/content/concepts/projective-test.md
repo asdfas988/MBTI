@@ -1,22 +1,23 @@
 ---
 title: "投射测验"
 description: "通过模糊或开放刺激引发个体反应，以探索其知觉、情绪、冲突和人格组织的评估方法。"
-pubDate: 2026-06-07
-tags: ["投射测验", "人格评估", "投射"]
-group: "心理治疗与评估"
 plainDefinition: "通过模糊或开放刺激引发个体反应，以探索其知觉、情绪、冲突和人格组织的评估方法。"
+group: "心理治疗与评估"
 english: "Projective Test"
 aliases: ["投射性测验"]
 domains: ["评估", "精神动力学"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["projection", "rorschach-test", "thematic-apperception-test"]
+pubDate: 2026-06-07
+tags: ["投射测验", "人格评估", "投射"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "APA Dictionary of Psychology: psychological assessment"
     url: "https://dictionary.apa.org/psychological-assessment"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["projection", "rorschach-test", "thematic-apperception-test"]
 ---
+
 
 投射测验包括罗夏墨迹测验、主题统觉测验等。它们关注个体如何组织模糊材料、赋予意义、处理关系和情绪。
 
@@ -44,3 +45,5 @@ related: ["projection", "rorschach-test", "thematic-apperception-test"]
 - 我面对模糊材料时倾向看到危险、关系、秩序还是混乱？
 - 我的解释是否反映了惯常关系期待？
 - 我是否把开放刺激迅速确定成唯一答案？
+
+补充阅读提示：阅读投射测验时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

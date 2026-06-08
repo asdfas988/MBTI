@@ -1,22 +1,23 @@
 ---
 title: "情感麻木"
 description: "对情绪、亲密、快乐或痛苦的体验变得迟钝、隔离或难以接触的状态。"
-pubDate: 2026-06-07
-tags: ["情感麻木", "创伤", "解离"]
-group: "精神病学基础"
 plainDefinition: "对情绪、亲密、快乐或痛苦的体验变得迟钝、隔离或难以接触的状态。"
+group: "精神病学基础"
 english: "Emotional Numbing"
 aliases: ["情绪麻木"]
 domains: ["精神医学", "精神动力学"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["isolation-of-affect", "dissociation", "anhedonia"]
+pubDate: 2026-06-07
+tags: ["情感麻木", "创伤", "解离"]
+sourceRefs:
   - label: "NIMH: Post-Traumatic Stress Disorder"
     url: "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["isolation-of-affect", "dissociation", "anhedonia"]
 ---
+
 
 情感麻木常见于创伤、抑郁、长期压力和解离之后。它像心理系统把情绪音量调低，以免被痛苦淹没，但也会让快乐、爱和连接一并变淡。
 
@@ -44,3 +45,5 @@ related: ["isolation-of-affect", "dissociation", "anhedonia"]
 - 我麻木之前经历了什么？
 - 我能否感到哪怕一点点身体或情绪变化？
 - 麻木保护了我什么，又让我失去什么？
+
+补充阅读提示：阅读情感麻木时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

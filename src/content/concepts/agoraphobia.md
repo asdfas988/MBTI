@@ -1,22 +1,23 @@
 ---
 title: "广场恐惧"
 description: "对难以逃离或难以获得帮助的公共、开放、拥挤或交通情境产生恐惧并回避。"
-pubDate: 2026-06-07
-tags: ["广场恐惧", "惊恐", "回避"]
-group: "精神病学基础"
 plainDefinition: "对难以逃离或难以获得帮助的公共、开放、拥挤或交通情境产生恐惧并回避。"
+group: "精神病学基础"
 english: "Agoraphobia"
 aliases: ["旷野恐惧"]
 domains: ["精神医学", "焦虑"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["panic-disorder", "separation-anxiety", "avoidance-coping"]
+pubDate: 2026-06-07
+tags: ["广场恐惧", "惊恐", "回避"]
+sourceRefs:
   - label: "NIMH: Anxiety Disorders"
     url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["panic-disorder", "separation-anxiety", "avoidance-coping"]
 ---
+
 
 广场恐惧常与惊恐发作相关，但不完全相同。个体可能害怕在地铁、商场、排队、独处外出或空旷场所中突然失控、丢脸或无法求助。
 
@@ -44,3 +45,5 @@ related: ["panic-disorder", "separation-anxiety", "avoidance-coping"]
 - 我害怕的是人群评价，还是无法逃走和求助？
 - 我的安全人物或安全物品如何影响行动范围？
 - 我是否把独立行动体验成危险？
+
+补充阅读提示：阅读广场恐惧时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

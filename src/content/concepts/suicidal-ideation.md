@@ -1,22 +1,23 @@
 ---
 title: "自杀意念"
 description: "关于结束自己生命的想法、幻想、冲动或计划，严重度可从被动想法到具体计划不等。"
-pubDate: 2026-06-07
-tags: ["自杀意念", "危机干预", "风险评估"]
-group: "精神病学基础"
 plainDefinition: "关于结束自己生命的想法、幻想、冲动或计划，严重度可从被动想法到具体计划不等。"
+group: "精神病学基础"
 english: "Suicidal Ideation"
 aliases: ["轻生念头"]
 domains: ["精神医学", "危机干预"]
 level: "进阶"
 clinicalBoundary: "若已经有自杀计划、准备行为或无法保证安全，应立即联系当地急救、危机热线或可信任的人获得即时帮助。"
-sourceRefs: 
+related: ["risk-assessment", "self-harm", "depression"]
+pubDate: 2026-06-07
+tags: ["自杀意念", "危机干预", "风险评估"]
+sourceRefs:
   - label: "NIMH: Suicide Prevention"
     url: "https://www.nimh.nih.gov/health/topics/suicide-prevention"
   - label: "NIMH: Depression"
     url: "https://www.nimh.nih.gov/health/publications/depression"
-related: ["risk-assessment", "self-harm", "depression"]
 ---
+
 
 自杀意念需要被直接、具体、尊重地询问。它可能是“希望不再醒来”的被动念头，也可能是有时间、方式和准备的主动计划。
 
@@ -44,3 +45,5 @@ related: ["risk-assessment", "self-harm", "depression"]
 - 我的想法是被动想消失，还是已经有具体计划？
 - 哪些时刻意念最强，哪些保护因素仍然存在？
 - 我能否把这件事告诉一个可靠的人或专业机构？
+
+补充阅读提示：阅读自杀意念时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

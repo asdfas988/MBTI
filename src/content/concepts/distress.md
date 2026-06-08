@@ -1,22 +1,23 @@
 ---
 title: "主观痛苦"
 description: "个体因心理、情绪、认知或关系问题而体验到的显著痛苦、困扰或失控感。"
-pubDate: 2026-06-07
-tags: ["主观痛苦", "临床评估", "精神健康"]
-group: "精神病学基础"
 plainDefinition: "个体因心理、情绪、认知或关系问题而体验到的显著痛苦、困扰或失控感。"
+group: "精神病学基础"
 english: "Distress"
 aliases: ["心理痛苦", "困扰"]
 domains: ["精神医学", "评估"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["functional-impairment", "anxiety", "depression"]
+pubDate: 2026-06-07
+tags: ["主观痛苦", "临床评估", "精神健康"]
+sourceRefs:
   - label: "WHO ICD-11"
     url: "https://icd.who.int/"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["functional-impairment", "anxiety", "depression"]
 ---
+
 
 主观痛苦是临床评估的重要维度。它提醒我们：有些人的外在功能看起来尚可，但内部已经长期承受强烈焦虑、羞耻、空虚或绝望。
 
@@ -44,3 +45,5 @@ related: ["functional-impairment", "anxiety", "depression"]
 - 我是否因为还能工作就否认自己的痛苦？
 - 我的痛苦更多是焦虑、羞耻、空虚、愤怒还是悲伤？
 - 哪些情境会让痛苦突然升级？
+
+补充阅读提示：阅读主观痛苦时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

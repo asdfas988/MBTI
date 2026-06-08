@@ -1,20 +1,29 @@
 ---
 title: "愤怒"
 description: "当个体感到边界被侵犯、需要受阻、不公或威胁时产生的强烈情绪反应。"
-pubDate: 2026-06-07
-tags: ["愤怒", "攻击性", "边界"]
-group: "人格心理学"
 plainDefinition: "当个体感到边界被侵犯、需要受阻、不公或威胁时产生的强烈情绪反应。"
+group: "人格心理学"
 english: "Anger"
 aliases: ["怒气"]
 domains: ["人格心理学", "精神动力学"]
 level: "基础"
-sourceRefs: 
-  - label: "APA Dictionary of Psychology"
-    url: "https://dictionary.apa.org/"
 clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["irritability", "passive-aggression", "guilt"]
+pubDate: 2026-06-07
+tags: ["愤怒", "攻击性", "边界"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "American Psychoanalytic Association: psychoanalytic terms"
+    url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
 ---
+
 
 愤怒本身不是坏情绪。它能提示边界、价值和需求，也可能在羞耻、恐惧或无助之上形成防御性表达。
 
@@ -42,3 +51,5 @@ related: ["irritability", "passive-aggression", "guilt"]
 - 我的愤怒在保护什么边界？
 - 我会把愤怒向外爆发、向内攻击，还是间接表达？
 - 愤怒下面更脆弱的情绪是什么？
+
+补充阅读提示：阅读愤怒时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

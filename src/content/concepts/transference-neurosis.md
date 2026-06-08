@@ -1,22 +1,23 @@
 ---
 title: "移情神经症"
 description: "精神分析中指来访者的核心冲突和关系模式集中在与分析者的移情关系中重现并被治疗性处理的状态。"
-pubDate: 2026-06-07
-tags: ["移情", "精神分析", "治疗过程"]
-group: "精神动力学"
 plainDefinition: "精神分析中指来访者的核心冲突和关系模式集中在与分析者的移情关系中重现并被治疗性处理的状态。"
+group: "精神动力学"
 english: "Transference Neurosis"
 aliases: ["移情性神经症"]
 domains: ["精神动力学"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["transference", "working-through", "repetition-compulsion"]
+pubDate: 2026-06-07
+tags: ["移情", "精神分析", "治疗过程"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "APA Dictionary of Psychology: psychoanalysis"
     url: "https://dictionary.apa.org/psychoanalysis"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["transference", "working-through", "repetition-compulsion"]
 ---
+
 
 移情神经症不是新的疾病，而是治疗场中旧冲突被组织到分析关系里。来访者对治疗者的爱、恨、依赖、怀疑、竞争和失望会变得高度有意义。
 
@@ -44,3 +45,5 @@ related: ["transference", "working-through", "repetition-compulsion"]
 - 我对治疗者的反应是否远超现实互动？
 - 这种反应像我和谁的关系？
 - 我能否把它作为材料，而不是立刻行动化？
+
+补充阅读提示：阅读移情神经症时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

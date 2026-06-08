@@ -1,22 +1,23 @@
 ---
 title: "情绪确认"
 description: "承认并表达一个人的情绪和反应在其经历、处境或内在逻辑中有可理解之处。"
-pubDate: 2026-06-07
-tags: ["情绪确认", "DBT", "治疗关系"]
-group: "心理治疗与评估"
 plainDefinition: "承认并表达一个人的情绪和反应在其经历、处境或内在逻辑中有可理解之处。"
+group: "心理治疗与评估"
 english: "Validation"
 aliases: ["验证", "情感确认"]
 domains: ["心理治疗", "关系"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["dialectical-behavior-therapy", "therapeutic-alliance", "containment"]
+pubDate: 2026-06-07
+tags: ["情绪确认", "DBT", "治疗关系"]
+sourceRefs:
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["dialectical-behavior-therapy", "therapeutic-alliance", "containment"]
 ---
+
 
 情绪确认并不是同意所有行为，而是让人感到“我的体验被看见了”。在 DBT、创伤治疗、亲子沟通和治疗联盟中，它能降低防御和羞耻。
 
@@ -44,3 +45,5 @@ related: ["dialectical-behavior-therapy", "therapeutic-alliance", "containment"]
 - 我最需要别人确认的是哪种感受？
 - 我是否把未被确认体验成立刻被否定？
 - 我能否先确认自己的情绪，再选择行动？
+
+补充阅读提示：阅读情绪确认时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

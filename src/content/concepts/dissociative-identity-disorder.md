@@ -1,22 +1,23 @@
 ---
 title: "解离性身份障碍"
 description: "以两个或多个身份状态的显著转换，以及记忆、意识和自我连续性中断为核心的解离障碍。"
-pubDate: 2026-06-07
-tags: ["解离", "身份", "创伤"]
-group: "精神病学基础"
 plainDefinition: "以两个或多个身份状态的显著转换，以及记忆、意识和自我连续性中断为核心的解离障碍。"
+group: "精神病学基础"
 english: "Dissociative Identity Disorder"
 aliases: ["DID", "多重人格"]
 domains: ["精神医学", "创伤"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["dissociation", "trauma", "complex-ptsd"]
+pubDate: 2026-06-07
+tags: ["解离", "身份", "创伤"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "WHO ICD-11 Browser: Mental, behavioural or neurodevelopmental disorders"
     url: "https://icd.who.int/browse/2025-01/mms/en"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["dissociation", "trauma", "complex-ptsd"]
 ---
+
 
 解离性身份障碍常与严重早期创伤有关。个体可能体验到自我状态切换、记忆空白、行为不连续、像旁观自己或部分经历“不像我”。
 
@@ -44,3 +45,5 @@ related: ["dissociation", "trauma", "complex-ptsd"]
 - 我是否有无法解释的时间空白或行为记录？
 - 某些状态是否承载了我平时无法承受的情绪？
 - 我是否需要先建立稳定和安全，而不是急于挖创伤？
+
+补充阅读提示：阅读解离性身份障碍时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

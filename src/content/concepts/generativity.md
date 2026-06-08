@@ -14,7 +14,12 @@ tags: ["发展", "意义", "创造"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 发展心理学中指关心下一代、创造、照料、传承和对社会做出贡献的心理任务。
 
@@ -47,3 +52,7 @@ sourceRefs:
 - 我想留下些什么？
 - 我如何在照顾自己和照顾他人之间保持平衡？
 - 哪些创造让我感到生命在向外延展？
+
+补充阅读提示：阅读繁衍性/创生性时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到繁衍性/创生性时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

@@ -1,24 +1,25 @@
 ---
 title: "易激惹"
 description: "对轻微刺激、挫折或人际线索产生过度烦躁、愤怒或爆发倾向的状态。"
-pubDate: 2026-06-07
-tags: ["易激惹", "愤怒", "情绪调节"]
-group: "精神病学基础"
 plainDefinition: "对轻微刺激、挫折或人际线索产生过度烦躁、愤怒或爆发倾向的状态。"
+group: "精神病学基础"
 english: "Irritability"
 aliases: ["烦躁易怒"]
 domains: ["精神医学", "人格心理学"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["anger", "affect-regulation", "bipolar-disorder"]
+pubDate: 2026-06-07
+tags: ["易激惹", "愤怒", "情绪调节"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "NIMH: Anxiety Disorders"
     url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
   - label: "WHO ICD-11 Browser"
     url: "https://icd.who.int/browse/2025-01/mms/en"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["anger", "affect-regulation", "bipolar-disorder"]
 ---
+
 
 易激惹可见于焦虑、抑郁、躁狂、创伤、睡眠不足、儿童青少年问题和物质影响中。它常被当成性格差，但可能是情绪系统过载的外在表现。
 
@@ -46,3 +47,5 @@ related: ["anger", "affect-regulation", "bipolar-disorder"]
 - 我烦躁前真正的情绪是什么？
 - 我的爆发是在表达边界，还是在排出过载？
 - 睡眠和压力如何影响我的阈值？
+
+补充阅读提示：阅读易激惹时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

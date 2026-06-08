@@ -1,22 +1,23 @@
 ---
 title: "领悟"
 description: "个体对自身情绪、冲突、防御、关系模式和症状意义形成更深理解的能力或时刻。"
-pubDate: 2026-06-07
-tags: ["领悟", "自我观察", "精神动力学"]
-group: "精神动力学"
 plainDefinition: "个体对自身情绪、冲突、防御、关系模式和症状意义形成更深理解的能力或时刻。"
+group: "精神动力学"
 english: "Insight"
 aliases: ["洞察"]
 domains: ["精神动力学", "心理治疗"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["mentalization", "working-through", "intellectualization"]
+pubDate: 2026-06-07
+tags: ["领悟", "自我观察", "精神动力学"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "American Psychoanalytic Association: about psychoanalysis"
     url: "https://apsa.org/about-psychoanalysis/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["mentalization", "working-through", "intellectualization"]
 ---
+
 
 领悟不是知道一个心理术语，而是突然或逐渐看见自己如何参与了痛苦循环：我在怕什么、保护什么、重复什么、向谁反应。
 
@@ -44,3 +45,5 @@ related: ["mentalization", "working-through", "intellectualization"]
 - 我最近有没有看见自己重复了什么？
 - 我的理解是否带来情绪接触，还是只是概念堆叠？
 - 这个领悟能否转化成下一次不同的反应？
+
+补充阅读提示：阅读领悟时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

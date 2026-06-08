@@ -1,24 +1,25 @@
 ---
 title: "功能损害"
 description: "心理或行为问题对学习、工作、关系、自我照顾和社会角色造成的实际影响。"
-pubDate: 2026-06-07
-tags: ["功能损害", "临床评估", "诊断"]
-group: "精神病学基础"
 plainDefinition: "心理或行为问题对学习、工作、关系、自我照顾和社会角色造成的实际影响。"
+group: "精神病学基础"
 english: "Functional Impairment"
 aliases: ["社会功能受损"]
 domains: ["精神医学", "评估"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["diagnosis", "distress", "comorbidity"]
+pubDate: 2026-06-07
+tags: ["功能损害", "临床评估", "诊断"]
+sourceRefs:
   - label: "WHO ICD-11"
     url: "https://icd.who.int/"
   - label: "WHO ICD-11 Browser: Mental, behavioural or neurodevelopmental disorders"
     url: "https://icd.who.int/browse/2025-01/mms/en"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["diagnosis", "distress", "comorbidity"]
 ---
+
 
 功能损害帮助区分普通情绪波动和临床问题。一个人是否痛苦重要，但这种痛苦是否已经影响睡眠、工作、人际、照顾自己和履行责任，也同样关键。
 
@@ -46,3 +47,5 @@ related: ["diagnosis", "distress", "comorbidity"]
 - 我的问题具体影响了哪些生活领域？
 - 我是在硬撑功能，还是已经明显失去日常节奏？
 - 哪些支持能先帮助我恢复基本运转？
+
+补充阅读提示：阅读功能损害时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

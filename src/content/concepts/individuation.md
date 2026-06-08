@@ -14,7 +14,16 @@ tags: ["个体化", "荣格", "人格发展"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
+  - label: "American Psychoanalytic Association: psychoanalytic terms"
+    url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 个体化是荣格分析心理学中的核心概念，指人从集体期待和片面自我中发展出更整合的心理整体性。
 
@@ -48,3 +57,7 @@ sourceRefs:
 - 我现在活的是自己的方向，还是他人的剧本？
 - 我最不愿承认的人格部分是什么？
 - 我能否在关系中保持真实而不切断连接？
+
+补充阅读提示：阅读个体化时，要把它放在人格组织、自我功能和关系表征中理解。结构性概念通常描述长期模式，不适合根据单次行为下结论；它们更适合帮助识别整合、分化和现实检验的能力。
+
+写作使用提示：写到个体化时，适合说明它如何影响身份连续性、自尊调节、亲密关系和现实检验。结构性概念要谨慎使用，避免根据单次行为推断整个人格组织。

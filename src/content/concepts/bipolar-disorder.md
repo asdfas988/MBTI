@@ -1,22 +1,23 @@
 ---
 title: "双相障碍"
 description: "以躁狂或轻躁狂发作与抑郁发作交替或反复出现为核心的心境障碍。"
-pubDate: 2026-06-07
-tags: ["双相障碍", "心境障碍", "躁狂"]
-group: "精神病学基础"
 plainDefinition: "以躁狂或轻躁狂发作与抑郁发作交替或反复出现为核心的心境障碍。"
+group: "精神病学基础"
 english: "Bipolar Disorder"
 aliases: ["躁郁症"]
 domains: ["精神医学"]
 level: "基础"
 clinicalBoundary: "疑似躁狂、轻躁狂或严重抑郁时，应由精神科或合格临床专业人员评估。"
-sourceRefs: 
+related: ["mania", "hypomania", "depression"]
+pubDate: 2026-06-07
+tags: ["双相障碍", "心境障碍", "躁狂"]
+sourceRefs:
   - label: "NIMH: Bipolar Disorder"
     url: "https://www.nimh.nih.gov/health/topics/bipolar-disorder"
   - label: "WHO ICD-11 Browser: Mental, behavioural or neurodevelopmental disorders"
     url: "https://icd.who.int/browse/2025-01/mms/en"
-related: ["mania", "hypomania", "depression"]
 ---
+
 
 双相障碍的关键不只是情绪波动，而是具有发作性的高涨或易激惹心境、精力增加、睡眠需求减少、活动增多、冲动和判断受损等。
 
@@ -44,3 +45,5 @@ related: ["mania", "hypomania", "depression"]
 - 我是否有过睡很少却异常兴奋或易怒的阶段？
 - 这些阶段是否带来现实后果或他人担忧？
 - 我的情绪变化是按关系事件触发，还是呈现独立发作？
+
+补充阅读提示：阅读双相障碍时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

@@ -1,22 +1,23 @@
 ---
 title: "分析性节制"
 description: "治疗者不直接满足来访者的某些移情性要求，使愿望、焦虑和关系模式能被理解而非立即行动化。"
-pubDate: 2026-06-07
-tags: ["精神分析技术", "治疗框架", "节制"]
-group: "心理治疗与评估"
 plainDefinition: "治疗者不直接满足来访者的某些移情性要求，使愿望、焦虑和关系模式能被理解而非立即行动化。"
+group: "心理治疗与评估"
 english: "Analytic Abstinence"
 aliases: ["治疗节制"]
 domains: ["心理治疗", "精神动力学"]
 level: "高级"
-sourceRefs: 
-  - label: "American Psychoanalytic Association: about psychoanalysis"
-    url: "https://apsa.org/about-psychoanalysis/"
-  - label: "American Psychoanalytic Association: about psychoanalysis"
-    url: "https://apsa.org/about-psychoanalysis/"
 clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["treatment-frame", "transference", "psychological-boundaries"]
+pubDate: 2026-06-07
+tags: ["精神分析技术", "治疗框架", "节制"]
+sourceRefs:
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
 ---
+
 
 分析性节制并不是刻意让来访者痛苦。它指治疗者在专业框架内避免把治疗变成安慰、建议、满足、惩罚或私人关系，从而保留心理探索空间。
 
@@ -44,3 +45,5 @@ related: ["treatment-frame", "transference", "psychological-boundaries"]
 - 当我的需要没有立刻被满足，我会怎样解释对方？
 - 我是否把专业边界体验成拒绝或惩罚？
 - 我的要求背后还有什么更脆弱的愿望？
+
+补充阅读提示：阅读分析性节制时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

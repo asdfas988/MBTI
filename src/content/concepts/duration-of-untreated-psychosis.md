@@ -14,7 +14,14 @@ tags: ["精神病", "早期干预", "预后"]
 sourceRefs:
   - label: "NIMH: Schizophrenia"
     url: "https://www.nimh.nih.gov/health/topics/schizophrenia"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "NIMH: Understanding Psychosis"
+    url: "https://www.nimh.nih.gov/health/topics/schizophrenia/raise/what-is-psychosis"
+  - label: "WHO ICD-11 Browser"
+    url: "https://icd.who.int/browse/2025-01/mms/en"
 ---
+
 
 未经治疗精神病期是早期精神病干预中的指标，用来描述明显精神病性症状出现后到开始有效治疗之间的间隔。
 
@@ -48,3 +55,5 @@ sourceRefs:
 - 这些症状从什么时候开始明显影响生活？
 - 我是否因为羞耻或害怕一直拖延？
 - 现在能否先做一次专业评估？
+
+补充阅读提示：阅读未经治疗精神病期时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

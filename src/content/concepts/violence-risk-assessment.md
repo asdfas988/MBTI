@@ -18,6 +18,7 @@ sourceRefs:
     url: "https://www.merckmanuals.com/professional/psychiatric-disorders/approach-to-the-patient-with-mental-symptoms/mental-status-examination"
 ---
 
+
 暴力风险评估是系统了解伤人意念、目标、计划、手段、既往暴力、冲动性、精神症状、物质使用和保护因素的过程。
 
 ## 概念边界
@@ -50,3 +51,5 @@ sourceRefs:
 - 我是否有具体对象、计划或工具？
 - 愤怒背后是恐惧、羞耻还是被控制感？
 - 我需要哪些外部限制来防止冲动升级？
+
+补充阅读提示：阅读暴力风险评估时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

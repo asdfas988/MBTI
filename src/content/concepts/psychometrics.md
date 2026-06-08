@@ -1,22 +1,23 @@
 ---
 title: "心理测量学"
 description: "研究心理特质、能力、症状和行为如何被可靠、有效测量的心理学分支。"
-pubDate: 2026-06-07
-tags: ["心理测量", "人格评估", "测试"]
-group: "心理治疗与评估"
 plainDefinition: "研究心理特质、能力、症状和行为如何被可靠、有效测量的心理学分支。"
+group: "心理治疗与评估"
 english: "Psychometrics"
 aliases: ["心理计量学"]
 domains: ["评估", "人格心理学"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["reliability", "validity", "personality-test"]
+pubDate: 2026-06-07
+tags: ["心理测量", "人格评估", "测试"]
+sourceRefs:
   - label: "APA Dictionary of Psychology: psychological assessment"
     url: "https://dictionary.apa.org/psychological-assessment"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["reliability", "validity", "personality-test"]
 ---
+
 
 心理测量学关注量表如何设计、评分和解释，包括信度、效度、常模、标准化、项目分析和误差。它提醒我们：测试分数不是心理真相本身，而是测量模型下的证据。
 
@@ -44,3 +45,5 @@ related: ["reliability", "validity", "personality-test"]
 - 这个测试测的是什么，适合谁使用？
 - 我是否把分数当成固定命运？
 - 测试结果和我的生活证据是否一致？
+
+补充阅读提示：阅读心理测量学时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

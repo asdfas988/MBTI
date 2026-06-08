@@ -1,22 +1,23 @@
 ---
 title: "紧张症"
 description: "以运动、姿势、反应性和行为显著异常为特征的临床综合征，可见于多种精神或躯体状态。"
-pubDate: 2026-06-07
-tags: ["紧张症", "精神医学", "运动症状"]
-group: "精神病学基础"
 plainDefinition: "以运动、姿势、反应性和行为显著异常为特征的临床综合征，可见于多种精神或躯体状态。"
+group: "精神病学基础"
 english: "Catatonia"
 aliases: ["catatonia"]
 domains: ["精神医学"]
 level: "高级"
 clinicalBoundary: "疑似紧张症需要尽快医学/精神科评估，尤其伴随不进食、不饮水、发热或意识改变时。"
-sourceRefs: 
+related: ["schizophrenia", "mental-status-examination", "psychosis"]
+pubDate: 2026-06-07
+tags: ["紧张症", "精神医学", "运动症状"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "WHO ICD-11 Browser"
     url: "https://icd.who.int/browse/2025-01/mms/en"
-related: ["schizophrenia", "mental-status-examination", "psychosis"]
 ---
+
 
 紧张症可能表现为木僵、缄默、姿势保持、蜡样屈曲、刻板动作、违拗、模仿言语或动作，也可能出现激越型表现。它需要医学和精神科评估。
 
@@ -44,3 +45,5 @@ related: ["schizophrenia", "mental-status-examination", "psychosis"]
 - 是否出现明显不动、缄默、姿势保持或反应异常？
 - 是否伴随进食饮水困难或身体风险？
 - 是否需要立即医学评估？
+
+补充阅读提示：阅读紧张症时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

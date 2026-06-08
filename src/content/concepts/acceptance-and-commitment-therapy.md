@@ -1,24 +1,25 @@
 ---
 title: "接纳承诺疗法"
 description: "通过接纳内在体验、认知解离、价值澄清和承诺行动来增加心理灵活性的治疗取向。"
-pubDate: 2026-06-07
-tags: ["ACT", "接纳", "价值行动"]
-group: "心理治疗与评估"
 plainDefinition: "通过接纳内在体验、认知解离、价值澄清和承诺行动来增加心理灵活性的治疗取向。"
+group: "心理治疗与评估"
 english: "Acceptance and Commitment Therapy"
 aliases: ["ACT", "接纳与承诺疗法"]
 domains: ["心理治疗"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["acceptance", "values", "mindfulness"]
+pubDate: 2026-06-07
+tags: ["ACT", "接纳", "价值行动"]
+sourceRefs:
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
   - label: "APA: Evidence-Based Practice in Psychology"
     url: "https://www.apa.org/practice/guidelines/evidence-based-statement"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["acceptance", "values", "mindfulness"]
 ---
+
 
 ACT 关注人如何与痛苦想法和情绪相处，而不一定先消灭它们。它帮助个体看到“我有这个想法”不同于“这个想法就是事实”，并把行动重新放回价值方向。
 
@@ -46,3 +47,5 @@ ACT 可削弱防御性回避，让自我不再被症状控制。价值行动也�
 - 我正在逃避哪种内在体验？
 - 如果焦虑还在，我仍能做一个什么价值行动？
 - 我能否把“我不行”改成“我正在出现不行的想法”？
+
+补充阅读提示：阅读接纳承诺疗法时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

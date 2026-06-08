@@ -1,24 +1,25 @@
 ---
 title: "关系破裂与修复"
 description: "治疗关系中出现误解、退缩、对抗或失联后，通过讨论和调整重新建立合作的过程。"
-pubDate: 2026-06-07
-tags: ["治疗关系", "修复", "依恋"]
-group: "心理治疗与评估"
 plainDefinition: "治疗关系中出现误解、退缩、对抗或失联后，通过讨论和调整重新建立合作的过程。"
+group: "心理治疗与评估"
 english: "Rupture and Repair"
 aliases: ["联盟破裂与修复"]
 domains: ["心理治疗", "依恋"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["therapeutic-alliance", "working-alliance", "attachment"]
+pubDate: 2026-06-07
+tags: ["治疗关系", "修复", "依恋"]
+sourceRefs:
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
   - label: "APA: Evidence-Based Practice in Psychology"
     url: "https://www.apa.org/practice/guidelines/evidence-based-statement"
   - label: "APA Dictionary of Psychology: attachment style"
     url: "https://dictionary.apa.org/attachment-style"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["therapeutic-alliance", "working-alliance", "attachment"]
 ---
+
 
 治疗并不会永远顺滑。来访者可能觉得被误解、被评判、被忽略，治疗者也可能错过重点。修复不是把问题抹平，而是把关系中的断裂变成理解模式的入口。
 
@@ -46,3 +47,5 @@ related: ["therapeutic-alliance", "working-alliance", "attachment"]
 - 关系里一出现误解，我通常追击、讨好还是撤退？
 - 我是否相信对方能承受我的不满？
 - 修复之后，我能否真正恢复信任，还是表面继续？
+
+补充阅读提示：阅读关系破裂与修复时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

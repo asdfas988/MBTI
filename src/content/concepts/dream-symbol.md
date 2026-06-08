@@ -1,22 +1,23 @@
 ---
 title: "梦的象征"
 description: "梦中以图像、人物、场景或事件形式承载多重情绪和无意识意义的象征性材料。"
-pubDate: 2026-06-07
-tags: ["梦", "象征", "精神分析"]
-group: "精神动力学"
 plainDefinition: "梦中以图像、人物、场景或事件形式承载多重情绪和无意识意义的象征性材料。"
+group: "精神动力学"
 english: "Dream Symbol"
 aliases: ["梦象"]
 domains: ["精神动力学"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["symbolization", "dream-work", "latent-content"]
+pubDate: 2026-06-07
+tags: ["梦", "象征", "精神分析"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["symbolization", "dream-work", "latent-content"]
 ---
+
 
 梦的象征不是固定密码。同一个房间、河流、考试或陌生人，在不同人的历史和情境中可能代表完全不同的心理意义。
 
@@ -44,3 +45,5 @@ related: ["symbolization", "dream-work", "latent-content"]
 - 梦里反复出现的形象是什么？
 - 这个形象让我想到哪些人、地方或身体感？
 - 它是否同时让我害怕又吸引我？
+
+补充阅读提示：阅读梦的象征时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

@@ -1,24 +1,25 @@
 ---
 title: "稳定化技术"
 description: "通过感官、身体、环境和现实线索把注意力带回当下，以降低解离、惊恐或创伤触发强度的技术。"
-pubDate: 2026-06-07
-tags: ["稳定化", "创伤", "解离"]
-group: "心理治疗与评估"
 plainDefinition: "通过感官、身体、环境和现实线索把注意力带回当下，以降低解离、惊恐或创伤触发强度的技术。"
+group: "心理治疗与评估"
 english: "Grounding"
 aliases: ["接地技术", "grounding"]
 domains: ["心理治疗", "危机干预"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["dissociation", "flashback", "emdr"]
+pubDate: 2026-06-07
+tags: ["稳定化", "创伤", "解离"]
+sourceRefs:
   - label: "VA National Center for PTSD"
     url: "https://www.ptsd.va.gov/"
   - label: "NIMH: Post-Traumatic Stress Disorder"
     url: "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["dissociation", "flashback", "emdr"]
 ---
+
 
 稳定化技术常用于创伤、解离、惊恐和情绪危机中。它帮助个体重新确认“我在这里、现在是现在、身体是安全的”，而不是被过去记忆或强烈情绪完全卷走。
 
@@ -46,3 +47,5 @@ related: ["dissociation", "flashback", "emdr"]
 - 我失稳时最有效的五感线索是什么？
 - 我能否说出“这是记忆，不是现在”？
 - 我需要怎样的环境才能先回到安全窗口？
+
+补充阅读提示：阅读稳定化技术时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

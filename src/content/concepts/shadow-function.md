@@ -1,20 +1,29 @@
 ---
 title: "阴影功能"
 description: "类型学语境中指个体较少认同、容易投射或在压力下以防御形式出现的心理功能侧面。"
-pubDate: 2026-06-07
-tags: ["MBTI", "阴影", "荣格"]
-group: "MBTI 与人格"
 plainDefinition: "类型学语境中指个体较少认同、容易投射或在压力下以防御形式出现的心理功能侧面。"
+group: "MBTI 与人格"
 english: "Shadow Function"
 aliases: ["阴影认知功能"]
 domains: ["MBTI", "精神动力学"]
 level: "高级"
-sourceRefs: 
-  - label: "APA Dictionary of Psychology"
-    url: "https://dictionary.apa.org/"
 clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["projection", "inferior-function", "cognitive-functions"]
+pubDate: 2026-06-07
+tags: ["MBTI", "阴影", "荣格"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "The Myers-Briggs Company: type dynamics"
+    url: "https://www.themyersbriggs.com/en-US/Products-and-Services/Myers-Briggs"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
+  - label: "American Psychoanalytic Association: psychoanalytic terms"
+    url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
 ---
+
 
 阴影功能借用了荣格传统中的阴影思想。它提醒我们：不被自我认同的能力和欲望，可能通过投射、贬低、羡慕或突然爆发出现。
 
@@ -42,3 +51,5 @@ related: ["projection", "inferior-function", "cognitive-functions"]
 - 我最看不起哪类心理方式？
 - 我对某些人的强烈反应是否包含被投射的自己？
 - 我能否把“我绝不是”改成“我也可能有一点”？
+
+补充阅读提示：阅读阴影功能时，请把它当作偏好语言，而不是诊断或能力排名。MBTI 词汇适合开启自我观察，但需要和大五人格、心理测量限制、情绪调节和真实生活反馈一起理解，才不容易变成标签。

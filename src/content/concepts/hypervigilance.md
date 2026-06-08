@@ -1,24 +1,25 @@
 ---
 title: "警觉过高"
 description: "持续过度扫描环境威胁、难以放松并对危险线索高度敏感的状态。"
-pubDate: 2026-06-07
-tags: ["警觉过高", "创伤", "焦虑"]
-group: "精神病学基础"
 plainDefinition: "持续过度扫描环境威胁、难以放松并对危险线索高度敏感的状态。"
+group: "精神病学基础"
 english: "Hypervigilance"
 aliases: ["过度警觉"]
 domains: ["精神医学", "创伤"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["post-traumatic-stress-disorder", "trauma", "grounding"]
+pubDate: 2026-06-07
+tags: ["警觉过高", "创伤", "焦虑"]
+sourceRefs:
   - label: "NIMH: Post-Traumatic Stress Disorder"
     url: "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd"
   - label: "VA National Center for PTSD"
     url: "https://www.ptsd.va.gov/"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["post-traumatic-stress-disorder", "trauma", "grounding"]
 ---
+
 
 警觉过高常见于创伤、焦虑和长期不安全环境之后。身体像一直开着警报系统，注意力不断寻找危险、表情变化、声音、门口或逃离路线。
 
@@ -46,3 +47,5 @@ related: ["post-traumatic-stress-disorder", "trauma", "grounding"]
 - 我现在扫描的危险是真实当下，还是旧环境残留？
 - 我的身体什么时候才允许自己放松？
 - 我能否用稳定化技术确认当前安全线索？
+
+补充阅读提示：阅读警觉过高时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

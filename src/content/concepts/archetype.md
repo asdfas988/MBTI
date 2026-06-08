@@ -14,7 +14,12 @@ tags: ["原型", "荣格", "象征"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
+  - label: "American Psychoanalytic Association: psychoanalytic terms"
+    url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
 ---
+
 
 原型是荣格分析心理学中的概念，指集体无意识中的基本心理模式，以母亲、英雄、阴影、智者等形象表现。
 
@@ -48,3 +53,7 @@ sourceRefs:
 - 这个形象对我为什么如此有力量？
 - 我是否把现实的人原型化了？
 - 我能否既理解象征，又保留现实判断？
+
+补充阅读提示：阅读原型时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。
+
+写作使用提示：写到原型时，可以把概念放进一个重复关系或内心冲突中说明，同时保留多种解释可能。动力学语言越有用，越应该帮助读者变得更能观察自己，而不是更急着解释别人。

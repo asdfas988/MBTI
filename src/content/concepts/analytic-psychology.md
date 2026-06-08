@@ -14,7 +14,12 @@ tags: ["荣格", "分析心理学", "无意识"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
+  - label: "American Psychoanalytic Association: psychoanalytic terms"
+    url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
 ---
+
 
 分析心理学是荣格创立的深度心理学传统，强调个人无意识、集体无意识、原型、梦和个体化过程。
 
@@ -48,3 +53,7 @@ sourceRefs:
 - 我是在用类型理解自己，还是把类型当身份？
 - 我的梦和象征反复呈现什么主题？
 - 我有哪些被排除的人格部分？
+
+补充阅读提示：阅读分析心理学时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。
+
+写作使用提示：写到分析心理学时，可以把概念放进一个重复关系或内心冲突中说明，同时保留多种解释可能。动力学语言越有用，越应该帮助读者变得更能观察自己，而不是更急着解释别人。

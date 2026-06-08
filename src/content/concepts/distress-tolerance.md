@@ -1,22 +1,23 @@
 ---
 title: "痛苦耐受"
 description: "在痛苦强烈但无法立刻解决时，安全地撑过情绪峰值而不采取破坏性行动的能力。"
-pubDate: 2026-06-07
-tags: ["痛苦耐受", "DBT", "危机"]
-group: "心理治疗与评估"
 plainDefinition: "在痛苦强烈但无法立刻解决时，安全地撑过情绪峰值而不采取破坏性行动的能力。"
+group: "心理治疗与评估"
 english: "Distress Tolerance"
 aliases: ["痛苦容忍"]
 domains: ["心理治疗", "情绪调节"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["dialectical-behavior-therapy", "self-harm", "affect-regulation"]
+pubDate: 2026-06-07
+tags: ["痛苦耐受", "DBT", "危机"]
+sourceRefs:
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["dialectical-behavior-therapy", "self-harm", "affect-regulation"]
 ---
+
 
 痛苦耐受是 DBT 的重要模块。它不要求人喜欢痛苦，而是帮助人在危机时不让痛苦决定全部行动，例如不自伤、不冲动分手、不饮酒失控、不做不可逆决定。
 
@@ -44,3 +45,5 @@ related: ["dialectical-behavior-therapy", "self-harm", "affect-regulation"]
 - 我的情绪高峰通常持续多久？
 - 我最需要延后的不可逆行动是什么？
 - 有哪些身体策略能让我先降到可思考范围？
+
+补充阅读提示：阅读痛苦耐受时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

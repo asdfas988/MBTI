@@ -1,22 +1,23 @@
 ---
 title: "原发过程"
 description: "无意识中更接近梦、幻想和象征的心理运作方式，常不受逻辑、时间和现实约束。"
-pubDate: 2026-06-07
-tags: ["无意识", "梦", "精神分析"]
-group: "精神动力学"
 plainDefinition: "无意识中更接近梦、幻想和象征的心理运作方式，常不受逻辑、时间和现实约束。"
+group: "精神动力学"
 english: "Primary Process"
 aliases: ["初级过程"]
 domains: ["精神动力学"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["dream-work", "unconscious", "secondary-process"]
+pubDate: 2026-06-07
+tags: ["无意识", "梦", "精神分析"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["dream-work", "unconscious", "secondary-process"]
 ---
+
 
 原发过程常见于梦、症状、幻想、口误和强烈情绪状态中。它通过凝缩、置换、象征和形象化表达愿望与冲突。
 
@@ -44,3 +45,5 @@ related: ["dream-work", "unconscious", "secondary-process"]
 - 我的梦、身体感受或强烈联想在表达什么？
 - 某个现实事件是否触发了远超当下的情绪？
 - 我能否把形象化体验转成可说的话？
+
+补充阅读提示：阅读原发过程时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

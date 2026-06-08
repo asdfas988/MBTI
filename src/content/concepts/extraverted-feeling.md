@@ -1,20 +1,25 @@
 ---
 title: "外倾情感"
 description: "类型学中偏向根据关系氛围、共同价值和他人需要来组织判断的功能。"
-pubDate: 2026-06-07
-tags: ["MBTI", "Fe", "关系"]
-group: "MBTI 与人格"
 plainDefinition: "类型学中偏向根据关系氛围、共同价值和他人需要来组织判断的功能。"
+group: "MBTI 与人格"
 english: "Extraverted Feeling"
 aliases: ["Fe"]
 domains: ["MBTI"]
 level: "进阶"
-sourceRefs: 
-  - label: "APA Dictionary of Psychology"
-    url: "https://dictionary.apa.org/"
 clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["thinking-feeling", "empathy", "psychological-boundaries"]
+pubDate: 2026-06-07
+tags: ["MBTI", "Fe", "关系"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "The Myers-Briggs Company: type dynamics"
+    url: "https://www.themyersbriggs.com/en-US/Products-and-Services/Myers-Briggs"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
 ---
+
 
 外倾情感关注“这个决定如何影响关系和群体”。它倾向协调情绪、维护共识、照顾他人感受，并快速捕捉社会反馈。
 
@@ -42,3 +47,5 @@ Fe 可成为关系连接能力，也可能被用来避免冲突、压抑攻击�
 - 我照顾关系时是否也照顾了自己？
 - 我是否把别人的不舒服都当成我的责任？
 - 我能不能在保持连接时表达不同意见？
+
+补充阅读提示：阅读外倾情感时，请把它当作偏好语言，而不是诊断或能力排名。MBTI 词汇适合开启自我观察，但需要和大五人格、心理测量限制、情绪调节和真实生活反馈一起理解，才不容易变成标签。

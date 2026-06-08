@@ -1,22 +1,23 @@
 ---
 title: "广泛性焦虑障碍"
 description: "以长期、过度且难以控制的担忧为核心，并伴随紧张、疲劳、注意困难或睡眠问题的焦虑障碍。"
-pubDate: 2026-06-07
-tags: ["焦虑障碍", "担忧", "情绪调节"]
-group: "精神病学基础"
 plainDefinition: "以长期、过度且难以控制的担忧为核心，并伴随紧张、疲劳、注意困难或睡眠问题的焦虑障碍。"
+group: "精神病学基础"
 english: "Generalized Anxiety Disorder"
 aliases: ["GAD"]
 domains: ["精神医学", "焦虑"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["anxiety", "rumination", "intellectualization"]
+pubDate: 2026-06-07
+tags: ["焦虑障碍", "担忧", "情绪调节"]
+sourceRefs:
   - label: "NIMH: Anxiety Disorders"
     url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["anxiety", "rumination", "intellectualization"]
 ---
+
 
 广泛性焦虑障碍的担忧通常跨越多个生活领域，如健康、工作、金钱、关系和未来。个体常知道担忧过度，却很难停下来。
 
@@ -44,3 +45,5 @@ related: ["anxiety", "rumination", "intellectualization"]
 - 我的担忧是否真的带来行动，还是只在脑中循环？
 - 如果停止担忧，我最害怕发生什么？
 - 担忧下面是否藏着更难承受的情绪？
+
+补充阅读提示：阅读广泛性焦虑障碍时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

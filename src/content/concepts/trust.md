@@ -14,7 +14,12 @@ tags: ["信任", "关系", "安全"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
 ---
+
 
 相信他人、关系或环境在关键方面可依靠、可预测并会尊重基本边界的心理状态。
 
@@ -47,3 +52,7 @@ sourceRefs:
 - 我信任别人依据的是证据还是渴望？
 - 我是否把旧背叛投到新关系中？
 - 信任恢复需要什么具体行为？
+
+补充阅读提示：阅读信任时，建议同时观察个人感受和互动循环。关系概念不是用来判定谁有问题，而是帮助看见安全感、边界、回应质量和旧经验如何在当下关系中被重新激活。
+
+写作使用提示：写到信任时，可以把个人感受和互动循环一起写清楚：一个人的反应如何影响另一个人的安全感、边界或防御。这样词条会更贴近真实关系，而不是停留在抽象定义。

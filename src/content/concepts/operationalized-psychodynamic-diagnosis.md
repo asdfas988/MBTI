@@ -1,22 +1,23 @@
 ---
 title: "操作化心理动力学诊断"
 description: "一种把心理动力学个案理解结构化为疾病体验、关系、冲突、结构和诊断等轴向的评估系统。"
-pubDate: 2026-06-07
-tags: ["OPD", "心理动力学诊断", "个案概念化"]
-group: "心理治疗与评估"
 plainDefinition: "一种把心理动力学个案理解结构化为疾病体验、关系、冲突、结构和诊断等轴向的评估系统。"
+group: "心理治疗与评估"
 english: "Operationalized Psychodynamic Diagnosis"
 aliases: ["OPD"]
 domains: ["精神动力学", "评估"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["case-formulation", "personality-organization", "psychic-conflict"]
+pubDate: 2026-06-07
+tags: ["OPD", "心理动力学诊断", "个案概念化"]
+sourceRefs:
   - label: "APA Dictionary of Psychology: psychoanalysis"
     url: "https://dictionary.apa.org/psychoanalysis"
   - label: "PMC: Levels of Personality Organization"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4578897/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["case-formulation", "personality-organization", "psychic-conflict"]
 ---
+
 
 OPD 试图把精神动力学理解变得更可交流和可研究。它不只问“是什么诊断”，还问来访者如何体验疾病、关系模式怎样、核心冲突是什么、人格结构水平如何。
 
@@ -45,3 +46,5 @@ OPD 将冲突、防御、客体关系和结构功能放在可讨论框架中，�
 - 我的问题可从症状、关系、冲突和结构分别如何理解？
 - 我是否只想要诊断标签，而忽略动力学机制？
 - 我的核心关系模式是否反复出现在不同场景？
+
+补充阅读提示：阅读操作化心理动力学诊断时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

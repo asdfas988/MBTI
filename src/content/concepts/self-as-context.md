@@ -14,7 +14,18 @@ tags: ["ACT", "自我", "观察"]
 sourceRefs:
   - label: "Association for Contextual Behavioral Science: ACT"
     url: "https://contextualscience.org/act"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "American Psychoanalytic Association: psychoanalytic terms"
+    url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
 ---
+
 
 作为情境的自我是 ACT 概念，指个体能从一个稳定的观察位置接触变化的想法、情绪、角色和故事。
 
@@ -48,3 +59,7 @@ sourceRefs:
 - 我正在被哪个自我故事占据？
 - 我能否观察它，而不是完全成为它？
 - 如果我是容纳体验的空间，我下一步如何行动？
+
+补充阅读提示：阅读作为情境的自我时，要把它放在人格组织、自我功能和关系表征中理解。结构性概念通常描述长期模式，不适合根据单次行为下结论；它们更适合帮助识别整合、分化和现实检验的能力。
+
+写作使用提示：写到作为情境的自我时，适合说明它如何影响身份连续性、自尊调节、亲密关系和现实检验。结构性概念要谨慎使用，避免根据单次行为推断整个人格组织。

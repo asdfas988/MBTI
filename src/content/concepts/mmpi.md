@@ -1,22 +1,23 @@
 ---
 title: "明尼苏达多相人格测验"
 description: "用于评估人格和精神病理相关特征的标准化自陈式心理测验。"
-pubDate: 2026-06-07
-tags: ["MMPI", "人格评估", "临床测验"]
-group: "心理治疗与评估"
 plainDefinition: "用于评估人格和精神病理相关特征的标准化自陈式心理测验。"
+group: "心理治疗与评估"
 english: "Minnesota Multiphasic Personality Inventory"
 aliases: ["MMPI"]
 domains: ["评估", "精神医学"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["personality-test", "psychometrics", "validity"]
+pubDate: 2026-06-07
+tags: ["MMPI", "人格评估", "临床测验"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "APA Dictionary of Psychology: psychological assessment"
     url: "https://dictionary.apa.org/psychological-assessment"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["personality-test", "psychometrics", "validity"]
 ---
+
 
 MMPI 系列是临床和法庭等场景中常见的人格评估工具之一。它包含临床量表、效度量表和多种剖面解释，重点不是简单给人格类型，而是评估症状和反应风格。
 
@@ -44,3 +45,5 @@ MMPI 可以提供现实层面的症状和人格线索；来访者对剖面的反
 - 我期待临床测验给我确定标签，还是帮助理解问题？
 - 我能否接受测验结果只是评估资料之一？
 - 我如何面对量表显示的困难领域？
+
+补充阅读提示：阅读明尼苏达多相人格测验时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

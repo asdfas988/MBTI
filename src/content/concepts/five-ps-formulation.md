@@ -18,6 +18,7 @@ sourceRefs:
     url: "https://dictionary.apa.org/"
 ---
 
+
 五 P 个案概念化通常包括 presenting、predisposing、precipitating、perpetuating 和 protective factors，用于组织临床材料。
 
 ## 概念边界
@@ -50,3 +51,5 @@ sourceRefs:
 - 我的问题是什么时候被诱发的？
 - 什么让它持续？
 - 哪些保护因素仍在帮我？
+
+补充阅读提示：阅读五 P 个案概念化时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

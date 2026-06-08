@@ -14,7 +14,10 @@ tags: ["依恋", "安全基地", "探索"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 依恋理论中，可靠照料者或关系作为探索世界的心理基地，使个体能离开、尝试并在需要时返回。
 
@@ -47,3 +50,7 @@ sourceRefs:
 - 谁或什么经验曾是我的安全基地？
 - 我在关系中支持探索，还是限制探索？
 - 我能否逐步内化一个稳定基地？
+
+补充阅读提示：阅读安全基地时，建议同时观察个人感受和互动循环。关系概念不是用来判定谁有问题，而是帮助看见安全感、边界、回应质量和旧经验如何在当下关系中被重新激活。
+
+写作使用提示：写到安全基地时，可以把个人感受和互动循环一起写清楚：一个人的反应如何影响另一个人的安全感、边界或防御。这样词条会更贴近真实关系，而不是停留在抽象定义。

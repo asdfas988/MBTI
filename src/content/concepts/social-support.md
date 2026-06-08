@@ -1,22 +1,23 @@
 ---
 title: "社会支持"
 description: "个体从关系网络中获得的情感、信息、工具性帮助和归属资源。"
-pubDate: 2026-06-07
-tags: ["社会支持", "韧性", "关系"]
-group: "人格心理学"
 plainDefinition: "个体从关系网络中获得的情感、信息、工具性帮助和归属资源。"
+group: "人格心理学"
 english: "Social Support"
 aliases: ["支持系统"]
 domains: ["人格心理学", "精神健康"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["resilience", "relatedness", "secure-attachment"]
+pubDate: 2026-06-07
+tags: ["社会支持", "韧性", "关系"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "WHO: Mental health"
     url: "https://www.who.int/health-topics/mental-health"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["resilience", "relatedness", "secure-attachment"]
 ---
+
 
 社会支持包括有人倾听、提供建议、实际帮忙、共同面对压力或给予归属感。它是心理韧性和危机恢复的重要保护因素。
 
@@ -44,3 +45,7 @@ related: ["resilience", "relatedness", "secure-attachment"]
 - 我真正可求助的人有哪些？
 - 我是否把接受支持体验成软弱或欠债？
 - 哪些关系给我恢复感，哪些关系让我更耗竭？
+
+补充阅读提示：阅读社会支持时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到社会支持时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

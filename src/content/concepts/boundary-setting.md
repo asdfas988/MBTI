@@ -14,7 +14,12 @@ tags: ["边界", "关系", "自我"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "APA: Cognitive Behavioral Therapy"
+    url: "https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral"
 ---
+
 
 边界设定指在关系中清楚表达自己的时间、身体、情绪、隐私、责任和可接受互动范围。
 
@@ -48,3 +53,7 @@ sourceRefs:
 - 我最难设定哪类边界？
 - 我说不时最怕失去什么？
 - 我的边界是在保护亲密，还是切断亲密？
+
+补充阅读提示：阅读边界设定时，建议同时观察个人感受和互动循环。关系概念不是用来判定谁有问题，而是帮助看见安全感、边界、回应质量和旧经验如何在当下关系中被重新激活。
+
+写作使用提示：写到边界设定时，可以把个人感受和互动循环一起写清楚：一个人的反应如何影响另一个人的安全感、边界或防御。这样词条会更贴近真实关系，而不是停留在抽象定义。

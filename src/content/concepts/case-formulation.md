@@ -1,24 +1,25 @@
 ---
 title: "个案概念化"
 description: "把症状、人格、发展史、触发因素和维持机制整合成可指导治疗的理解模型。"
-pubDate: 2026-06-07
-tags: ["个案概念化", "临床评估", "心理治疗"]
-group: "心理治疗与评估"
 plainDefinition: "把症状、人格、发展史、触发因素和维持机制整合成可指导治疗的理解模型。"
+group: "心理治疗与评估"
 english: "Case Formulation"
 aliases: ["案例概念化", "个案 formulation"]
 domains: ["评估", "心理治疗"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["psychological-assessment", "differential-diagnosis", "personality-organization"]
+pubDate: 2026-06-07
+tags: ["个案概念化", "临床评估", "心理治疗"]
+sourceRefs:
   - label: "APA: Evidence-Based Practice in Psychology"
     url: "https://www.apa.org/practice/guidelines/evidence-based-statement"
   - label: "APA Dictionary of Psychology: psychological assessment"
     url: "https://dictionary.apa.org/psychological-assessment"
   - label: "PMC: Levels of Personality Organization"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4578897/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["psychological-assessment", "differential-diagnosis", "personality-organization"]
 ---
+
 
 个案概念化回答的不只是“这个人有什么诊断”，而是“这个问题为什么在这个人身上、此时、以这种方式出现，并被什么机制维持”。
 
@@ -46,3 +47,5 @@ related: ["psychological-assessment", "differential-diagnosis", "personality-org
 - 我的问题在什么情境下最容易被触发？
 - 我用什么方式缓解痛苦，而这种方式又如何维持问题？
 - 如果把症状看成一种心理解决方案，它在解决什么？
+
+补充阅读提示：阅读个案概念化时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

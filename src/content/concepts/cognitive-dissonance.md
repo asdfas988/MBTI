@@ -1,20 +1,25 @@
 ---
 title: "认知失调"
 description: "当信念、态度、价值或行为之间出现不一致时产生的不适，并推动个体减少这种不一致。"
-pubDate: 2026-06-07
-tags: ["认知失调", "合理化", "自我一致"]
-group: "人格心理学"
 plainDefinition: "当信念、态度、价值或行为之间出现不一致时产生的不适，并推动个体减少这种不一致。"
+group: "人格心理学"
 english: "Cognitive Dissonance"
 aliases: ["认知不协调"]
 domains: ["人格心理学", "认知"]
 level: "基础"
-sourceRefs: 
-  - label: "APA Dictionary of Psychology"
-    url: "https://dictionary.apa.org/"
 clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["rationalization", "denial", "ambivalence"]
+pubDate: 2026-06-07
+tags: ["认知失调", "合理化", "自我一致"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 认知失调会让人改变信念、合理化行为、贬低证据或调整行动。例如做了违背价值的事后，人可能说“其实也没那么重要”来降低不适。
 
@@ -42,3 +47,5 @@ related: ["rationalization", "denial", "ambivalence"]
 - 我正在为哪个行为找理由？
 - 我是在调整信念以接近真实，还是为了不痛苦？
 - 如果承认不一致，我需要承担什么？
+
+补充阅读提示：阅读认知失调时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

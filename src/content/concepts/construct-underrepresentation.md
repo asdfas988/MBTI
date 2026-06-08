@@ -1,50 +1,56 @@
 ---
 title: "构念代表不足"
-description: "构念代表不足是效度威胁之一，指测验内容未能充分代表想要测量的构念范围。"
+description: "测验没有覆盖目标心理构念的重要部分，导致结果片面。它属于心理测量和评估语言，用来帮助读者更谨慎地解释分数、误差和适用范围。"
 plainDefinition: "测验没有覆盖目标心理构念的重要部分，导致结果片面。"
 group: "心理治疗与评估"
 english: "Construct Underrepresentation"
 aliases: ["构念覆盖不足"]
 domains: ["心理测量", "效度"]
 level: "专业"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+clinicalBoundary: "本站把它作为心理测量与评估概念使用。任何测验分数都不能脱离测验目的、样本、信度效度证据、文化背景和合格专业解释单独下结论。"
 related: ["construct-validity", "content-validity", "test-fairness", "construct-irrelevant-variance"]
 pubDate: 2026-06-08
 tags: ["效度", "构念", "测验公平"]
 sourceRefs:
   - label: "AERA/APA/NCME: Standards for Educational and Psychological Testing"
     url: "https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
+  - label: "NCME: Testing Standards"
+    url: "https://ncme.org/resources-publications/books/testing-standards"
 ---
 
-构念代表不足是效度威胁之一，指测验内容未能充分代表想要测量的构念范围。
+构念代表不足（Construct Underrepresentation）指测验没有覆盖目标心理构念的重要部分，导致结果片面。
 
 ## 概念边界
 
-它不是分数误差这么简单，而是测验从一开始就漏掉了应测的重要内容。
+构念代表不足是心理测量和评估中的概念，必须放在测验目的、样本、常模、信度效度、公平性和解释责任中理解。它不能单独证明一个人“是什么样的人”。
 
 ## 为什么重要
 
-如果人格测试只测社交表现却声称测外向，就可能低估安静但高社交动机的人。
+它能帮助读者避免把分数当成绝对事实。无论是人格测验、筛查量表还是疗效监测，构念代表不足都提醒我们：测量是有误差、有边界、有适用条件的。
 
 ## 常见表现
 
-- 题目覆盖面过窄
-- 重要维度缺失
-- 测验用途超过内容支持范围
-- 不同人群中遗漏尤其明显
+- 解释分数时需要同时看测量对象、适用人群和证据质量。
+- 不同样本、语言、文化和使用目的可能改变结果意义。
+- 用于筛查、诊断或重要决策时，需要更严格的证据链。
+- 好的报告会说明限制，而不是只给出一个看似精确的结论。
 
 ## 容易混淆
 
-- 不等于题目少本身
-- 不等于信度低
-- 不等于内容看起来相关就够
+- 不等于测验好坏的单一指标：心理测量通常需要多种证据共同支持。
+- 不等于分数越高越有意义：还要看误差、范围和解释目标。
+- 不等于专业判断可以被自动化替代：测验结果需要合格解释。
 
 ## 在人格动力中的作用
 
-构念代表不足在网站测试中很常见：少量题目就想解释复杂人格，容易制造漂亮但片面的叙事。
+构念代表不足在人格网站中承担“防误读”的功能。它提醒读者，测验结果会进入自我叙事，因此解释时要保护人的复杂性，避免把暂时状态、文化差异或量表误差人格化。
 
 ## 自我观察
 
-- 这个测试漏掉了哪些重要面向？
-- 结果解释是否超过题目覆盖范围？
-- 构念定义是否足够清楚？
+- 这个分数或指标服务于筛查、描述、研究，还是重要决策？
+- 它的证据是否来自与我相似的人群和使用情境？
+- 我是否把测验语言当成了对整个人的最终判断？

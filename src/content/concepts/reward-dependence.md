@@ -14,7 +14,12 @@ tags: ["气质", "TCI", "关系"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 奖赏依赖是一种气质维度，描述个体对社会奖赏、认可、亲密、赞许和关系反馈的敏感程度。
 
@@ -48,3 +53,7 @@ sourceRefs:
 - 我是否把他人反馈当成唯一自我评价？
 - 我为了被喜欢放弃了哪些边界？
 - 哪些关系能支持我而不吞没我？
+
+补充阅读提示：阅读奖赏依赖时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到奖赏依赖时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

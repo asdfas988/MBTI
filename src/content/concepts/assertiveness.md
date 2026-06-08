@@ -14,7 +14,12 @@ tags: ["表达", "边界", "人际"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "APA: Cognitive Behavioral Therapy"
+    url: "https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral"
 ---
+
 
 坚定表达指清楚、直接且尊重地表达自己的需要、意见、拒绝和边界，而不过度攻击或退让。
 
@@ -48,3 +53,7 @@ sourceRefs:
 - 我通常是攻击、沉默还是清楚表达？
 - 我害怕表达需要后发生什么？
 - 我能否用一句具体请求替代抱怨？
+
+补充阅读提示：阅读坚定表达时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。
+
+写作使用提示：写到坚定表达时，可以补一个具体但不泄露隐私的情境例子，并说明它适合解决哪类问题、不适合替代什么专业判断。这样读者既能学会概念，也不会把治疗技术当成自助清单。

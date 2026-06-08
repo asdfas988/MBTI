@@ -1,22 +1,23 @@
 ---
 title: "动机缺乏"
 description: "启动、维持目标导向行为的动力明显下降，导致活动减少和功能受损的状态。"
-pubDate: 2026-06-07
-tags: ["动机缺乏", "功能损害", "抑郁"]
-group: "精神病学基础"
 plainDefinition: "启动、维持目标导向行为的动力明显下降，导致活动减少和功能受损的状态。"
+group: "精神病学基础"
 english: "Amotivation"
 aliases: ["动力不足"]
 domains: ["精神医学", "人格心理学"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["motivation", "anhedonia", "self-efficacy"]
+pubDate: 2026-06-07
+tags: ["动机缺乏", "功能损害", "抑郁"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "NIMH: Depression"
     url: "https://www.nimh.nih.gov/health/publications/depression"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["motivation", "anhedonia", "self-efficacy"]
 ---
+
 
 动机缺乏可见于抑郁、精神分裂症阴性症状、物质使用、长期压力和神经发育困难中。它常被误解为懒惰，但实际可能涉及奖励、执行功能和自我效能受损。
 
@@ -44,3 +45,5 @@ related: ["motivation", "anhedonia", "self-efficacy"]
 - 我是不想做、不能启动，还是害怕开始后的评价？
 - 最小可行动作是什么？
 - 我是否用自责替代了实际支持？
+
+补充阅读提示：阅读动机缺乏时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

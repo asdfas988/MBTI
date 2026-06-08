@@ -18,6 +18,7 @@ sourceRefs:
     url: "https://www.who.int/news/item/08-03-2024-new-manual-released-to-support-diagnosis-of-mental--behavioural-and-neurodevelopmental-disorders-added-in-icd-11"
 ---
 
+
 边缘型模式限定是 ICD-11 人格障碍诊断中的一个限定说明，用于标注接近传统边缘型人格障碍特征的表现模式。
 
 ## 概念边界
@@ -50,3 +51,5 @@ ICD-11 更重视人格障碍严重度和特质维度，边缘型模式限定帮�
 - 我的困难是否跨情境长期存在？
 - 关系中的极端化是否与抛弃恐惧有关？
 - 我是否需要专业评估人格功能和风险？
+
+补充阅读提示：阅读边缘型模式限定时，要把它放在人格组织、自我功能和关系表征中理解。结构性概念通常描述长期模式，不适合根据单次行为下结论；它们更适合帮助识别整合、分化和现实检验的能力。

@@ -14,7 +14,16 @@ tags: ["挫折", "耐受", "成熟"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "American Psychoanalytic Association: psychoanalytic terms"
+    url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
 ---
+
 
 挫折耐受指个体在愿望受阻、等待、失败或被拒绝时，仍能保持基本调节、思考和行动能力。
 
@@ -48,3 +57,7 @@ sourceRefs:
 - 我遇到阻碍时第一反应是什么？
 - 失望会让我攻击、讨好、逃避还是思考？
 - 我能否把挫折分成可承受的小块？
+
+补充阅读提示：阅读挫折耐受时，要把它放在人格组织、自我功能和关系表征中理解。结构性概念通常描述长期模式，不适合根据单次行为下结论；它们更适合帮助识别整合、分化和现实检验的能力。
+
+写作使用提示：写到挫折耐受时，适合说明它如何影响身份连续性、自尊调节、亲密关系和现实检验。结构性概念要谨慎使用，避免根据单次行为推断整个人格组织。

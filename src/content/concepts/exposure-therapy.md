@@ -1,24 +1,25 @@
 ---
 title: "暴露治疗"
 description: "通过有计划地接触恐惧线索并减少回避，使焦虑系统重新学习安全与可承受性的治疗方法。"
-pubDate: 2026-06-07
-tags: ["暴露治疗", "焦虑治疗", "行为治疗"]
-group: "心理治疗与评估"
 plainDefinition: "通过有计划地接触恐惧线索并减少回避，使焦虑系统重新学习安全与可承受性的治疗方法。"
+group: "心理治疗与评估"
 english: "Exposure Therapy"
 aliases: ["暴露疗法"]
 domains: ["心理治疗", "焦虑"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["specific-phobia", "panic-disorder", "obsessive-compulsive-disorder"]
+pubDate: 2026-06-07
+tags: ["暴露治疗", "焦虑治疗", "行为治疗"]
+sourceRefs:
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
   - label: "APA: Evidence-Based Practice in Psychology"
     url: "https://www.apa.org/practice/guidelines/evidence-based-statement"
   - label: "NIMH: Anxiety Disorders"
     url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["specific-phobia", "panic-disorder", "obsessive-compulsive-disorder"]
 ---
+
 
 暴露治疗常用于恐惧、惊恐、强迫和创伤相关问题。它不是强迫来访者硬扛，而是在评估、同意和安全框架下，循序渐进地接触被回避的刺激或记忆。
 
@@ -46,3 +47,5 @@ related: ["specific-phobia", "panic-disorder", "obsessive-compulsive-disorder"]
 - 我回避的东西真正危险，还是被旧经验标记为危险？
 - 我有哪些安全行为让自己无法学习“其实能承受”？
 - 我是否需要专业支持来设计暴露节奏？
+
+补充阅读提示：阅读暴露治疗时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

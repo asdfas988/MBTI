@@ -1,22 +1,23 @@
 ---
 title: "面质"
 description: "治疗者温和而清楚地指出来访者叙述、情绪、行为或关系模式中的矛盾与回避。"
-pubDate: 2026-06-07
-tags: ["面质", "治疗技术", "防御"]
-group: "心理治疗与评估"
 plainDefinition: "治疗者温和而清楚地指出来访者叙述、情绪、行为或关系模式中的矛盾与回避。"
+group: "心理治疗与评估"
 english: "Confrontation"
 aliases: ["对质"]
 domains: ["心理治疗", "精神动力学"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["clarification", "interpretation-technique", "denial"]
+pubDate: 2026-06-07
+tags: ["面质", "治疗技术", "防御"]
+sourceRefs:
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["clarification", "interpretation-technique", "denial"]
 ---
+
 
 面质不是攻击，而是把来访者尚未看见或不愿看见的矛盾呈现出来。例如“你说不在乎，但每次提到这件事都很痛”。
 
@@ -44,3 +45,5 @@ related: ["clarification", "interpretation-technique", "denial"]
 - 我是否有“嘴上说不在乎、身体很在乎”的地方？
 - 别人指出矛盾时，我感到羞耻、愤怒还是好奇？
 - 这个矛盾保护了我什么？
+
+补充阅读提示：阅读面质时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

@@ -1,22 +1,23 @@
 ---
 title: "正念"
 description: "以开放、非评判的方式觉察当下经验，包括身体、情绪、想法和环境。"
-pubDate: 2026-06-07
-tags: ["正念", "觉察", "心理治疗"]
-group: "心理治疗与评估"
 plainDefinition: "以开放、非评判的方式觉察当下经验，包括身体、情绪、想法和环境。"
+group: "心理治疗与评估"
 english: "Mindfulness"
 aliases: ["当下觉察"]
 domains: ["心理治疗", "情绪调节"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["emotion-regulation", "mentalization", "acceptance"]
+pubDate: 2026-06-07
+tags: ["正念", "觉察", "心理治疗"]
+sourceRefs:
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["emotion-regulation", "mentalization", "acceptance"]
 ---
+
 
 正念训练关注把注意力带回当下，同时观察想法和情绪如何出现、变化和消退。它常被用于压力、焦虑、抑郁复发预防、DBT、ACT 和创伤稳定工作中。
 
@@ -44,3 +45,5 @@ related: ["emotion-regulation", "mentalization", "acceptance"]
 - 我现在身体最明显的感觉是什么？
 - 这个想法是在描述事实，还是在制造故事？
 - 我能否在行动前多观察三次呼吸？
+
+补充阅读提示：阅读正念时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

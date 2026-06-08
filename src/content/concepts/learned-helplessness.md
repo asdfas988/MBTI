@@ -1,22 +1,23 @@
 ---
 title: "习得性无助"
 description: "在反复经历无法控制的负面事件后，个体即使后来有机会改变，也倾向于不再尝试的状态。"
-pubDate: 2026-06-07
-tags: ["习得性无助", "控制感", "抑郁"]
-group: "人格心理学"
 plainDefinition: "在反复经历无法控制的负面事件后，个体即使后来有机会改变，也倾向于不再尝试的状态。"
+group: "人格心理学"
 english: "Learned Helplessness"
 aliases: ["习得无助"]
 domains: ["人格心理学", "抑郁"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["competence", "self-efficacy", "depression"]
+pubDate: 2026-06-07
+tags: ["习得性无助", "控制感", "抑郁"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "NIMH: Depression"
     url: "https://www.nimh.nih.gov/health/publications/depression"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["competence", "self-efficacy", "depression"]
 ---
+
 
 习得性无助会让人相信努力没有意义、行动不能改变结果。它与抑郁、创伤、教育挫败和控制性关系经历有关。
 
@@ -44,3 +45,5 @@ related: ["competence", "self-efficacy", "depression"]
 - 我在哪些领域已经提前放弃？
 - 这个无助来自现实证据，还是过去经验泛化？
 - 有没有一个我能控制的最小变量？
+
+补充阅读提示：阅读习得性无助时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

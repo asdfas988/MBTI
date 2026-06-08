@@ -1,22 +1,23 @@
 ---
 title: "侵入性记忆"
 description: "不受欢迎、反复闯入意识的记忆、画面、声音、身体感或情绪片段。"
-pubDate: 2026-06-07
-tags: ["侵入性记忆", "创伤", "PTSD"]
-group: "精神病学基础"
 plainDefinition: "不受欢迎、反复闯入意识的记忆、画面、声音、身体感或情绪片段。"
+group: "精神病学基础"
 english: "Intrusive Memory"
 aliases: ["侵入回忆"]
 domains: ["精神医学", "创伤"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["flashback", "trauma", "repression"]
+pubDate: 2026-06-07
+tags: ["侵入性记忆", "创伤", "PTSD"]
+sourceRefs:
   - label: "NIMH: Post-Traumatic Stress Disorder"
     url: "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd"
   - label: "VA National Center for PTSD"
     url: "https://www.ptsd.va.gov/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["flashback", "trauma", "repression"]
 ---
+
 
 侵入性记忆常见于创伤后，也可出现在焦虑、强迫和丧失之后。它像未经邀请的心理片段，打断当下活动并重新激活情绪和身体反应。
 
@@ -44,3 +45,5 @@ related: ["flashback", "trauma", "repression"]
 - 这些记忆最常在什么线索后出现？
 - 我能否区分“记忆闯入”和“现在危险”？
 - 我需要先稳定，还是已经可以逐步处理？
+
+补充阅读提示：阅读侵入性记忆时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

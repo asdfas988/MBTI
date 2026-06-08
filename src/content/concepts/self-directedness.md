@@ -14,7 +14,12 @@ tags: ["性格", "TCI", "自我"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 自我导向性是一种性格维度，描述个体能否以目标、责任、资源感和自我接纳来组织生活。
 
@@ -48,3 +53,7 @@ sourceRefs:
 - 我把自己放在生活的什么位置：行动者还是旁观者？
 - 我能承担哪些小责任，而不是全盘自责？
 - 我的目标是否来自真实价值？
+
+补充阅读提示：阅读自我导向性时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到自我导向性时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

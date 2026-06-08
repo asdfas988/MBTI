@@ -1,22 +1,23 @@
 ---
 title: "修通"
 description: "在反复识别、体验和理解旧有冲突与防御后，使新的理解逐渐转化为稳定改变的过程。"
-pubDate: 2026-06-07
-tags: ["修通", "精神分析", "治疗过程"]
-group: "精神动力学"
 plainDefinition: "在反复识别、体验和理解旧有冲突与防御后，使新的理解逐渐转化为稳定改变的过程。"
+group: "精神动力学"
 english: "Working Through"
 aliases: ["工作贯通"]
 domains: ["精神动力学", "心理治疗"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["insight", "repetition-compulsion", "resistance"]
+pubDate: 2026-06-07
+tags: ["修通", "精神分析", "治疗过程"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "American Psychoanalytic Association: about psychoanalysis"
     url: "https://apsa.org/about-psychoanalysis/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["insight", "repetition-compulsion", "resistance"]
 ---
+
 
 修通说明心理改变通常不是一次顿悟完成。来访者会在不同情境中反复遇到同一模式，每一次识别和处理都让新经验更牢固。
 
@@ -44,3 +45,5 @@ related: ["insight", "repetition-compulsion", "resistance"]
 - 我是否在不同关系里重复同一剧本？
 - 我只是理解了，还是能在情绪升起时做不同选择？
 - 哪些旧防御正在变得没那么必要？
+
+补充阅读提示：阅读修通时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

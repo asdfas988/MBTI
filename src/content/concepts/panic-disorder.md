@@ -1,22 +1,23 @@
 ---
 title: "惊恐障碍"
 description: "以反复突发的惊恐发作，以及对再次发作的持续担忧或行为改变为特征的焦虑障碍。"
-pubDate: 2026-06-07
-tags: ["惊恐障碍", "惊恐发作", "焦虑"]
-group: "精神病学基础"
 plainDefinition: "以反复突发的惊恐发作，以及对再次发作的持续担忧或行为改变为特征的焦虑障碍。"
+group: "精神病学基础"
 english: "Panic Disorder"
 aliases: ["恐慌障碍"]
 domains: ["精神医学", "焦虑"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["panic-attack", "agoraphobia", "anxiety"]
+pubDate: 2026-06-07
+tags: ["惊恐障碍", "惊恐发作", "焦虑"]
+sourceRefs:
   - label: "NIMH: Anxiety Disorders"
     url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["panic-attack", "agoraphobia", "anxiety"]
 ---
+
 
 惊恐障碍的核心不是单次惊恐发作，而是反复发作后形成的预期焦虑和回避。个体常担心自己会死、失控、疯掉或当众出丑。
 
@@ -44,3 +45,5 @@ related: ["panic-attack", "agoraphobia", "anxiety"]
 - 我是否把某些身体感觉立即解释成灾难？
 - 我因害怕发作而避免了哪些活动？
 - 惊恐发作前有没有关系、压力或分离线索？
+
+补充阅读提示：阅读惊恐障碍时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

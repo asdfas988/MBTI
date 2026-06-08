@@ -1,20 +1,25 @@
 ---
 title: "外倾感觉"
 description: "类型学中偏向直接接触当下环境、身体感官、行动机会和现实反馈的感知功能。"
-pubDate: 2026-06-07
-tags: ["MBTI", "Se", "感官"]
-group: "MBTI 与人格"
 plainDefinition: "类型学中偏向直接接触当下环境、身体感官、行动机会和现实反馈的感知功能。"
+group: "MBTI 与人格"
 english: "Extraverted Sensing"
 aliases: ["Se"]
 domains: ["MBTI"]
 level: "进阶"
-sourceRefs: 
-  - label: "APA Dictionary of Psychology"
-    url: "https://dictionary.apa.org/"
 clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["sensing-intuition", "disinhibition", "reality-testing"]
+pubDate: 2026-06-07
+tags: ["MBTI", "Se", "感官"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "The Myers-Briggs Company: type dynamics"
+    url: "https://www.themyersbriggs.com/en-US/Products-and-Services/Myers-Briggs"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
 ---
+
 
 外倾感觉关注“此刻正在发生什么”。它对具体细节、身体节奏、空间、机会和即时反馈敏感，擅长在现场行动。
 
@@ -42,3 +47,5 @@ Se 能把人带回现实和身体，也可能被用来逃离内在情绪。成�
 - 我通过行动获得信息，还是用行动逃离感受？
 - 身体在场是否帮助我稳定？
 - 我追求即时体验时是否仍能看见后果？
+
+补充阅读提示：阅读外倾感觉时，请把它当作偏好语言，而不是诊断或能力排名。MBTI 词汇适合开启自我观察，但需要和大五人格、心理测量限制、情绪调节和真实生活反馈一起理解，才不容易变成标签。

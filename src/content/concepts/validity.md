@@ -1,20 +1,25 @@
 ---
 title: "效度"
 description: "测量工具的解释和用途是否真正支持其声称要测量的心理构念。"
-pubDate: 2026-06-07
-tags: ["效度", "心理测量", "测试解释"]
-group: "心理治疗与评估"
 plainDefinition: "测量工具的解释和用途是否真正支持其声称要测量的心理构念。"
+group: "心理治疗与评估"
 english: "Validity"
 aliases: ["有效性"]
 domains: ["评估", "研究方法"]
 level: "基础"
-sourceRefs: 
-  - label: "APA Dictionary of Psychology"
-    url: "https://dictionary.apa.org/"
 clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["psychometrics", "reliability", "barnum-effect"]
+pubDate: 2026-06-07
+tags: ["效度", "心理测量", "测试解释"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
+  - label: "AERA/APA/NCME: Standards for Educational and Psychological Testing"
+    url: "https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
 ---
+
 
 效度回答“这个测试测到它说的东西了吗”。一个量表可能很稳定，但如果不能预测相关行为、不能区分目标构念，或解释超出证据，就缺乏效度。
 
@@ -42,3 +47,5 @@ related: ["psychometrics", "reliability", "barnum-effect"]
 - 这个测试的用途有没有证据支持？
 - 我是否把“感觉准”当成效度证据？
 - 结果是否被过度解释到了它不能支持的范围？
+
+补充阅读提示：阅读效度时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

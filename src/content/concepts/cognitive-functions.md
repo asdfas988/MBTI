@@ -14,7 +14,12 @@ tags: ["MBTI", "荣格八维"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "The Myers-Briggs Company: type dynamics"
+    url: "https://www.themyersbriggs.com/en-US/Products-and-Services/Myers-Briggs"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
 ---
+
 
 MBTI 和荣格类型论中用来描述信息处理与决策偏好的概念。
 
@@ -47,3 +52,7 @@ MBTI 不是临床工具，认知功能也缺乏像大五那样强的主流测量
 - 我最自然的信息入口是什么？
 - 我做决定时最害怕忽略什么？
 - 压力下我会过度使用哪种功能？
+
+补充阅读提示：阅读认知功能时，请把它当作偏好语言，而不是诊断或能力排名。MBTI 词汇适合开启自我观察，但需要和大五人格、心理测量限制、情绪调节和真实生活反馈一起理解，才不容易变成标签。
+
+写作使用提示：写到认知功能时，应提醒读者这是偏好语言，不是能力证明。可以把它和真实行为、压力状态、大五人格或心理测量边界放在一起，避免让类型词变成新的自我限制。

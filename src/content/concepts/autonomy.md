@@ -1,22 +1,23 @@
 ---
 title: "自主性"
 description: "个体感到自己的行动来自内在认可、选择和自我整合，而非单纯被外部控制。"
-pubDate: 2026-06-07
-tags: ["自主性", "动机", "主体性"]
-group: "人格心理学"
 plainDefinition: "个体感到自己的行动来自内在认可、选择和自我整合，而非单纯被外部控制。"
+group: "人格心理学"
 english: "Autonomy"
 aliases: ["自主需要"]
 domains: ["人格心理学"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["self-direction", "separation-individuation", "psychological-boundaries"]
+pubDate: 2026-06-07
+tags: ["自主性", "动机", "主体性"]
+sourceRefs:
   - label: "Center for Self-Determination Theory"
     url: "https://selfdeterminationtheory.org/theory/"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["self-direction", "separation-individuation", "psychological-boundaries"]
 ---
+
 
 自主性不是想做什么就做什么，而是能把行动体验为“这是我认可的选择”。一个人可以履行责任，同时仍保有自主感。
 
@@ -44,3 +45,5 @@ related: ["self-direction", "separation-individuation", "psychological-boundarie
 - 这个选择是我认可的，还是只是避免别人失望？
 - 我是否把自主等同于必须一个人？
 - 我能否在亲密中仍保留自己的方向？
+
+补充阅读提示：阅读自主性时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

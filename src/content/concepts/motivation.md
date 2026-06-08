@@ -1,22 +1,23 @@
 ---
 title: "动机"
 description: "推动个体启动、维持和调整行为的内在需要、外在诱因、目标、价值和情绪力量。"
-pubDate: 2026-06-07
-tags: ["动机", "人格心理学", "无意识动机"]
-group: "人格心理学"
 plainDefinition: "推动个体启动、维持和调整行为的内在需要、外在诱因、目标、价值和情绪力量。"
+group: "人格心理学"
 english: "Motivation"
 aliases: ["行为动机"]
 domains: ["人格心理学", "精神动力学"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["values", "ambivalence", "psychic-conflict"]
+pubDate: 2026-06-07
+tags: ["动机", "人格心理学", "无意识动机"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "Center for Self-Determination Theory"
     url: "https://selfdeterminationtheory.org/theory/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["values", "ambivalence", "psychic-conflict"]
 ---
+
 
 动机不是单一意志力。人会被奖励、恐惧、关系需要、价值、自尊、好奇、羞耻和防御共同推动。理解动机需要问：这个行为在服务什么心理功能。
 
@@ -44,3 +45,5 @@ related: ["values", "ambivalence", "psychic-conflict"]
 - 我说出的理由和实际行为是否一致？
 - 这个行为短期满足了什么需要？
 - 如果我不这样做，最害怕面对什么？
+
+补充阅读提示：阅读动机时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

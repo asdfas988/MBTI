@@ -1,20 +1,25 @@
 ---
 title: "常模"
 description: "用于解释测试分数的参照群体数据，使个体分数能与相关人群进行比较。"
-pubDate: 2026-06-07
-tags: ["常模", "心理测量", "量表解释"]
-group: "心理治疗与评估"
 plainDefinition: "用于解释测试分数的参照群体数据，使个体分数能与相关人群进行比较。"
+group: "心理治疗与评估"
 english: "Norms"
 aliases: ["规范样本"]
 domains: ["评估", "研究方法"]
 level: "进阶"
-sourceRefs: 
-  - label: "APA Dictionary of Psychology"
-    url: "https://dictionary.apa.org/"
 clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["psychometrics", "validity", "personality-test"]
+pubDate: 2026-06-07
+tags: ["常模", "心理测量", "量表解释"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
+  - label: "AERA/APA/NCME: Standards for Educational and Psychological Testing"
+    url: "https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
 ---
+
 
 常模告诉我们，一个分数在特定年龄、文化、性别、教育或临床群体中处于什么位置。没有合适常模，分数就很难解释。
 
@@ -42,3 +47,5 @@ related: ["psychometrics", "validity", "personality-test"]
 - 这个分数和谁比较？
 - 常模是否适合我的文化和年龄？
 - 我是否把统计位置理解成价值高低？
+
+补充阅读提示：阅读常模时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

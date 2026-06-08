@@ -1,24 +1,25 @@
 ---
 title: "闪回"
 description: "创伤记忆以高度鲜活、像正在重新发生一样的方式闯入当下意识或身体体验。"
-pubDate: 2026-06-07
-tags: ["闪回", "创伤", "PTSD"]
-group: "精神病学基础"
 plainDefinition: "创伤记忆以高度鲜活、像正在重新发生一样的方式闯入当下意识或身体体验。"
+group: "精神病学基础"
 english: "Flashback"
 aliases: ["创伤闪回"]
 domains: ["精神医学", "创伤"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["post-traumatic-stress-disorder", "grounding", "dissociation"]
+pubDate: 2026-06-07
+tags: ["闪回", "创伤", "PTSD"]
+sourceRefs:
   - label: "NIMH: Post-Traumatic Stress Disorder"
     url: "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd"
   - label: "VA National Center for PTSD"
     url: "https://www.ptsd.va.gov/"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["post-traumatic-stress-disorder", "grounding", "dissociation"]
 ---
+
 
 闪回可能是画面、声音、气味、身体感觉或强烈情绪，而不一定是完整电影式记忆。个体可能知道自己在现在，也可能短暂失去当下定位。
 
@@ -46,3 +47,5 @@ related: ["post-traumatic-stress-disorder", "grounding", "dissociation"]
 - 触发闪回的线索是什么？
 - 我能否用稳定化技术提醒自己“这是过去的记忆”？
 - 闪回中最强的身体感和信念是什么？
+
+补充阅读提示：阅读闪回时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

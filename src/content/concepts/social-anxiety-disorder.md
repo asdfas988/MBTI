@@ -1,22 +1,23 @@
 ---
 title: "社交焦虑障碍"
 description: "对社交或表现情境中的负面评价、羞辱或尴尬产生强烈恐惧并导致回避的焦虑障碍。"
-pubDate: 2026-06-07
-tags: ["社交焦虑", "焦虑障碍", "羞耻"]
-group: "精神病学基础"
 plainDefinition: "对社交或表现情境中的负面评价、羞辱或尴尬产生强烈恐惧并导致回避的焦虑障碍。"
+group: "精神病学基础"
 english: "Social Anxiety Disorder"
 aliases: ["社交恐惧"]
 domains: ["精神医学", "焦虑"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["shame", "introversion", "avoidant-personality-disorder"]
+pubDate: 2026-06-07
+tags: ["社交焦虑", "焦虑障碍", "羞耻"]
+sourceRefs:
   - label: "NIMH: Anxiety Disorders"
     url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["shame", "introversion", "avoidant-personality-disorder"]
 ---
+
 
 社交焦虑并不是单纯害羞。它通常伴随对被看见、被评价、出错或脸红发抖的强烈担心，并可能限制学习、工作和亲密关系。
 
@@ -44,3 +45,5 @@ related: ["shame", "introversion", "avoidant-personality-disorder"]
 - 我害怕的是社交本身，还是被评价后的羞耻？
 - 我用了哪些安全行为避免别人看见真实的我？
 - 事后反复回放是否让羞耻更强？
+
+补充阅读提示：阅读社交焦虑障碍时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

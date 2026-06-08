@@ -1,24 +1,25 @@
 ---
 title: "结构化临床访谈"
 description: "按照预设问题和评分规则系统收集诊断或评估资料的临床访谈方法。"
-pubDate: 2026-06-07
-tags: ["结构化访谈", "临床评估", "诊断"]
-group: "心理治疗与评估"
 plainDefinition: "按照预设问题和评分规则系统收集诊断或评估资料的临床访谈方法。"
+group: "心理治疗与评估"
 english: "Structured Clinical Interview"
 aliases: ["结构式访谈"]
 domains: ["评估", "精神医学"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["clinical-interview", "diagnosis", "differential-diagnosis"]
+pubDate: 2026-06-07
+tags: ["结构化访谈", "临床评估", "诊断"]
+sourceRefs:
   - label: "APA Dictionary of Psychology: clinical interview"
     url: "https://dictionary.apa.org/clinical-interview"
   - label: "APA Dictionary of Psychology: psychological assessment"
     url: "https://dictionary.apa.org/psychological-assessment"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["clinical-interview", "diagnosis", "differential-diagnosis"]
 ---
+
 
 结构化临床访谈通过固定模块、问题和判断标准减少遗漏和主观偏差，常用于研究、诊断评估和复杂个案的系统梳理。
 
@@ -46,3 +47,5 @@ related: ["clinical-interview", "diagnosis", "differential-diagnosis"]
 - 我在被系统询问时感到安全、紧张还是被审判？
 - 固定问题是否帮助我说出遗漏信息？
 - 我是否把诊断访谈等同于人格评判？
+
+补充阅读提示：阅读结构化临床访谈时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

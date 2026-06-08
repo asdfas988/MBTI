@@ -14,7 +14,12 @@ tags: ["RFT", "ACT", "语言"]
 sourceRefs:
   - label: "Association for Contextual Behavioral Science: ACT"
     url: "https://contextualscience.org/act"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 关系框架理论是 ACT 的行为科学基础，解释人类如何通过语言和关系网络学习意义、规则和自我故事。
 
@@ -48,3 +53,5 @@ RFT 让我们看到人格故事如何被语言编织。治疗不是摧毁语言�
 - 哪些语言规则在控制我？
 - 这个自我故事从哪里学来？
 - 我能否把语言当工具，而不是牢笼？
+
+补充阅读提示：阅读关系框架理论时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

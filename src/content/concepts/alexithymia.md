@@ -1,22 +1,23 @@
 ---
 title: "述情障碍"
 description: "识别、命名、区分和表达自身情绪困难的心理特征。"
-pubDate: 2026-06-07
-tags: ["述情障碍", "情绪识别", "躯体化"]
-group: "人格心理学"
 plainDefinition: "识别、命名、区分和表达自身情绪困难的心理特征。"
+group: "人格心理学"
 english: "Alexithymia"
 aliases: ["情感表达不能", "情绪命名困难"]
 domains: ["人格心理学", "心理治疗"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["emotion-regulation", "somatization", "mentalization"]
+pubDate: 2026-06-07
+tags: ["述情障碍", "情绪识别", "躯体化"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "PMC: Mentalization and personality disorder"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC2816926/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["emotion-regulation", "somatization", "mentalization"]
 ---
+
 
 述情障碍的人可能知道自己“不舒服”，却难以说清是愤怒、悲伤、羞耻还是害怕；也可能更容易用身体症状、理性描述或行动表达情绪。
 
@@ -44,3 +45,5 @@ related: ["emotion-regulation", "somatization", "mentalization"]
 - 我现在的身体感觉可能对应什么情绪？
 - 我能否把“烦”细分成委屈、愤怒、害怕或羞耻？
 - 我是否习惯只讲事情，不讲感受？
+
+补充阅读提示：阅读述情障碍时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

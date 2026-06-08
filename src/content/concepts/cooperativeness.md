@@ -14,7 +14,13 @@ tags: ["性格", "TCI", "合作"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
+
 
 合作性是一种性格维度，描述个体是否能把自己体验为社会共同体的一部分，并表现出同理、宽容、责任和互惠。
 
@@ -48,3 +54,7 @@ sourceRefs:
 - 我合作时是否还能保留自己？
 - 我把他人看成伙伴、敌人还是工具？
 - 我能否在冲突中寻找共同问题？
+
+补充阅读提示：阅读合作性时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到合作性时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

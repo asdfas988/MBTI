@@ -1,22 +1,23 @@
 ---
 title: "罗夏墨迹测验"
 description: "一种使用墨迹图版引发知觉和意义组织反应的投射性人格评估工具。"
-pubDate: 2026-06-07
-tags: ["罗夏", "投射测验", "人格评估"]
-group: "心理治疗与评估"
 plainDefinition: "一种使用墨迹图版引发知觉和意义组织反应的投射性人格评估工具。"
+group: "心理治疗与评估"
 english: "Rorschach Test"
 aliases: ["Rorschach", "墨迹测验"]
 domains: ["评估", "精神动力学"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["projective-test", "reality-testing", "symbolization"]
+pubDate: 2026-06-07
+tags: ["罗夏", "投射测验", "人格评估"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "APA Dictionary of Psychology: psychological assessment"
     url: "https://dictionary.apa.org/psychological-assessment"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["projective-test", "reality-testing", "symbolization"]
 ---
+
 
 罗夏测验关注个体如何看见、组织和解释模糊刺激。专业使用通常依赖标准化施测、编码和解释系统，而不是凭直觉解读“你看到了什么”。
 
@@ -44,3 +45,5 @@ related: ["projective-test", "reality-testing", "symbolization"]
 - 我面对模糊刺激时会急于确定还是能保持开放？
 - 我看到的内容是否常围绕威胁、亲密、控制或身体？
 - 我如何处理别人看法和我不同？
+
+补充阅读提示：阅读罗夏墨迹测验时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

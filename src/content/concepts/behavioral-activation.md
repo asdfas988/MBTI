@@ -1,24 +1,25 @@
 ---
 title: "行为激活"
 description: "通过逐步增加有价值、有掌控感或有愉悦感的活动，打破抑郁和回避循环的治疗方法。"
-pubDate: 2026-06-07
-tags: ["行为激活", "抑郁", "CBT"]
-group: "心理治疗与评估"
 plainDefinition: "通过逐步增加有价值、有掌控感或有愉悦感的活动，打破抑郁和回避循环的治疗方法。"
+group: "心理治疗与评估"
 english: "Behavioral Activation"
 aliases: ["BA"]
 domains: ["心理治疗", "抑郁"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["major-depressive-disorder", "depression", "self-efficacy"]
+pubDate: 2026-06-07
+tags: ["行为激活", "抑郁", "CBT"]
+sourceRefs:
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
   - label: "APA: Evidence-Based Practice in Psychology"
     url: "https://www.apa.org/practice/guidelines/evidence-based-statement"
   - label: "NIMH: Depression"
     url: "https://www.nimh.nih.gov/health/publications/depression"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["major-depressive-disorder", "depression", "self-efficacy"]
 ---
+
 
 行为激活认为，抑郁会让人减少活动和接触奖励，活动减少又让情绪更低。治疗会从很小、可执行的行动开始，让生活重新出现反馈、节奏和意义。
 
@@ -46,3 +47,5 @@ related: ["major-depressive-disorder", "depression", "self-efficacy"]
 - 我最近哪些活动减少后，情绪更低了？
 - 有没有一个 5 分钟版本的价值行动？
 - 行动后我的情绪、身体和自我评价有什么变化？
+
+补充阅读提示：阅读行为激活时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

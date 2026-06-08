@@ -14,7 +14,12 @@ tags: ["想象", "情绪调节", "愿望"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 清醒状态下的自发想象活动，可用于愿望表达、情绪调节、创造，也可能成为回避现实的方式。
 
@@ -47,3 +52,5 @@ sourceRefs:
 - 我的白日梦最常围绕什么愿望？
 - 它让我更有能量，还是更离开现实？
 - 我能否把其中一个主题写下来并理解它？
+
+补充阅读提示：阅读白日梦时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

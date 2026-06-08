@@ -14,7 +14,14 @@ tags: ["体验式治疗", "情绪", "治疗"]
 sourceRefs:
   - label: "APA: Different approaches to psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy/approaches"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "APA: Cognitive Behavioral Therapy"
+    url: "https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral"
 ---
+
 
 体验式治疗强调在会谈中直接接触、表达和转化情绪、身体感受、意象和关系体验，而不只讨论内容。
 
@@ -48,3 +55,7 @@ sourceRefs:
 - 我是在理解情绪，还是实际接触情绪？
 - 这个体验是否在可承受范围内？
 - 体验后我如何整合和行动？
+
+补充阅读提示：阅读体验式治疗时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。
+
+写作使用提示：写到体验式治疗时，可以补一个具体但不泄露隐私的情境例子，并说明它适合解决哪类问题、不适合替代什么专业判断。这样读者既能学会概念，也不会把治疗技术当成自助清单。

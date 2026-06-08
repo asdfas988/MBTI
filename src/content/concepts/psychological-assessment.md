@@ -1,24 +1,25 @@
 ---
 title: "心理评估"
 description: "通过访谈、量表、观察和资料整合来理解个体心理功能、问题性质与干预需求的过程。"
-pubDate: 2026-06-07
-tags: ["心理评估", "临床访谈", "诊断"]
-group: "心理治疗与评估"
 plainDefinition: "通过访谈、量表、观察和资料整合来理解个体心理功能、问题性质与干预需求的过程。"
+group: "心理治疗与评估"
 english: "Psychological Assessment"
 aliases: ["临床评估"]
 domains: ["评估", "心理治疗"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["clinical-interview", "case-formulation", "differential-diagnosis"]
+pubDate: 2026-06-07
+tags: ["心理评估", "临床访谈", "诊断"]
+sourceRefs:
   - label: "APA Dictionary of Psychology: psychological assessment"
     url: "https://dictionary.apa.org/psychological-assessment"
   - label: "APA Dictionary of Psychology: clinical interview"
     url: "https://dictionary.apa.org/clinical-interview"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["clinical-interview", "case-formulation", "differential-diagnosis"]
 ---
+
 
 心理评估不只是做测试。它需要把症状、人格、发展史、现实压力、风险因素、保护因素和文化背景放在一起理解，最后形成可用于治疗或转介的判断。
 
@@ -46,3 +47,5 @@ related: ["clinical-interview", "case-formulation", "differential-diagnosis"]
 - 我对“被评估”是好奇、害怕还是抗拒？
 - 我是否把量表分数当成对自我的最终判决？
 - 我希望评估回答哪些实际问题？
+
+补充阅读提示：阅读心理评估时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

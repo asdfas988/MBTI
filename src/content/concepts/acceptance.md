@@ -1,22 +1,23 @@
 ---
 title: "接纳"
 description: "愿意承认当下经验真实存在，而不立即否认、压制、逃避或与之战斗的心理态度。"
-pubDate: 2026-06-07
-tags: ["接纳", "心理灵活性", "情绪调节"]
-group: "人格心理学"
 plainDefinition: "愿意承认当下经验真实存在，而不立即否认、压制、逃避或与之战斗的心理态度。"
+group: "人格心理学"
 english: "Acceptance"
 aliases: ["心理接纳"]
 domains: ["人格心理学", "心理治疗"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["acceptance-and-commitment-therapy", "denial", "emotion-regulation"]
+pubDate: 2026-06-07
+tags: ["接纳", "心理灵活性", "情绪调节"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["acceptance-and-commitment-therapy", "denial", "emotion-regulation"]
 ---
+
 
 接纳不是喜欢痛苦，而是停止把额外的抗拒叠在痛苦上。它让人有机会看清现实、情绪和需求，再决定下一步行动。
 
@@ -44,3 +45,5 @@ related: ["acceptance-and-commitment-therapy", "denial", "emotion-regulation"]
 - 我最不愿承认的事实或感受是什么？
 - 我是在改变现实，还是在否认现实？
 - 如果先接纳此刻状态，我的下一步会更清楚吗？
+
+补充阅读提示：阅读接纳时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

@@ -14,7 +14,12 @@ tags: ["自我表征", "人格结构", "自我概念"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "American Psychoanalytic Association: psychoanalytic terms"
+    url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
 ---
+
 
 自我表征是个体关于自己的心理图像和意义结构，包括能力、价值、身体、角色和关系位置。
 
@@ -48,3 +53,7 @@ sourceRefs:
 - 我在不同关系中像不同的人吗？
 - 我对自己的图像是否过于极端？
 - 哪些他人反应最能改变我的自我感？
+
+补充阅读提示：阅读自我表征时，要把它放在人格组织、自我功能和关系表征中理解。结构性概念通常描述长期模式，不适合根据单次行为下结论；它们更适合帮助识别整合、分化和现实检验的能力。
+
+写作使用提示：写到自我表征时，适合说明它如何影响身份连续性、自尊调节、亲密关系和现实检验。结构性概念要谨慎使用，避免根据单次行为推断整个人格组织。

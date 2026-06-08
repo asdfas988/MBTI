@@ -14,7 +14,12 @@ tags: ["发展", "人格"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 气质是个体在情绪反应、活动水平、注意、适应和敏感性上的早期、相对稳定差异。
 
@@ -48,3 +53,5 @@ sourceRefs:
 - 我从小就有哪些稳定反应倾向？
 - 我的环境是理解这些气质，还是惩罚它们？
 - 我如何为自己的气质设计更合适的生活方式？
+
+补充阅读提示：阅读气质时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

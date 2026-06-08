@@ -1,22 +1,23 @@
 ---
 title: "继发过程"
 description: "更受逻辑、现实、时间顺序和语言组织约束的意识或前意识心理运作方式。"
-pubDate: 2026-06-07
-tags: ["自我功能", "精神分析", "思维"]
-group: "精神动力学"
 plainDefinition: "更受逻辑、现实、时间顺序和语言组织约束的意识或前意识心理运作方式。"
+group: "精神动力学"
 english: "Secondary Process"
 aliases: ["次级过程"]
 domains: ["精神动力学"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["primary-process", "preconscious", "ego-strength"]
+pubDate: 2026-06-07
+tags: ["自我功能", "精神分析", "思维"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["primary-process", "preconscious", "ego-strength"]
 ---
+
 
 继发过程让人能够叙述、计划、推理、比较证据和延迟满足。它帮助原发过程中的愿望与象征材料进入可思考形式。
 
@@ -44,3 +45,5 @@ related: ["primary-process", "preconscious", "ego-strength"]
 - 我能否把强烈情绪按时间线讲出来？
 - 我是在思考情绪，还是用思考远离情绪？
 - 我能否同时保留感觉和逻辑？
+
+补充阅读提示：阅读继发过程时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

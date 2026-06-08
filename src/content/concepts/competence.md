@@ -1,22 +1,23 @@
 ---
 title: "胜任感"
 description: "个体感到自己能够理解、掌握并有效影响任务或环境的心理需要和体验。"
-pubDate: 2026-06-07
-tags: ["胜任感", "动机", "自我效能"]
-group: "人格心理学"
 plainDefinition: "个体感到自己能够理解、掌握并有效影响任务或环境的心理需要和体验。"
+group: "人格心理学"
 english: "Competence"
 aliases: ["能力感"]
 domains: ["人格心理学"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["self-efficacy", "perfectionism", "learned-helplessness"]
+pubDate: 2026-06-07
+tags: ["胜任感", "动机", "自我效能"]
+sourceRefs:
   - label: "Center for Self-Determination Theory"
     url: "https://selfdeterminationtheory.org/theory/"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["self-efficacy", "perfectionism", "learned-helplessness"]
 ---
+
 
 胜任感让人愿意投入学习和挑战。它不是一定成功，而是相信自己能通过练习、反馈和支持逐渐变得更有效。
 
@@ -44,3 +45,7 @@ related: ["self-efficacy", "perfectionism", "learned-helplessness"]
 - 我在哪些领域有真实胜任感？
 - 错误对我意味着学习，还是意味着我很差？
 - 我能否设计一个足够小的成功经验？
+
+补充阅读提示：阅读胜任感时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到胜任感时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

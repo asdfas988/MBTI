@@ -14,7 +14,12 @@ tags: ["情绪觉察", "情绪", "自我观察"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 情绪觉察指个体能注意、区分、命名和理解自己情绪状态及其触发因素的能力。
 
@@ -48,3 +53,7 @@ sourceRefs:
 - 我现在最接近哪种情绪？
 - 它在身体哪里出现？
 - 这个情绪提醒我哪个需要或边界？
+
+补充阅读提示：阅读情绪觉察时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到情绪觉察时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

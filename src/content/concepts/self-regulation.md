@@ -1,20 +1,29 @@
 ---
 title: "自我调节"
 description: "个体根据目标、价值和现实要求调节情绪、冲动、注意和行为的能力。"
-pubDate: 2026-06-07
-tags: ["自我调节", "自我功能", "情绪调节"]
-group: "人格心理学"
 plainDefinition: "个体根据目标、价值和现实要求调节情绪、冲动、注意和行为的能力。"
+group: "人格心理学"
 english: "Self-Regulation"
 aliases: ["自我管理"]
 domains: ["人格心理学", "精神动力学"]
 level: "基础"
-sourceRefs: 
-  - label: "APA Dictionary of Psychology"
-    url: "https://dictionary.apa.org/"
 clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["emotion-regulation", "ego-strength", "distress-tolerance"]
+pubDate: 2026-06-07
+tags: ["自我调节", "自我功能", "情绪调节"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "American Psychoanalytic Association: psychoanalytic terms"
+    url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
 ---
+
 
 自我调节包括延迟满足、情绪调节、注意控制、习惯管理和恢复节奏。它不是压抑自己，而是让内在状态服务于更重要的行动。
 
@@ -42,3 +51,5 @@ related: ["emotion-regulation", "ego-strength", "distress-tolerance"]
 - 我最难调节的是情绪、冲动、注意还是身体节律？
 - 我有哪些外部结构能帮助自我调节？
 - 我是在调节自己，还是在压抑自己？
+
+补充阅读提示：阅读自我调节时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

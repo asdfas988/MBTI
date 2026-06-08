@@ -1,22 +1,23 @@
 ---
 title: "临床访谈"
 description: "专业人员通过结构化或半结构化对话收集心理、行为、关系和病史资料的评估方法。"
-pubDate: 2026-06-07
-tags: ["临床访谈", "评估", "心理治疗"]
-group: "心理治疗与评估"
 plainDefinition: "专业人员通过结构化或半结构化对话收集心理、行为、关系和病史资料的评估方法。"
+group: "心理治疗与评估"
 english: "Clinical Interview"
 aliases: ["初访", "评估访谈"]
 domains: ["评估"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["psychological-assessment", "mental-status-examination", "case-formulation"]
+pubDate: 2026-06-07
+tags: ["临床访谈", "评估", "心理治疗"]
+sourceRefs:
   - label: "APA Dictionary of Psychology: clinical interview"
     url: "https://dictionary.apa.org/clinical-interview"
   - label: "APA Dictionary of Psychology: psychological assessment"
     url: "https://dictionary.apa.org/psychological-assessment"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["psychological-assessment", "mental-status-examination", "case-formulation"]
 ---
+
 
 临床访谈会关注主诉、现病史、既往史、家庭与发展史、风险、资源和求助目标。它既是资料收集，也是建立关系和形成初步假设的过程。
 
@@ -44,3 +45,5 @@ related: ["psychological-assessment", "mental-status-examination", "case-formula
 - 我在讲述问题时更倾向描述事实、情绪还是他人过错？
 - 哪些经历我很难开口？
 - 我是否期待专业者立刻给出确定答案？
+
+补充阅读提示：阅读临床访谈时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

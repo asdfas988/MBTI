@@ -1,51 +1,56 @@
 ---
 title: "依恋激活"
-description: "亲密关系中安全感被触发时的心理和行为反应。"
-plainDefinition: "威胁、距离、冷淡或不确定性让依恋系统进入警觉状态。"
+description: "依恋激活发生在关系距离、拒绝、冲突、身体不适、危险或孤独感出现时。不同依恋策略会让人靠近、抗议、回避、讨好或冻结。"
+plainDefinition: "依恋激活是个体在感到威胁、分离或需要支持时启动依恋系统的过程。"
 group: "关系与依恋"
 english: "Attachment Activation"
 aliases: []
 domains: ["关系与依恋"]
 level: "进阶"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+clinicalBoundary: "本站把它作为依恋与关系调节概念使用，不把单个关系反应固定成终身类型。依恋表现会随关系、创伤、文化和治疗经验变化。"
 related: ["anxious-attachment", "avoidant-attachment"]
 pubDate: 2026-06-07
 tags: ["依恋", "触发"]
 sourceRefs:
+  - label: "APA Dictionary of Psychology: Attachment"
+    url: "https://dictionary.apa.org/attachment"
+  - label: "APA Dictionary of Psychology: Attachment Style"
+    url: "https://dictionary.apa.org/attachment-style"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-  - label: "APA Dictionary: attachment style"
-    url: "https://dictionary.apa.org/attachment-style"
+  - label: "NIMH: Anxiety Disorders"
+    url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
 ---
 
-亲密关系中安全感被触发时的心理和行为反应。
+依恋激活发生在关系距离、拒绝、冲突、身体不适、危险或孤独感出现时。不同依恋策略会让人靠近、抗议、回避、讨好或冻结。
 
 ## 概念边界
 
-激活不是错。关键是识别它，而不是完全被它驱动。
+本站把它作为依恋与关系调节概念使用，不把单个关系反应固定成终身类型。依恋表现会随关系、创伤、文化和治疗经验变化。
 
 ## 为什么重要
 
-很多争吵的表层是小事，深层是依恋系统被激活：我会不会被丢下？我会不会被吞没？
+它能帮助读者理解为什么亲密关系中的小事件会触发强烈反应：被激活的往往不是事件本身，而是安全系统。
 
 ## 常见表现
 
-- 突然很想靠近或很想逃开。
-- 对细微信号过度解读。
-- 身体进入紧绷、心慌或麻木。
+- 在分离、靠近、冲突、求助和重聚时特别明显。
+- 常影响个体如何表达需要、解释他人回应和恢复安全感。
+- 可能在不同关系中表现不同，不宜只用单一类型概括。
+- 稳定关系和治疗经验可以让依恋策略更灵活。
 
 ## 容易混淆
 
-- 不等于矫情。
-- 不等于对方一定有恶意。
-- 不等于必须立刻行动。
+- 不等于命运：依恋模式可被修正。
+- 不等于责怪照护者：概念用于理解调节模式。
+- 不等于所有关系困难都来自童年：当前关系和环境同样重要。
 
 ## 在人格动力中的作用
 
-激活后的策略取决于依恋风格：追、退、冻结或寻求修复。
+依恋概念在人格动力中组织“需要是否安全”“他人是否可靠”“我是否值得回应”的核心预期。关系中的焦虑、回避或混乱常是旧安全策略在当下被重新激活。
 
 ## 自我观察
 
-- 什么信号触发了我？
-- 我现在的策略是追、退还是冻结？
-- 我能否先命名激活，再沟通需要？
+- 当关系变近或变远时，我最先出现什么反应？
+- 我是在表达需要，还是在用抗议、回避或讨好保护自己？
+- 什么样的回应能让我更快恢复安全感？

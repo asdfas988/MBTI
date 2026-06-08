@@ -14,7 +14,10 @@ tags: ["探索", "依恋", "发展"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 依恋理论中与好奇、学习、尝试和离开照料者有关的行为系统，通常需要安全感支持。
 
@@ -47,3 +50,7 @@ sourceRefs:
 - 我什么时候最敢探索？
 - 哪些不安全感会关闭我的探索系统？
 - 我需要什么安全支持来尝试新事物？
+
+补充阅读提示：阅读探索系统时，建议同时观察个人感受和互动循环。关系概念不是用来判定谁有问题，而是帮助看见安全感、边界、回应质量和旧经验如何在当下关系中被重新激活。
+
+写作使用提示：写到探索系统时，可以把个人感受和互动循环一起写清楚：一个人的反应如何影响另一个人的安全感、边界或防御。这样词条会更贴近真实关系，而不是停留在抽象定义。

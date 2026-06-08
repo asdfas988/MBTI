@@ -1,22 +1,23 @@
 ---
 title: "孤独症谱系"
 description: "以社会沟通差异、重复或限制性兴趣行为、感觉敏感性等为特征的神经发育谱系。"
-pubDate: 2026-06-07
-tags: ["孤独症谱系", "神经发育", "神经多样性"]
-group: "精神病学基础"
 plainDefinition: "以社会沟通差异、重复或限制性兴趣行为、感觉敏感性等为特征的神经发育谱系。"
+group: "精神病学基础"
 english: "Autism Spectrum Disorder"
 aliases: ["ASD", "自闭症谱系"]
 domains: ["精神医学", "神经发育"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["introversion", "social-anxiety-disorder", "differential-diagnosis"]
+pubDate: 2026-06-07
+tags: ["孤独症谱系", "神经发育", "神经多样性"]
+sourceRefs:
   - label: "NIMH: Autism Spectrum Disorder"
     url: "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["introversion", "social-anxiety-disorder", "differential-diagnosis"]
 ---
+
 
 孤独症谱系强调差异和谱系，而不是单一形象。有些人语言能力强但社交直觉困难，有些人感觉过载明显，有些人通过伪装适应环境却长期耗竭。
 
@@ -44,3 +45,5 @@ related: ["introversion", "social-anxiety-disorder", "differential-diagnosis"]
 - 我社交困难更多来自不想社交、害怕评价，还是难以读取规则？
 - 哪些感觉环境会让我过载？
 - 我是否长期用伪装换取接纳？
+
+补充阅读提示：阅读孤独症谱系时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

@@ -18,6 +18,7 @@ sourceRefs:
     url: "https://www.merckmanuals.com/professional/psychiatric-disorders/approach-to-the-patient-with-mental-symptoms/mental-status-examination"
 ---
 
+
 旁证信息指来自家属、照料者、教师、病历、量表或其他专业人员的补充资料，用于校准临床判断。
 
 ## 概念边界
@@ -50,3 +51,5 @@ sourceRefs:
 - 哪些信息是我自己难以准确回忆的？
 - 我同意谁提供补充信息，提供到什么范围？
 - 不同资料之间的矛盾说明了什么情境差异？
+
+补充阅读提示：阅读旁证信息时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

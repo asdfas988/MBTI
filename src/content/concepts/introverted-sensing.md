@@ -1,20 +1,25 @@
 ---
 title: "内倾感觉"
 description: "类型学中偏向以内在经验、记忆、熟悉感和细节稳定性来感知世界的功能。"
-pubDate: 2026-06-07
-tags: ["MBTI", "Si", "经验"]
-group: "MBTI 与人格"
 plainDefinition: "类型学中偏向以内在经验、记忆、熟悉感和细节稳定性来感知世界的功能。"
+group: "MBTI 与人格"
 english: "Introverted Sensing"
 aliases: ["Si"]
 domains: ["MBTI"]
 level: "进阶"
-sourceRefs: 
-  - label: "APA Dictionary of Psychology"
-    url: "https://dictionary.apa.org/"
 clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["sensing-intuition", "secure-attachment", "reality-principle"]
+pubDate: 2026-06-07
+tags: ["MBTI", "Si", "经验"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "The Myers-Briggs Company: type dynamics"
+    url: "https://www.themyersbriggs.com/en-US/Products-and-Services/Myers-Briggs"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
 ---
+
 
 内倾感觉关注“这和过去经验相比如何”。它重视身体记忆、可靠流程、细节一致性和经验积累。
 
@@ -42,3 +47,5 @@ Si 提供连续性和安全感，也可能被用来避免新经验带来的不�
 - 我依赖经验是在保护质量，还是害怕变化？
 - 哪些习惯给我稳定，哪些限制我发展？
 - 我能否在保留经验的同时尝试微小更新？
+
+补充阅读提示：阅读内倾感觉时，请把它当作偏好语言，而不是诊断或能力排名。MBTI 词汇适合开启自我观察，但需要和大五人格、心理测量限制、情绪调节和真实生活反馈一起理解，才不容易变成标签。

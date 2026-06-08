@@ -14,7 +14,16 @@ tags: ["测评", "误差", "统计"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
+  - label: "AERA/APA/NCME: Standards for Educational and Psychological Testing"
+    url: "https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "APA: Cognitive Behavioral Therapy"
+    url: "https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral"
 ---
+
 
 表示个体测验分数周围不确定范围的统计指标，用于理解观察分数和真实水平之间的差异。
 
@@ -47,3 +56,5 @@ sourceRefs:
 - 我看到的分数有没有误差范围？
 - 两个分数差距是否真的有意义？
 - 我是否在追求测试给我绝对确定？
+
+补充阅读提示：阅读测量标准误时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

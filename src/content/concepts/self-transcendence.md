@@ -14,7 +14,12 @@ tags: ["性格", "TCI", "意义"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 自我超越指个体体验自己与更大整体、意义、自然、文化、信仰或人类共同体相连接的倾向。
 
@@ -48,3 +53,5 @@ sourceRefs:
 - 我的意义感让我更进入生活，还是更逃离生活？
 - 我如何把超越体验落实到关系和行动？
 - 我是否允许自己既普通又有意义？
+
+补充阅读提示：阅读自我超越时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

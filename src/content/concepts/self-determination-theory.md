@@ -1,22 +1,23 @@
 ---
 title: "自我决定理论"
 description: "一种强调自主、胜任和关系三种基本心理需要对动机、成长和幸福感重要性的理论。"
-pubDate: 2026-06-07
-tags: ["自我决定理论", "动机", "心理需要"]
-group: "人格心理学"
 plainDefinition: "一种强调自主、胜任和关系三种基本心理需要对动机、成长和幸福感重要性的理论。"
+group: "人格心理学"
 english: "Self-Determination Theory"
 aliases: ["SDT"]
 domains: ["人格心理学", "动机"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["autonomy", "competence", "relatedness"]
+pubDate: 2026-06-07
+tags: ["自我决定理论", "动机", "心理需要"]
+sourceRefs:
   - label: "Center for Self-Determination Theory"
     url: "https://selfdeterminationtheory.org/theory/"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["autonomy", "competence", "relatedness"]
 ---
+
 
 自我决定理论认为，人更能持续投入并健康发展，是因为行为与自主选择、能力感和关系连接相一致，而不只是被奖励或惩罚驱动。
 
@@ -44,3 +45,5 @@ related: ["autonomy", "competence", "relatedness"]
 - 我做这件事是自主选择还是被羞耻推动？
 - 我是否有足够的胜任感支持继续？
 - 我的关系环境是在支持成长还是控制我？
+
+补充阅读提示：阅读自我决定理论时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

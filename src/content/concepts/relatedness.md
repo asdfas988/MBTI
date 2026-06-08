@@ -1,22 +1,23 @@
 ---
 title: "关系连接需要"
 description: "个体感到自己与他人有连接、被关心、能关心他人并属于某个关系网络的基本心理需要。"
-pubDate: 2026-06-07
-tags: ["关系需要", "归属", "动机"]
-group: "人格心理学"
 plainDefinition: "个体感到自己与他人有连接、被关心、能关心他人并属于某个关系网络的基本心理需要。"
+group: "人格心理学"
 english: "Relatedness"
 aliases: ["关联感", "连接感"]
 domains: ["人格心理学", "依恋"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["attachment", "intimacy", "social-support"]
+pubDate: 2026-06-07
+tags: ["关系需要", "归属", "动机"]
+sourceRefs:
   - label: "Center for Self-Determination Theory"
     url: "https://selfdeterminationtheory.org/theory/"
   - label: "APA Dictionary of Psychology: attachment style"
     url: "https://dictionary.apa.org/attachment-style"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["attachment", "intimacy", "social-support"]
 ---
+
 
 关系连接需要不是依赖软弱，而是人类动机和幸福感的重要来源。缺乏连接会削弱安全感、意义感和复原力。
 
@@ -44,3 +45,7 @@ related: ["attachment", "intimacy", "social-support"]
 - 我真正感到连接的关系有哪些？
 - 我是否用“我不需要人”防御失望？
 - 我能否在连接中保持边界？
+
+补充阅读提示：阅读关系连接需要时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到关系连接需要时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

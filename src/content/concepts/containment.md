@@ -1,24 +1,25 @@
 ---
 title: "涵容"
 description: "关系中的一方承接、理解并转化另一方难以承受的情绪，使其重新变得可思考的过程。"
-pubDate: 2026-06-07
-tags: ["涵容", "Bion", "情绪调节"]
-group: "精神动力学"
 plainDefinition: "关系中的一方承接、理解并转化另一方难以承受的情绪，使其重新变得可思考的过程。"
+group: "精神动力学"
 english: "Containment"
 aliases: ["容纳", "容器功能"]
 domains: ["精神动力学", "心理治疗"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["projective-identification", "affect-regulation", "reverie"]
+pubDate: 2026-06-07
+tags: ["涵容", "Bion", "情绪调节"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "American Psychoanalytic Association: about psychoanalysis"
     url: "https://apsa.org/about-psychoanalysis/"
   - label: "PMC: Mentalization and personality disorder"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC2816926/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["projective-identification", "affect-regulation", "reverie"]
 ---
+
 
 涵容常用于描述照顾者、治疗者或内在功能如何接住混乱、恐惧、愤怒和无名痛苦。被涵容的情绪不是被消灭，而是从不可承受变得可命名、可思考。
 
@@ -46,3 +47,5 @@ related: ["projective-identification", "affect-regulation", "reverie"]
 - 我情绪很强时，是被自己理解还是被自己赶走？
 - 我会把无法承受的情绪推给谁？
 - 什么样的回应能让我从混乱变得能思考？
+
+补充阅读提示：阅读涵容时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

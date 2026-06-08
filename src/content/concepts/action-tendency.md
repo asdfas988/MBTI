@@ -14,7 +14,12 @@ tags: ["行动倾向", "情绪", "行为"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 行动倾向指某种情绪自然推动个体采取的行为方向，例如恐惧推动逃跑，愤怒推动攻击或抗议。
 
@@ -48,3 +53,7 @@ sourceRefs:
 - 这个情绪想让我做什么？
 - 这个行动会带来什么长期后果？
 - 我是否需要相反行动或更清楚表达？
+
+补充阅读提示：阅读行动倾向时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到行动倾向时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

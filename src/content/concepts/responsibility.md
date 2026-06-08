@@ -14,7 +14,12 @@ tags: ["责任", "成熟", "自我"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 责任感指个体能承认自己的选择、影响和义务，并在现实关系和社会规则中承担相应行动。
 
@@ -48,3 +53,7 @@ sourceRefs:
 - 这件事中哪一部分真的是我的责任？
 - 我是否把责任变成了羞耻？
 - 我可以做哪个具体修复动作？
+
+补充阅读提示：阅读责任感时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到责任感时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

@@ -14,7 +14,14 @@ tags: ["早期精神病", "综合照护", "精神卫生服务"]
 sourceRefs:
   - label: "NIMH: Schizophrenia"
     url: "https://www.nimh.nih.gov/health/topics/schizophrenia"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "NIMH: Understanding Psychosis"
+    url: "https://www.nimh.nih.gov/health/topics/schizophrenia/raise/what-is-psychosis"
+  - label: "WHO ICD-11 Browser"
+    url: "https://icd.who.int/browse/2025-01/mms/en"
 ---
+
 
 协调式专科照护是早期精神病服务模式，通常包含低剂量药物管理、心理治疗、家庭教育、个案管理和就业教育支持。
 
@@ -48,3 +55,7 @@ sourceRefs:
 - 治疗是否只关注症状，而忽视生活恢复？
 - 家庭和学校/工作支持是否被纳入？
 - 我是否参与了自己的治疗目标制定？
+
+补充阅读提示：阅读协调式专科照护时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。
+
+写作使用提示：写到协调式专科照护时，可以补一个具体但不泄露隐私的情境例子，并说明它适合解决哪类问题、不适合替代什么专业判断。这样读者既能学会概念，也不会把治疗技术当成自助清单。

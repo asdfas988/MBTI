@@ -1,22 +1,23 @@
 ---
 title: "阴性症状"
 description: "精神病性障碍中某些正常心理功能减少或缺失的表现，如动机、情感表达、言语和社会参与下降。"
-pubDate: 2026-06-07
-tags: ["阴性症状", "精神分裂症", "功能损害"]
-group: "精神病学基础"
 plainDefinition: "精神病性障碍中某些正常心理功能减少或缺失的表现，如动机、情感表达、言语和社会参与下降。"
+group: "精神病学基础"
 english: "Negative Symptoms"
 aliases: ["负性症状"]
 domains: ["精神医学"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["schizophrenia", "anhedonia", "functional-impairment"]
+pubDate: 2026-06-07
+tags: ["阴性症状", "精神分裂症", "功能损害"]
+sourceRefs:
   - label: "NIMH: Schizophrenia"
     url: "https://www.nimh.nih.gov/health/topics/schizophrenia"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["schizophrenia", "anhedonia", "functional-impairment"]
 ---
+
 
 阴性症状包括情感平淡、意志缺乏、言语减少、快感缺失和社交退缩。它们常比幻觉妄想更不显眼，却严重影响功能。
 
@@ -44,3 +45,5 @@ related: ["schizophrenia", "anhedonia", "functional-impairment"]
 - 我的退缩是害怕关系、情绪低落，还是主动性真实下降？
 - 别人是否注意到我表情和言语显著减少？
 - 这些变化是否伴随精神病性体验或功能下降？
+
+补充阅读提示：阅读阴性症状时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

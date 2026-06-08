@@ -14,7 +14,12 @@ tags: ["客体表征", "关系", "客体关系"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "American Psychoanalytic Association: psychoanalytic terms"
+    url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
 ---
+
 
 客体表征是个体关于重要他人的内在图像和意义结构，影响信任、依恋、移情和关系预期。
 
@@ -48,3 +53,7 @@ sourceRefs:
 - 我预期别人会怎样对待我？
 - 这个预期来自当前证据还是旧关系？
 - 我能否看见对方的复杂性？
+
+补充阅读提示：阅读客体表征时，要把它放在人格组织、自我功能和关系表征中理解。结构性概念通常描述长期模式，不适合根据单次行为下结论；它们更适合帮助识别整合、分化和现实检验的能力。
+
+写作使用提示：写到客体表征时，适合说明它如何影响身份连续性、自尊调节、亲密关系和现实检验。结构性概念要谨慎使用，避免根据单次行为推断整个人格组织。

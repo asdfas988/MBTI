@@ -1,22 +1,23 @@
 ---
 title: "知情同意"
 description: "在接受评估或治疗前，来访者对服务性质、风险、替代方案、保密限制和权利作出理解后的同意。"
-pubDate: 2026-06-07
-tags: ["伦理", "心理治疗", "评估"]
-group: "心理治疗与评估"
 plainDefinition: "在接受评估或治疗前，来访者对服务性质、风险、替代方案、保密限制和权利作出理解后的同意。"
+group: "心理治疗与评估"
 english: "Informed Consent"
 aliases: ["知情同意程序"]
 domains: ["心理治疗", "评估伦理"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["confidentiality", "treatment-frame", "psychological-assessment"]
+pubDate: 2026-06-07
+tags: ["伦理", "心理治疗", "评估"]
+sourceRefs:
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["confidentiality", "treatment-frame", "psychological-assessment"]
 ---
+
 
 知情同意不是一张表格，而是一段持续的说明和确认过程。来访者需要知道自己将接受什么服务、可能有什么收益与风险、资料如何使用，以及何时保密会受到法律或安全因素限制。
 
@@ -44,3 +45,5 @@ related: ["confidentiality", "treatment-frame", "psychological-assessment"]
 - 我在专业关系里是否敢问清楚规则？
 - 我是否把“不理解但先答应”当成默认反应？
 - 当我不同意某个安排时，我能表达吗？
+
+补充阅读提示：阅读知情同意时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

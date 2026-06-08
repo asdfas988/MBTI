@@ -18,6 +18,7 @@ sourceRefs:
     url: "https://www.merckmanuals.com/professional/psychiatric-disorders/approach-to-the-patient-with-mental-symptoms/mental-status-examination"
 ---
 
+
 个案史是对症状、发展、家庭、教育、工作、关系、创伤、医疗、用药和治疗经历的系统时间线整理。
 
 ## 概念边界
@@ -50,3 +51,5 @@ sourceRefs:
 - 我的问题从什么时候开始变得明显？
 - 哪些阶段最影响现在的关系和自我感？
 - 哪些资料能帮助我看见模式，而不是只看最近一次事件？
+
+补充阅读提示：阅读个案史时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

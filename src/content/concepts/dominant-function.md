@@ -1,22 +1,23 @@
 ---
 title: "主导功能"
 description: "类型动力学中个体最熟悉、最常用、最能组织注意和判断的核心认知功能。"
-pubDate: 2026-06-07
-tags: ["MBTI", "认知功能", "类型动力学"]
-group: "MBTI 与人格"
 plainDefinition: "类型动力学中个体最熟悉、最常用、最能组织注意和判断的核心认知功能。"
+group: "MBTI 与人格"
 english: "Dominant Function"
 aliases: ["第一功能"]
 domains: ["MBTI", "人格类型"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["cognitive-functions", "type-dynamics", "inferior-function"]
+pubDate: 2026-06-07
+tags: ["MBTI", "认知功能", "类型动力学"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "APA Dictionary of Psychology: Big Five Personality Model"
     url: "https://dictionary.apa.org/big-five-personality-model"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["cognitive-functions", "type-dynamics", "inferior-function"]
 ---
+
 
 主导功能像一个人默认进入世界的心理通道。它不代表能力绝对最强，而是最自然、最省力、最容易塑造身份感的功能。
 
@@ -44,3 +45,5 @@ related: ["cognitive-functions", "type-dynamics", "inferior-function"]
 - 我遇到不确定时最先想分析、感受、观察还是想象？
 - 我是否把自己的偏好当成唯一正确方式？
 - 我的主导方式在哪些场景会失灵？
+
+补充阅读提示：阅读主导功能时，请把它当作偏好语言，而不是诊断或能力排名。MBTI 词汇适合开启自我观察，但需要和大五人格、心理测量限制、情绪调节和真实生活反馈一起理解，才不容易变成标签。

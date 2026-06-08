@@ -14,7 +14,14 @@ tags: ["认知歪曲", "泛化", "抑郁"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "APA: Cognitive Behavioral Therapy"
+    url: "https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
 ---
+
 
 过度概括是一种认知歪曲，个体把局部经验扩大为对自我、他人或未来的总体判断。
 
@@ -48,3 +55,7 @@ sourceRefs:
 - 这个结论适用于所有情境吗？
 - 有没有例外？
 - 我是否把一次事件变成了身份判决？
+
+补充阅读提示：阅读过度概括时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。
+
+写作使用提示：写到过度概括时，可以补一个具体但不泄露隐私的情境例子，并说明它适合解决哪类问题、不适合替代什么专业判断。这样读者既能学会概念，也不会把治疗技术当成自助清单。

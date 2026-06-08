@@ -1,22 +1,23 @@
 ---
 title: "矛盾心理"
 description: "个体对同一对象、关系、选择或改变同时存在相反情感、愿望或态度的状态。"
-pubDate: 2026-06-07
-tags: ["矛盾心理", "心理冲突", "改变"]
-group: "人格心理学"
 plainDefinition: "个体对同一对象、关系、选择或改变同时存在相反情感、愿望或态度的状态。"
+group: "人格心理学"
 english: "Ambivalence"
 aliases: ["双重情感", "爱恨并存"]
 domains: ["人格心理学", "精神动力学"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["psychic-conflict", "motivational-interviewing", "splitting"]
+pubDate: 2026-06-07
+tags: ["矛盾心理", "心理冲突", "改变"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["psychic-conflict", "motivational-interviewing", "splitting"]
 ---
+
 
 矛盾心理很常见：想亲近又想逃、想改变又怕失去、爱一个人也恨一个人。成熟心理功能不是消灭矛盾，而是能承认并承受矛盾。
 
@@ -44,3 +45,5 @@ related: ["psychic-conflict", "motivational-interviewing", "splitting"]
 - 我在这个选择里同时想要什么、害怕什么？
 - 我是否只允许自己承认其中一面？
 - 如果两面都是真的，我下一步还能怎么做？
+
+补充阅读提示：阅读矛盾心理时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

@@ -1,24 +1,25 @@
 ---
 title: "解释技术"
 description: "治疗者把来访者的症状、情绪、关系反应或防御与潜在冲突和无意识意义连接起来的技术。"
-pubDate: 2026-06-07
-tags: ["解释", "精神分析技术", "治疗过程"]
-group: "精神动力学"
 plainDefinition: "治疗者把来访者的症状、情绪、关系反应或防御与潜在冲突和无意识意义连接起来的技术。"
+group: "精神动力学"
 english: "Interpretation"
 aliases: ["动力学解释"]
 domains: ["精神动力学", "心理治疗"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["clarification", "confrontation", "insight"]
+pubDate: 2026-06-07
+tags: ["解释", "精神分析技术", "治疗过程"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "APA Dictionary of Psychology: psychoanalysis"
     url: "https://dictionary.apa.org/psychoanalysis"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["clarification", "confrontation", "insight"]
 ---
+
 
 解释是精神动力学治疗的核心技术之一。好的解释不是炫耀理论，而是在合适时机帮助来访者看见“这个反应可能和什么内在模式有关”。
 
@@ -46,3 +47,5 @@ related: ["clarification", "confrontation", "insight"]
 - 这个解释让我更接近自己，还是更想防御？
 - 我能否在情绪上感到它与我有关？
 - 它是否解释了一个反复出现的模式？
+
+补充阅读提示：阅读解释技术时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

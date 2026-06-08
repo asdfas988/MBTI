@@ -14,7 +14,14 @@ tags: ["成长", "人格发展", "治疗目标"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "APA: Cognitive Behavioral Therapy"
+    url: "https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
 ---
+
 
 个人成长指个体在自我理解、情绪调节、关系能力、价值选择和生活责任上的持续发展过程。
 
@@ -48,3 +55,7 @@ sourceRefs:
 - 我所谓成长是在靠近自己，还是更严厉地要求自己？
 - 哪些旧模式正在松动？
 - 我需要什么关系和环境来支持成长？
+
+补充阅读提示：阅读个人成长时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到个人成长时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

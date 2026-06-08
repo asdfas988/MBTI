@@ -14,7 +14,10 @@ tags: ["情绪", "调节"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "WHO ICD-11 Browser"
+    url: "https://icd.who.int/browse/2025-01/mms/en"
 ---
+
 
 情绪调节是个体影响情绪产生、强度、持续时间和表达方式的能力。它包括觉察、命名、承受、调节和修复。
 
@@ -48,3 +51,5 @@ sourceRefs:
 - 我能否说出自己现在是什么情绪？
 - 我调节情绪的方式是在照顾自己还是伤害自己？
 - 哪些关系能帮助我恢复调节能力？
+
+补充阅读提示：阅读情绪调节时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

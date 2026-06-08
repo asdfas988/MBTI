@@ -1,51 +1,56 @@
 ---
 title: "题项差异功能"
-description: "能力或构念水平相同的不同群体，在某个题项上表现系统不同的现象。"
-plainDefinition: "同样水平的人，因为群体背景不同，在某题上被不公平地区分。"
+description: "题项差异功能用于判断某个项目是否对特定群体存在系统偏差。若两个群体的真实特质水平相同，但某题让其中一组更容易答对或更容易得高分，就可能存在 DIF。"
+plainDefinition: "题项差异功能指不同群体在同一潜在水平下对某题表现不同。"
 group: "心理治疗与评估"
 english: "Differential Item Functioning"
 aliases: []
 domains: ["心理测量", "公平性"]
 level: "专业"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+clinicalBoundary: "本站把它作为心理测量与评估概念使用。任何测验分数都不能脱离测验目的、样本、信度效度证据、文化背景和合格专业解释单独下结论。"
 related: ["measurement-invariance", "test-fairness", "item-response-theory", "content-validity"]
 pubDate: 2026-06-08
 tags: ["DIF", "题项偏差", "公平性"]
 sourceRefs:
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
   - label: "AERA/APA/NCME: Standards for Educational and Psychological Testing"
     url: "https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
+  - label: "NCME: Testing Standards"
+    url: "https://ncme.org/resources-publications/books/testing-standards"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
 ---
 
-能力或构念水平相同的不同群体，在某个题项上表现系统不同的现象。
+题项差异功能用于判断某个项目是否对特定群体存在系统偏差。若两个群体的真实特质水平相同，但某题让其中一组更容易答对或更容易得高分，就可能存在 DIF。
 
 ## 概念边界
 
-DIF 不等于所有群体差异。它关注在构念水平相同条件下题项是否偏向某群体。
+本站把它作为心理测量与评估概念使用。任何测验分数都不能脱离测验目的、样本、信度效度证据、文化背景和合格专业解释单独下结论。
 
 ## 为什么重要
 
-它帮助识别文化、语言和情境导致的测评不公平。
+它是测验公平性和测量等值性的重要技术概念，帮助网站解释为什么题目本身也可能制造偏差。
 
 ## 常见表现
 
-- 某题对特定文化更难
-- 语言理解造成非目标差异
-- 群体比较前进行题项分析
+- 总是围绕“分数能否被正确解释”展开，而不是只看分数高低。
+- 需要同时考虑测验目的、被试样本、项目质量、误差、信度、效度和公平性。
+- 在临床或科普写作中，它能防止把量表结果当成绝对事实。
+- 越是用于诊断、筛查或重要决策，越需要更强的证据链。
 
 ## 容易混淆
 
-- 不等于题目难度高
-- 不等于群体真实差异
-- 不等于发现 DIF 就必须删除
+- 不等于测验本身好或坏：关键是某种用途下证据是否足够。
+- 不等于单个统计数值：心理测量通常需要多种证据共同支持。
+- 不等于越复杂越准确：复杂模型仍可能被错误使用。
 
 ## 在人格动力中的作用
 
-在人格测试中，DIF 可能让某些生活方式或文化表达被误读为人格特质。
+在心理网站中，心理测量概念承担“防误读”的作用。它提醒读者：分数会影响自我理解和身份叙事，因此解释分数时必须谨慎，避免把暂时状态、文化差异或测量误差误认为人格本质。
 
 ## 自我观察
 
-- 题项是否假设了某种文化经验？
-- 同一构念在不同群体如何表达？
-- 测试是否报告公平性证据？
+- 这个分数是为了筛查、描述、研究，还是做重要决策？
+- 它的信度、效度和适用人群证据来自哪里？
+- 我是否把一个分数误读成了对整个人的判断？

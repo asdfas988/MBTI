@@ -14,7 +14,10 @@ tags: ["条件反应", "学习", "触发"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "NIMH: Anxiety Disorders"
+    url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
 ---
+
 
 条件反应指原本由重要刺激引发的反应，在学习后由相关线索单独引发，例如某声音触发恐惧。
 
@@ -48,3 +51,7 @@ sourceRefs:
 - 哪个线索引发了自动反应？
 - 这个反应像是从哪里学来的？
 - 我需要怎样的新学习让身体更新？
+
+补充阅读提示：阅读条件反应时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。
+
+写作使用提示：写到条件反应时，可以补一个具体但不泄露隐私的情境例子，并说明它适合解决哪类问题、不适合替代什么专业判断。这样读者既能学会概念，也不会把治疗技术当成自助清单。

@@ -1,22 +1,23 @@
 ---
 title: "现实原则"
 description: "自我根据外部现实、后果和时间条件来调节冲动满足的心理运作原则。"
-pubDate: 2026-06-07
-tags: ["精神分析", "自我功能", "现实"]
-group: "精神动力学"
 plainDefinition: "自我根据外部现实、后果和时间条件来调节冲动满足的心理运作原则。"
+group: "精神动力学"
 english: "Reality Principle"
 aliases: ["现实性原则"]
 domains: ["精神动力学", "人格结构"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["reality-testing", "ego-strength", "pleasure-principle"]
+pubDate: 2026-06-07
+tags: ["精神分析", "自我功能", "现实"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["reality-testing", "ego-strength", "pleasure-principle"]
 ---
+
 
 现实原则让人能够等待、计划、忍受挫折，并在愿望与现实条件之间找到可行路径。它是成熟自我功能的重要部分。
 
@@ -44,3 +45,5 @@ related: ["reality-testing", "ego-strength", "pleasure-principle"]
 - 我面对欲望时能否等待和计划？
 - 我是否把现实限制体验成羞辱或控制？
 - 我能否同时承认想要和暂时不能？
+
+补充阅读提示：阅读现实原则时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

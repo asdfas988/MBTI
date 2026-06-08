@@ -1,22 +1,23 @@
 ---
 title: "分离-个体化"
 description: "个体从与照顾者的早期融合体验中逐渐发展出自主、自我边界和独立身份的过程。"
-pubDate: 2026-06-07
-tags: ["分离个体化", "发展心理学", "人格结构"]
-group: "人格结构"
 plainDefinition: "个体从与照顾者的早期融合体验中逐渐发展出自主、自我边界和独立身份的过程。"
+group: "人格结构"
 english: "Separation-Individuation"
 aliases: ["个体化过程"]
 domains: ["精神动力学", "人格结构"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["separation-anxiety", "psychological-boundaries", "object-constancy"]
+pubDate: 2026-06-07
+tags: ["分离个体化", "发展心理学", "人格结构"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "APA Dictionary of Psychology: attachment style"
     url: "https://dictionary.apa.org/attachment-style"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["separation-anxiety", "psychological-boundaries", "object-constancy"]
 ---
+
 
 分离-个体化关注儿童如何在依恋关系中既保持连接，又发展出“我是我”的主体感。这个过程未充分整合时，成年亲密关系常在依赖和逃离之间摆动。
 
@@ -44,3 +45,5 @@ related: ["separation-anxiety", "psychological-boundaries", "object-constancy"]
 - 我在亲密中是否容易失去自己的想法和边界？
 - 我独立选择时最害怕伤害谁？
 - 我是否把分离体验成背叛或被抛弃？
+
+补充阅读提示：阅读分离-个体化时，要把它放在人格组织、自我功能和关系表征中理解。结构性概念通常描述长期模式，不适合根据单次行为下结论；它们更适合帮助识别整合、分化和现实检验的能力。

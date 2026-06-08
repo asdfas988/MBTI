@@ -14,7 +14,16 @@ tags: ["自我批评", "羞耻", "超我"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "American Psychoanalytic Association: psychoanalytic terms"
+    url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
 ---
+
 
 自我批评指个体以严厉、贬低或惩罚性的方式评价自己，常与羞耻、完美主义和低自尊有关。
 
@@ -48,3 +57,7 @@ sourceRefs:
 - 这个批评声音像谁？
 - 它是在帮我改进，还是让我崩塌？
 - 更有责任感但不羞辱的说法是什么？
+
+补充阅读提示：阅读自我批评时，要把它放在人格组织、自我功能和关系表征中理解。结构性概念通常描述长期模式，不适合根据单次行为下结论；它们更适合帮助识别整合、分化和现实检验的能力。
+
+写作使用提示：写到自我批评时，适合说明它如何影响身份连续性、自尊调节、亲密关系和现实检验。结构性概念要谨慎使用，避免根据单次行为推断整个人格组织。

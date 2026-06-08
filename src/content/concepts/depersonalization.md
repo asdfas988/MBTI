@@ -1,22 +1,23 @@
 ---
 title: "人格解体"
 description: "感觉自己与身体、情绪、行动或自我经验疏离，像旁观自己或不真实的解离体验。"
-pubDate: 2026-06-07
-tags: ["人格解体", "解离", "焦虑"]
-group: "精神病学基础"
 plainDefinition: "感觉自己与身体、情绪、行动或自我经验疏离，像旁观自己或不真实的解离体验。"
+group: "精神病学基础"
 english: "Depersonalization"
 aliases: ["自我疏离"]
 domains: ["精神医学", "创伤"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["dissociation", "derealization", "grounding"]
+pubDate: 2026-06-07
+tags: ["人格解体", "解离", "焦虑"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "NIMH: Anxiety Disorders"
     url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["dissociation", "derealization", "grounding"]
 ---
+
 
 人格解体时，人可能觉得身体不像自己的、声音像从远处传来、情绪像隔着玻璃，或者自己像在自动驾驶。现实检验通常仍保留：知道这种感觉奇怪，但不是事实改变。
 
@@ -44,3 +45,5 @@ related: ["dissociation", "derealization", "grounding"]
 - 这种疏离感通常在什么压力后出现？
 - 我能否通过触觉、姿势和环境线索回到身体？
 - 我是否把解离本身又解释成灾难？
+
+补充阅读提示：阅读人格解体时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

@@ -1,22 +1,23 @@
 ---
 title: "完美主义"
 description: "以过高标准、错误不可接受和自我价值依附于表现为特征的认知与人格倾向。"
-pubDate: 2026-06-07
-tags: ["完美主义", "自尊", "人格特质"]
-group: "人格心理学"
 plainDefinition: "以过高标准、错误不可接受和自我价值依附于表现为特征的认知与人格倾向。"
+group: "人格心理学"
 english: "Perfectionism"
 aliases: ["完美倾向"]
 domains: ["人格心理学", "精神动力学"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["self-esteem-regulation", "superego", "conscientiousness"]
+pubDate: 2026-06-07
+tags: ["完美主义", "自尊", "人格特质"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "APA Dictionary of Psychology: Big Five Personality Model"
     url: "https://dictionary.apa.org/big-five-personality-model"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["self-esteem-regulation", "superego", "conscientiousness"]
 ---
+
 
 完美主义可以表现为追求卓越，也可以变成严苛自我监控、拖延、羞耻和关系紧张。临床关注的是它是否让人失去弹性、休息和真实连接。
 
@@ -44,3 +45,5 @@ related: ["self-esteem-regulation", "superego", "conscientiousness"]
 - 我追求完美时，是出于价值还是害怕羞耻？
 - 我能否允许自己完成一个“不完美但足够好”的版本？
 - 我的内在评价者像谁的声音？
+
+补充阅读提示：阅读完美主义时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

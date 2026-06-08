@@ -1,22 +1,23 @@
 ---
 title: "价值"
 description: "个体认为重要、值得投入并能指导选择的生活方向和内在准则。"
-pubDate: 2026-06-07
-tags: ["价值", "动机", "ACT"]
-group: "人格心理学"
 plainDefinition: "个体认为重要、值得投入并能指导选择的生活方向和内在准则。"
+group: "人格心理学"
 english: "Values"
 aliases: ["生活价值", "价值澄清"]
 domains: ["人格心理学", "心理治疗"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["self-direction", "acceptance-and-commitment-therapy", "motivation"]
+pubDate: 2026-06-07
+tags: ["价值", "动机", "ACT"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "Center for Self-Determination Theory"
     url: "https://selfdeterminationtheory.org/theory/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["self-direction", "acceptance-and-commitment-therapy", "motivation"]
 ---
+
 
 价值不是短期目标，而是行动背后的方向。例如亲密、诚实、创造、学习、照顾、自由、责任都可能是价值。价值能帮助人在痛苦仍存在时决定怎样行动。
 
@@ -44,3 +45,5 @@ related: ["self-direction", "acceptance-and-commitment-therapy", "motivation"]
 - 我做这个选择是在追求价值，还是逃避羞耻？
 - 如果焦虑还在，我仍想成为怎样的人？
 - 哪些价值是我真正认同，而不是为了讨好他人？
+
+补充阅读提示：阅读价值时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

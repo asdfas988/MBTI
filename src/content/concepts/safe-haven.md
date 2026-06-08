@@ -14,7 +14,10 @@ tags: ["依恋", "安全港", "安抚"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 依恋对象在威胁、痛苦或疲惫时提供安慰、保护和情绪恢复的功能。
 
@@ -47,3 +50,7 @@ sourceRefs:
 - 我痛苦时会靠近谁，还是自动孤立？
 - 我的安全港是否也允许我重新出发？
 - 我如何成为自己的一部分安全港？
+
+补充阅读提示：阅读安全港时，建议同时观察个人感受和互动循环。关系概念不是用来判定谁有问题，而是帮助看见安全感、边界、回应质量和旧经验如何在当下关系中被重新激活。
+
+写作使用提示：写到安全港时，可以把个人感受和互动循环一起写清楚：一个人的反应如何影响另一个人的安全感、边界或防御。这样词条会更贴近真实关系，而不是停留在抽象定义。

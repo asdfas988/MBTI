@@ -1,24 +1,25 @@
 ---
 title: "快感缺失"
 description: "对原本能带来愉悦、兴趣或满足的活动明显失去兴趣或愉悦体验的状态。"
-pubDate: 2026-06-07
-tags: ["快感缺失", "抑郁", "阴性症状"]
-group: "精神病学基础"
 plainDefinition: "对原本能带来愉悦、兴趣或满足的活动明显失去兴趣或愉悦体验的状态。"
+group: "精神病学基础"
 english: "Anhedonia"
 aliases: ["兴趣缺失", "愉悦缺失"]
 domains: ["精神医学"]
 level: "基础"
 clinicalBoundary: "快感缺失若伴随持续低落、功能下降或自杀意念，应寻求专业评估。"
-sourceRefs: 
+related: ["major-depressive-disorder", "behavioral-activation", "amotivation"]
+pubDate: 2026-06-07
+tags: ["快感缺失", "抑郁", "阴性症状"]
+sourceRefs:
   - label: "NIMH: Depression"
     url: "https://www.nimh.nih.gov/health/publications/depression"
   - label: "NIMH: Schizophrenia"
     url: "https://www.nimh.nih.gov/health/topics/schizophrenia"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-related: ["major-depressive-disorder", "behavioral-activation", "amotivation"]
 ---
+
 
 快感缺失是抑郁等障碍中的重要症状，也可见于精神分裂症阴性症状、物质使用和长期压力之后。它不只是“不开心”，而是奖励系统和生活连接变弱。
 
@@ -46,3 +47,5 @@ related: ["major-depressive-disorder", "behavioral-activation", "amotivation"]
 - 我失去的是某个兴趣，还是几乎所有愉悦来源？
 - 我是否还保留一点点满足感的活动？
 - 快感缺失是否伴随绝望或自杀意念？
+
+补充阅读提示：阅读快感缺失时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

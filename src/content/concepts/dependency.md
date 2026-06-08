@@ -14,7 +14,10 @@ tags: ["关系", "需要"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 依赖是指个体在情感、判断、照顾或安全感上需要他人支持的倾向。它可以是健康连接，也可能变得僵化和失衡。
 
@@ -48,3 +51,5 @@ sourceRefs:
 - 我寻求帮助时是感到连接，还是感到无法活下去？
 - 我能否在依赖别人时保留自己的判断？
 - 我最害怕别人看见我需要什么？
+
+补充阅读提示：阅读依赖时，建议同时观察个人感受和互动循环。关系概念不是用来判定谁有问题，而是帮助看见安全感、边界、回应质量和旧经验如何在当下关系中被重新激活。

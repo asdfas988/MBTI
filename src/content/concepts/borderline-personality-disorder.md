@@ -1,24 +1,25 @@
 ---
 title: "边缘型人格障碍"
 description: "以情绪调节困难、关系不稳定、身份不稳、冲动和强烈遗弃恐惧为核心的人格障碍模式。"
-pubDate: 2026-06-07
-tags: ["边缘型人格", "人格障碍", "情绪调节"]
-group: "人格结构"
 plainDefinition: "以情绪调节困难、关系不稳定、身份不稳、冲动和强烈遗弃恐惧为核心的人格障碍模式。"
+group: "人格结构"
 english: "Borderline Personality Disorder"
 aliases: ["BPD"]
 domains: ["人格结构", "精神医学"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["borderline-personality-organization", "splitting", "self-harm"]
+pubDate: 2026-06-07
+tags: ["边缘型人格", "人格障碍", "情绪调节"]
+sourceRefs:
   - label: "American Psychiatric Association: DSM-5 Personality Disorders"
     url: "https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM-5-Personality-Disorder.pdf"
   - label: "WHO ICD-11 Browser: Mental, behavioural or neurodevelopmental disorders"
     url: "https://icd.who.int/browse/2025-01/mms/en"
   - label: "PMC: Levels of Personality Organization"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4578897/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["borderline-personality-organization", "splitting", "self-harm"]
 ---
+
 
 边缘型人格障碍涉及长期关系和自我组织困难。个体可能在亲密关系中快速理想化和贬低，强烈害怕被抛弃，并通过冲动、自伤或激烈互动调节痛苦。
 
@@ -46,3 +47,5 @@ related: ["borderline-personality-organization", "splitting", "self-harm"]
 - 我在关系里是否迅速从“完美”到“彻底坏”？
 - 分离或沉默会不会让我像被毁灭一样恐惧？
 - 我用哪些冲动方式让痛苦立刻停下？
+
+补充阅读提示：阅读边缘型人格障碍时，要把它放在人格组织、自我功能和关系表征中理解。结构性概念通常描述长期模式，不适合根据单次行为下结论；它们更适合帮助识别整合、分化和现实检验的能力。

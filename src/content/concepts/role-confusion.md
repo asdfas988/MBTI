@@ -14,7 +14,12 @@ tags: ["身份", "发展", "角色"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 发展过程中对自我角色、价值、目标和社会位置缺乏清晰整合，导致方向感不稳定。
 
@@ -47,3 +52,7 @@ sourceRefs:
 - 我在替谁活某个角色？
 - 哪些选择让我更接近真实价值？
 - 我能否允许探索，同时保持基本责任？
+
+补充阅读提示：阅读角色混乱时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到角色混乱时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

@@ -1,24 +1,25 @@
 ---
 title: "动机访谈"
 description: "通过合作、接纳、唤起和自主支持，帮助个体探索改变矛盾并增强内在改变动机的会谈方法。"
-pubDate: 2026-06-07
-tags: ["动机访谈", "改变", "成瘾"]
-group: "心理治疗与评估"
 plainDefinition: "通过合作、接纳、唤起和自主支持，帮助个体探索改变矛盾并增强内在改变动机的会谈方法。"
+group: "心理治疗与评估"
 english: "Motivational Interviewing"
 aliases: ["MI"]
 domains: ["心理治疗", "成瘾"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["substance-use-disorder", "ambivalence", "values"]
+pubDate: 2026-06-07
+tags: ["动机访谈", "改变", "成瘾"]
+sourceRefs:
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
   - label: "APA: Evidence-Based Practice in Psychology"
     url: "https://www.apa.org/practice/guidelines/evidence-based-statement"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["substance-use-disorder", "ambivalence", "values"]
 ---
+
 
 动机访谈常用于成瘾、健康行为改变、治疗依从和生活习惯改变。它不靠说服和压迫，而是帮助个体说出自己想改变的理由、犹豫和价值。
 
@@ -46,3 +47,5 @@ related: ["substance-use-disorder", "ambivalence", "values"]
 - 我想改变的理由是什么，不想改变的理由又是什么？
 - 如果改变成功，我会失去什么熟悉东西？
 - 这个改变和我的哪个价值有关？
+
+补充阅读提示：阅读动机访谈时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

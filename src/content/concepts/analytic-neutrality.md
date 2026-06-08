@@ -1,24 +1,25 @@
 ---
 title: "分析性中立"
 description: "治疗者尽量不把个人价值和欲望强加给来访者，而保持对多重心理力量的开放观察姿态。"
-pubDate: 2026-06-07
-tags: ["精神分析技术", "中立", "治疗关系"]
-group: "心理治疗与评估"
 plainDefinition: "治疗者尽量不把个人价值和欲望强加给来访者，而保持对多重心理力量的开放观察姿态。"
+group: "心理治疗与评估"
 english: "Analytic Neutrality"
 aliases: ["治疗中立"]
 domains: ["心理治疗", "精神动力学"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["transference", "countertransference", "therapeutic-alliance"]
+pubDate: 2026-06-07
+tags: ["精神分析技术", "中立", "治疗关系"]
+sourceRefs:
   - label: "American Psychoanalytic Association: about psychoanalysis"
     url: "https://apsa.org/about-psychoanalysis/"
   - label: "American Psychoanalytic Association: about psychoanalysis"
     url: "https://apsa.org/about-psychoanalysis/"
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["transference", "countertransference", "therapeutic-alliance"]
 ---
+
 
 分析性中立不是冷淡，而是治疗者不急于站队、劝导或满足移情期待。它帮助来访者探索内在冲突的多个侧面。
 
@@ -46,3 +47,5 @@ related: ["transference", "countertransference", "therapeutic-alliance"]
 - 当别人不立刻给我答案时，我感到自由还是被抛弃？
 - 我是否期待权威替我决定欲望？
 - 我如何面对别人同时理解我和不顺从我？
+
+补充阅读提示：阅读分析性中立时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

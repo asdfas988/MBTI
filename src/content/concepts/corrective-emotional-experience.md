@@ -1,24 +1,25 @@
 ---
 title: "矫正性情绪经验"
 description: "个体在治疗或重要关系中体验到不同于旧创伤模板的新情绪结果，从而修正内在期待。"
-pubDate: 2026-06-07
-tags: ["矫正性经验", "治疗关系", "精神动力学"]
-group: "心理治疗与评估"
 plainDefinition: "个体在治疗或重要关系中体验到不同于旧创伤模板的新情绪结果，从而修正内在期待。"
+group: "心理治疗与评估"
 english: "Corrective Emotional Experience"
 aliases: ["矫正性情绪体验"]
 domains: ["心理治疗", "精神动力学"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["transference", "internal-object", "therapeutic-alliance"]
+pubDate: 2026-06-07
+tags: ["矫正性经验", "治疗关系", "精神动力学"]
+sourceRefs:
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
   - label: "American Psychoanalytic Association: about psychoanalysis"
     url: "https://apsa.org/about-psychoanalysis/"
   - label: "American Psychoanalytic Association: about psychoanalysis"
     url: "https://apsa.org/about-psychoanalysis/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["transference", "internal-object", "therapeutic-alliance"]
 ---
+
 
 矫正性情绪经验指的不只是“被安慰”。它是当一个人预期会被拒绝、羞辱、控制或抛弃时，却在关系中经历了更稳定、更尊重、更可理解的回应。
 
@@ -46,3 +47,5 @@ related: ["transference", "internal-object", "therapeutic-alliance"]
 - 我预期别人会怎样对待我的脆弱？
 - 有没有某次关系经验让我意识到“原来可以不这样”？
 - 我是否会把新的好经验迅速否定为偶然？
+
+补充阅读提示：阅读矫正性情绪经验时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

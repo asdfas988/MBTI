@@ -14,7 +14,16 @@ tags: ["效度", "构念", "测评"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
+  - label: "AERA/APA/NCME: Standards for Educational and Psychological Testing"
+    url: "https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "APA: Cognitive Behavioral Therapy"
+    url: "https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral"
 ---
+
 
 测验是否真正测量它声称要测量的心理构念，以及该构念与理论和证据是否一致。
 
@@ -47,3 +56,7 @@ sourceRefs:
 - 这个构念有没有清楚理论定义？
 - 测验结果是否有结构效度证据？
 - 我是在理解构念，还是迷恋标签？
+
+补充阅读提示：阅读结构效度时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。
+
+写作使用提示：写到结构效度时，可以补一个具体但不泄露隐私的情境例子，并说明它适合解决哪类问题、不适合替代什么专业判断。这样读者既能学会概念，也不会把治疗技术当成自助清单。

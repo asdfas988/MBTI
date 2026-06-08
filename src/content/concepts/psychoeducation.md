@@ -1,24 +1,25 @@
 ---
 title: "心理教育"
 description: "向来访者或家庭解释心理问题、治疗原理、应对方式和复发预防的干预过程。"
-pubDate: 2026-06-07
-tags: ["心理教育", "心理治疗", "自助"]
-group: "心理治疗与评估"
 plainDefinition: "向来访者或家庭解释心理问题、治疗原理、应对方式和复发预防的干预过程。"
+group: "心理治疗与评估"
 english: "Psychoeducation"
 aliases: ["心理科普教育"]
 domains: ["心理治疗", "精神健康"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["emotion-regulation", "case-formulation", "treatment-plan"]
+pubDate: 2026-06-07
+tags: ["心理教育", "心理治疗", "自助"]
+sourceRefs:
   - label: "NIMH: Anxiety Disorders"
     url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
   - label: "NIMH: Depression"
     url: "https://www.nimh.nih.gov/health/publications/depression"
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["emotion-regulation", "case-formulation", "treatment-plan"]
 ---
+
 
 心理教育把专业知识转化为可理解、可使用的信息。它可以解释焦虑循环、创伤反应、人格模式、药物配合、睡眠管理或亲密关系中的互动循环。
 
@@ -46,3 +47,5 @@ related: ["emotion-regulation", "case-formulation", "treatment-plan"]
 - 哪些心理概念让我更理解自己，哪些让我更逃避自己？
 - 我是在学习，还是在用知识控制不确定感？
 - 我能否把一个概念落实到具体行为改变？
+
+补充阅读提示：阅读心理教育时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

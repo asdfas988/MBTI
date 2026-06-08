@@ -1,22 +1,23 @@
 ---
 title: "自伤"
 description: "个体故意伤害自己身体的行为，可能伴随也可能不伴随明确自杀意图。"
-pubDate: 2026-06-07
-tags: ["自伤", "风险评估", "情绪调节"]
-group: "精神病学基础"
 plainDefinition: "个体故意伤害自己身体的行为，可能伴随也可能不伴随明确自杀意图。"
+group: "精神病学基础"
 english: "Self-Harm"
 aliases: ["非自杀性自伤"]
 domains: ["精神医学", "危机干预"]
 level: "进阶"
 clinicalBoundary: "若存在自伤冲动、行为或自杀计划，应立即联系当地急救、危机热线或专业机构；本词条不能替代危机干预。"
-sourceRefs: 
+related: ["risk-assessment", "suicidal-ideation", "affect-regulation"]
+pubDate: 2026-06-07
+tags: ["自伤", "风险评估", "情绪调节"]
+sourceRefs:
   - label: "NIMH: Suicide Prevention"
     url: "https://www.nimh.nih.gov/health/topics/suicide-prevention"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-related: ["risk-assessment", "suicidal-ideation", "affect-regulation"]
 ---
+
 
 自伤可能用于调节强烈情绪、把心理痛苦转为身体痛感、惩罚自己、表达求助或获得短暂控制感。它需要认真评估，而不是简单责备或浪漫化。
 
@@ -44,3 +45,5 @@ related: ["risk-assessment", "suicidal-ideation", "affect-regulation"]
 - 我自伤前最强烈的情绪是什么？
 - 自伤短暂解决了什么，又带来什么后果？
 - 在冲动上升时，我能否把自己移到更安全的环境并联系支持？
+
+补充阅读提示：阅读自伤时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

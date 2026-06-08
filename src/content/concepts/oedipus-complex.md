@@ -1,22 +1,23 @@
 ---
 title: "俄狄浦斯情结"
 description: "精神分析中描述儿童在三角关系、欲望、竞争、认同和禁忌中组织心理冲突的经典概念。"
-pubDate: 2026-06-07
-tags: ["精神分析", "俄狄浦斯", "三角关系"]
-group: "精神动力学"
 plainDefinition: "精神分析中描述儿童在三角关系、欲望、竞争、认同和禁忌中组织心理冲突的经典概念。"
+group: "精神动力学"
 english: "Oedipus Complex"
 aliases: ["恋母情结", "俄狄浦斯冲突"]
 domains: ["精神动力学"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["superego", "psychic-conflict", "identification"]
+pubDate: 2026-06-07
+tags: ["精神分析", "俄狄浦斯", "三角关系"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "American Psychoanalytic Association: about psychoanalysis"
     url: "https://apsa.org/about-psychoanalysis/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["superego", "psychic-conflict", "identification"]
 ---
+
 
 俄狄浦斯情结不应被简化成字面恋父恋母。它更广泛地指向个体如何处理欲望、竞争、排除感、认同父母、接受限制以及进入三角关系。
 
@@ -44,3 +45,5 @@ related: ["superego", "psychic-conflict", "identification"]
 - 我在三个人的关系里最常感到什么？
 - 我如何体验竞争：兴奋、羞耻、恐惧还是报复？
 - 我能否接受重要他人也有不属于我的关系？
+
+补充阅读提示：阅读俄狄浦斯情结时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

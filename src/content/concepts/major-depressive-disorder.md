@@ -1,22 +1,23 @@
 ---
 title: "重性抑郁障碍"
 description: "以持续抑郁心境或兴趣丧失，并伴随睡眠、食欲、精力、认知和自我评价改变为特征的障碍。"
-pubDate: 2026-06-07
-tags: ["抑郁障碍", "心境障碍", "自杀风险"]
-group: "精神病学基础"
 plainDefinition: "以持续抑郁心境或兴趣丧失，并伴随睡眠、食欲、精力、认知和自我评价改变为特征的障碍。"
+group: "精神病学基础"
 english: "Major Depressive Disorder"
 aliases: ["重度抑郁", "MDD"]
 domains: ["精神医学"]
 level: "基础"
 clinicalBoundary: "若出现自杀意念、计划或无法维持基本生活，应尽快寻求专业帮助或急救资源。"
-sourceRefs: 
+related: ["depression", "suicidal-ideation", "mourning-and-melancholia"]
+pubDate: 2026-06-07
+tags: ["抑郁障碍", "心境障碍", "自杀风险"]
+sourceRefs:
   - label: "NIMH: Depression"
     url: "https://www.nimh.nih.gov/health/publications/depression"
   - label: "WHO ICD-11 Browser: Mental, behavioural or neurodevelopmental disorders"
     url: "https://icd.who.int/browse/2025-01/mms/en"
-related: ["depression", "suicidal-ideation", "mourning-and-melancholia"]
 ---
+
 
 重性抑郁障碍不只是难过。它常涉及快感缺失、疲惫、迟滞或激越、注意困难、无价值感、罪疚、自杀意念和明显功能损害。
 
@@ -44,3 +45,5 @@ related: ["depression", "suicidal-ideation", "mourning-and-melancholia"]
 - 我的低落持续了多久，是否影响基本生活？
 - 我是在哀悼具体丧失，还是进入广泛无价值感？
 - 是否出现自杀意念或安全风险？
+
+补充阅读提示：阅读重性抑郁障碍时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

@@ -1,22 +1,23 @@
 ---
 title: "共情受损"
 description: "个体理解、感受或回应他人内在状态的能力长期不足或不稳定，并影响关系功能。"
-pubDate: 2026-06-07
-tags: ["共情受损", "人格功能", "自恋"]
-group: "人格结构"
 plainDefinition: "个体理解、感受或回应他人内在状态的能力长期不足或不稳定，并影响关系功能。"
+group: "人格结构"
 english: "Empathy Impairment"
 aliases: ["同理心受损"]
 domains: ["人格结构"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["empathy", "narcissistic-personality-disorder", "mentalization"]
+pubDate: 2026-06-07
+tags: ["共情受损", "人格功能", "自恋"]
+sourceRefs:
   - label: "American Psychiatric Association: DSM-5 Personality Disorders"
     url: "https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM-5-Personality-Disorder.pdf"
   - label: "PMC: Mentalization and personality disorder"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC2816926/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["empathy", "narcissistic-personality-disorder", "mentalization"]
 ---
+
 
 共情受损可以表现为看不见他人感受、只在自我需要被满足时才理解别人，或在羞耻和威胁下迅速丧失对他人的关心。
 
@@ -44,3 +45,5 @@ related: ["empathy", "narcissistic-personality-disorder", "mentalization"]
 - 当我受伤时，我还能否想象对方也有感受？
 - 我是否只在对方满足我时才觉得对方重要？
 - 我会不会把他人的边界体验成攻击？
+
+补充阅读提示：阅读共情受损时，要把它放在人格组织、自我功能和关系表征中理解。结构性概念通常描述长期模式，不适合根据单次行为下结论；它们更适合帮助识别整合、分化和现实检验的能力。

@@ -14,7 +14,10 @@ tags: ["依恋", "接近", "安全"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 在威胁、疲惫或不确定时寻求靠近依恋对象，以获得安全、安抚和调节。
 
@@ -47,3 +50,7 @@ sourceRefs:
 - 我接近对方时真正想获得什么？
 - 我的接近是否尊重对方边界？
 - 我能否在等待回应时使用自我安抚？
+
+补充阅读提示：阅读接近寻求时，建议同时观察个人感受和互动循环。关系概念不是用来判定谁有问题，而是帮助看见安全感、边界、回应质量和旧经验如何在当下关系中被重新激活。
+
+写作使用提示：写到接近寻求时，可以把个人感受和互动循环一起写清楚：一个人的反应如何影响另一个人的安全感、边界或防御。这样词条会更贴近真实关系，而不是停留在抽象定义。

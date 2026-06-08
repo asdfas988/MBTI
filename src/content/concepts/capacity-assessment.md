@@ -18,6 +18,7 @@ sourceRefs:
     url: "https://www.merckmanuals.com/professional/psychiatric-disorders/approach-to-the-patient-with-mental-symptoms/mental-status-examination"
 ---
 
+
 能力评估是判断个体是否能理解信息、权衡选择、表达稳定决定并理解后果的临床和伦理评估过程。
 
 ## 概念边界
@@ -50,3 +51,5 @@ sourceRefs:
 - 这个决定具体是什么，而不是泛泛谈能力？
 - 我是否理解后果并能说出自己的理由？
 - 需要哪些支持能帮助我更好地做决定？
+
+补充阅读提示：阅读能力评估时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

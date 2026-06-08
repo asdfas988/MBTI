@@ -14,7 +14,12 @@ tags: ["安全", "自杀预防", "危机干预"]
 sourceRefs:
   - label: "NIMH: Suicide Prevention"
     url: "https://www.nimh.nih.gov/health/topics/suicide-prevention"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "WHO ICD-11 Browser"
+    url: "https://icd.who.int/browse/2025-01/mms/en"
 ---
+
 
 致命手段安全是自杀预防中的重要策略，通过安全存放、移除或限制危险手段来降低短期死亡风险。
 
@@ -48,3 +53,7 @@ sourceRefs:
 - 我现在最危险的手段是什么？
 - 谁能帮我保管或移开它？
 - 我能否把自己移动到更安全、更有人在的地方？
+
+补充阅读提示：阅读致命手段安全时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。
+
+写作使用提示：写到致命手段安全时，建议同时呈现“体验描述”和“何时需要求助”。这能减少污名，也能提醒读者不要把症状词当成标签；若涉及安全风险，应把危机支持放在解释之前。

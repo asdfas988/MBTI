@@ -1,22 +1,23 @@
 ---
 title: "保密原则"
 description: "心理服务中对来访者信息进行保护，并在法律、伦理和安全例外下有限披露的原则。"
-pubDate: 2026-06-07
-tags: ["伦理", "保密", "心理治疗"]
-group: "心理治疗与评估"
 plainDefinition: "心理服务中对来访者信息进行保护，并在法律、伦理和安全例外下有限披露的原则。"
+group: "心理治疗与评估"
 english: "Confidentiality"
 aliases: ["保密伦理"]
 domains: ["心理治疗", "评估伦理"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["informed-consent", "risk-assessment", "treatment-frame"]
+pubDate: 2026-06-07
+tags: ["伦理", "保密", "心理治疗"]
+sourceRefs:
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["informed-consent", "risk-assessment", "treatment-frame"]
 ---
+
 
 保密原则让来访者能够谈论羞耻、冲突、欲望和痛苦。专业保密通常包括会谈内容、评估资料、身份信息和记录管理，同时也必须说明危及自身或他人安全等例外情形。
 
@@ -44,3 +45,5 @@ related: ["informed-consent", "risk-assessment", "treatment-frame"]
 - 我是否担心一旦说出真实想法就会被传播或惩罚？
 - 我会不会因为不清楚保密边界而隐藏关键材料？
 - 我对“必要披露”有什么情绪反应？
+
+补充阅读提示：阅读保密原则时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

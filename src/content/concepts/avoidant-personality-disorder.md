@@ -1,24 +1,25 @@
 ---
 title: "回避型人格障碍"
 description: "以长期社交回避、负面评价敏感、低自我价值和渴望关系但害怕接近为特征的人格障碍模式。"
-pubDate: 2026-06-07
-tags: ["人格障碍", "回避", "羞耻"]
-group: "人格结构"
 plainDefinition: "以长期社交回避、负面评价敏感、低自我价值和渴望关系但害怕接近为特征的人格障碍模式。"
+group: "人格结构"
 english: "Avoidant Personality Disorder"
 aliases: ["回避型人格"]
 domains: ["人格结构", "精神医学"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["social-anxiety-disorder", "shame", "avoidance-coping"]
+pubDate: 2026-06-07
+tags: ["人格障碍", "回避", "羞耻"]
+sourceRefs:
   - label: "American Psychiatric Association: DSM-5 Personality Disorders"
     url: "https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM-5-Personality-Disorder.pdf"
   - label: "WHO ICD-11 Browser: Mental, behavioural or neurodevelopmental disorders"
     url: "https://icd.who.int/browse/2025-01/mms/en"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["social-anxiety-disorder", "shame", "avoidance-coping"]
 ---
+
 
 回避型人格障碍不同于单纯内向。个体往往很想连接，却因害怕羞辱、拒绝或暴露缺陷而回避关系、机会和亲密。
 
@@ -46,3 +47,5 @@ related: ["social-anxiety-disorder", "shame", "avoidance-coping"]
 - 我回避关系是因为不需要，还是因为太害怕被评价？
 - 我是否在别人真正认识我之前先撤退？
 - 我把哪些普通反馈体验成彻底否定？
+
+补充阅读提示：阅读回避型人格障碍时，要把它放在人格组织、自我功能和关系表征中理解。结构性概念通常描述长期模式，不适合根据单次行为下结论；它们更适合帮助识别整合、分化和现实检验的能力。

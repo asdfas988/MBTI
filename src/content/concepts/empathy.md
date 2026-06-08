@@ -1,22 +1,23 @@
 ---
 title: "共情"
 description: "理解、感受或推断他人情绪、需要和观点，并据此调整回应的能力。"
-pubDate: 2026-06-07
-tags: ["共情", "人格心理学", "关系"]
-group: "人格心理学"
 plainDefinition: "理解、感受或推断他人情绪、需要和观点，并据此调整回应的能力。"
+group: "人格心理学"
 english: "Empathy"
 aliases: ["同理心"]
 domains: ["人格心理学", "关系"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["mentalization", "intimacy", "empathy-impairment"]
+pubDate: 2026-06-07
+tags: ["共情", "人格心理学", "关系"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "PMC: Mentalization and personality disorder"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC2816926/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["mentalization", "intimacy", "empathy-impairment"]
 ---
+
 
 共情包含认知共情和情感共情。前者帮助理解他人视角，后者帮助感受他人的情绪质地。成熟共情还需要边界，能理解他人而不被淹没。
 
@@ -44,3 +45,5 @@ related: ["mentalization", "intimacy", "empathy-impairment"]
 - 我理解别人时是否也保留自己的边界？
 - 我是在共情，还是在猜测并替对方负责？
 - 冲突中我能否看见双方的内在状态？
+
+补充阅读提示：阅读共情时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

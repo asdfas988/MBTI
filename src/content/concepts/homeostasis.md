@@ -14,7 +14,13 @@ tags: ["稳态", "系统", "调节"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
+
 
 稳态指系统维持相对稳定状态的倾向，可用于理解身体、情绪、家庭和人格系统如何抵抗过大变化。
 
@@ -48,3 +54,7 @@ sourceRefs:
 - 我最熟悉的旧平衡是什么？
 - 这个稳态保护了我什么？
 - 新平衡需要哪些支持才能维持？
+
+补充阅读提示：阅读稳态时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到稳态时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

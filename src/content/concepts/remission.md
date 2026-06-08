@@ -1,22 +1,23 @@
 ---
 title: "缓解"
 description: "症状显著减轻或暂时不再达到诊断阈值，但仍需关注维持和复发风险的状态。"
-pubDate: 2026-06-07
-tags: ["缓解", "病程", "复发预防"]
-group: "精神病学基础"
 plainDefinition: "症状显著减轻或暂时不再达到诊断阈值，但仍需关注维持和复发风险的状态。"
+group: "精神病学基础"
 english: "Remission"
 aliases: ["症状缓解"]
 domains: ["精神医学", "治疗"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["relapse", "treatment-plan", "functional-impairment"]
+pubDate: 2026-06-07
+tags: ["缓解", "病程", "复发预防"]
+sourceRefs:
   - label: "WHO ICD-11"
     url: "https://icd.who.int/"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["relapse", "treatment-plan", "functional-impairment"]
 ---
+
 
 缓解说明症状进入较稳定阶段，但不一定意味着所有心理模式都已改变。临床上常区分部分缓解、完全缓解和持续缓解。
 
@@ -44,3 +45,5 @@ related: ["relapse", "treatment-plan", "functional-impairment"]
 - 我的症状缓解后，哪些生活功能仍未恢复？
 - 我有哪些复发预警信号？
 - 我是否因为好转而突然停止所有支持？
+
+补充阅读提示：阅读缓解时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

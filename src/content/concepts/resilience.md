@@ -1,22 +1,23 @@
 ---
 title: "心理韧性"
 description: "个体在压力、挫折或创伤后维持、恢复或重新组织功能的能力。"
-pubDate: 2026-06-07
-tags: ["心理韧性", "压力", "人格发展"]
-group: "人格心理学"
 plainDefinition: "个体在压力、挫折或创伤后维持、恢复或重新组织功能的能力。"
+group: "人格心理学"
 english: "Resilience"
 aliases: ["复原力"]
 domains: ["人格心理学"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["secure-attachment", "self-efficacy", "coping"]
+pubDate: 2026-06-07
+tags: ["心理韧性", "压力", "人格发展"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "APA Dictionary of Psychology: attachment style"
     url: "https://dictionary.apa.org/attachment-style"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["secure-attachment", "self-efficacy", "coping"]
 ---
+
 
 心理韧性不是永不受伤，而是在受伤后能够动员资源、调节情绪、寻求支持、重新理解经验并恢复行动。
 
@@ -44,3 +45,5 @@ related: ["secure-attachment", "self-efficacy", "coping"]
 - 我恢复靠的是压住自己，还是有效资源？
 - 压力后我最先失去和最先恢复的功能是什么？
 - 哪些关系让我更有韧性？
+
+补充阅读提示：阅读心理韧性时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

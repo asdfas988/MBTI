@@ -14,7 +14,12 @@ tags: ["气质", "TCI", "回避"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 伤害回避是一种气质维度，描述个体对危险、惩罚、不确定和失败的敏感度，以及倾向于谨慎、担忧或回避的程度。
 
@@ -48,3 +53,5 @@ sourceRefs:
 - 我的谨慎是在保护我，还是缩小我？
 - 我最害怕哪类伤害：失败、羞耻、抛弃还是失控？
 - 我能否做一个低风险的探索动作？
+
+补充阅读提示：阅读伤害回避时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

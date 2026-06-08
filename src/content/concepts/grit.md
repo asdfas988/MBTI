@@ -14,7 +14,12 @@ tags: ["坚毅", "坚持", "目标"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 坚毅指面对长期目标时保持兴趣、努力和持续投入的倾向，常与坚持性、责任感和意义感有关。
 
@@ -48,3 +53,7 @@ sourceRefs:
 - 我坚持的是价值，还是羞耻？
 - 这个目标仍然值得我投入吗？
 - 我是否能在调整中保持长期方向？
+
+补充阅读提示：阅读坚毅时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到坚毅时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

@@ -1,22 +1,23 @@
 ---
 title: "快乐原则"
 description: "精神分析中指心理系统倾向于寻求快感、降低紧张和避免痛苦的基本倾向。"
-pubDate: 2026-06-07
-tags: ["精神分析", "本我", "冲动"]
-group: "精神动力学"
 plainDefinition: "精神分析中指心理系统倾向于寻求快感、降低紧张和避免痛苦的基本倾向。"
+group: "精神动力学"
 english: "Pleasure Principle"
 aliases: ["快感原则"]
 domains: ["精神动力学"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["drive", "id-ego-superego", "reality-principle"]
+pubDate: 2026-06-07
+tags: ["精神分析", "本我", "冲动"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["drive", "id-ego-superego", "reality-principle"]
 ---
+
 
 快乐原则描述的是冲动和愿望如何推动心理活动：想立刻满足、想摆脱不适、想把紧张降下来。儿童早期和无意识过程常更接近这种运作方式。
 
@@ -44,3 +45,5 @@ related: ["drive", "id-ego-superego", "reality-principle"]
 - 我最常用什么方式快速降低痛苦？
 - 哪些短期舒服正在制造长期成本？
 - 我能否把冲动延迟一分钟并观察它？
+
+补充阅读提示：阅读快乐原则时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

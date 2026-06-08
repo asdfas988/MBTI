@@ -1,22 +1,23 @@
 ---
 title: "梦的隐意"
 description: "梦的表面内容背后可能隐藏的愿望、冲突、情绪和无意识意义。"
-pubDate: 2026-06-07
-tags: ["梦", "隐意", "无意识"]
-group: "精神动力学"
 plainDefinition: "梦的表面内容背后可能隐藏的愿望、冲突、情绪和无意识意义。"
+group: "精神动力学"
 english: "Latent Content"
 aliases: ["梦隐意"]
 domains: ["精神动力学"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["manifest-content", "dream-work", "unconscious"]
+pubDate: 2026-06-07
+tags: ["梦", "隐意", "无意识"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["manifest-content", "dream-work", "unconscious"]
 ---
+
 
 隐意不是字典式翻译，而是通过自由联想、情境和个人历史逐渐接近的潜在意义。它可能涉及欲望、恐惧、内疚、攻击、丧失或关系冲突。
 
@@ -44,3 +45,5 @@ related: ["manifest-content", "dream-work", "unconscious"]
 - 梦中最强的情绪可能连接什么现实冲突？
 - 我对某个梦象的第一联想是什么？
 - 如果梦在表达一个被压住的愿望，它会是什么？
+
+补充阅读提示：阅读梦的隐意时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

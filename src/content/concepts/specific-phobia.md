@@ -1,22 +1,23 @@
 ---
 title: "特定恐惧症"
 description: "对特定对象或情境产生强烈、持续且与实际危险不相称的恐惧和回避。"
-pubDate: 2026-06-07
-tags: ["恐惧症", "焦虑障碍", "回避"]
-group: "精神病学基础"
 plainDefinition: "对特定对象或情境产生强烈、持续且与实际危险不相称的恐惧和回避。"
+group: "精神病学基础"
 english: "Specific Phobia"
 aliases: ["特定恐惧"]
 domains: ["精神医学", "焦虑"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["anxiety", "avoidance-coping", "exposure-therapy"]
+pubDate: 2026-06-07
+tags: ["恐惧症", "焦虑障碍", "回避"]
+sourceRefs:
   - label: "NIMH: Anxiety Disorders"
     url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["anxiety", "avoidance-coping", "exposure-therapy"]
 ---
+
 
 特定恐惧可以指向动物、高处、飞行、注射、血液、封闭空间等。个体通常知道恐惧过度，但身体反应和回避冲动很强。
 
@@ -44,3 +45,5 @@ related: ["anxiety", "avoidance-coping", "exposure-therapy"]
 - 我回避的对象是什么，它实际限制了哪些生活？
 - 我每次回避后焦虑是短暂下降还是长期加重？
 - 这个恐惧是否连接某段具体经验或象征意义？
+
+补充阅读提示：阅读特定恐惧症时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

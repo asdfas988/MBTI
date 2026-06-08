@@ -1,22 +1,23 @@
 ---
 title: "精神分裂症"
 description: "以精神病性症状、思维和行为紊乱、情感与动机改变等为特征的严重精神障碍。"
-pubDate: 2026-06-07
-tags: ["精神分裂症", "精神病性症状", "现实检验"]
-group: "精神病学基础"
 plainDefinition: "以精神病性症状、思维和行为紊乱、情感与动机改变等为特征的严重精神障碍。"
+group: "精神病学基础"
 english: "Schizophrenia"
 aliases: ["schizophrenia"]
 domains: ["精神医学"]
 level: "进阶"
 clinicalBoundary: "疑似精神病性症状应尽快接受精神科或专业临床评估。"
-sourceRefs: 
+related: ["psychosis", "hallucination", "delusion"]
+pubDate: 2026-06-07
+tags: ["精神分裂症", "精神病性症状", "现实检验"]
+sourceRefs:
   - label: "NIMH: Schizophrenia"
     url: "https://www.nimh.nih.gov/health/topics/schizophrenia"
   - label: "WHO ICD-11 Browser: Mental, behavioural or neurodevelopmental disorders"
     url: "https://icd.who.int/browse/2025-01/mms/en"
-related: ["psychosis", "hallucination", "delusion"]
 ---
+
 
 精神分裂症可包括幻觉、妄想、思维紊乱、言语混乱、情感淡漠、动机下降和社会功能受损。它不是“人格分裂”。
 
@@ -44,3 +45,5 @@ related: ["psychosis", "hallucination", "delusion"]
 - 我是否出现他人无法验证的感知或确信？
 - 这些体验是否影响了安全、工作或关系？
 - 我是否能让可信任的人陪同寻求专业评估？
+
+补充阅读提示：阅读精神分裂症时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

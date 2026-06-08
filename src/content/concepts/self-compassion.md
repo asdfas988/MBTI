@@ -1,20 +1,27 @@
 ---
 title: "自我慈悲"
 description: "在痛苦、失败或不足面前，以善意、共同人性和正念态度对待自己的能力。"
-pubDate: 2026-06-07
-tags: ["自我慈悲", "羞耻", "自尊"]
-group: "人格心理学"
 plainDefinition: "在痛苦、失败或不足面前，以善意、共同人性和正念态度对待自己的能力。"
+group: "人格心理学"
 english: "Self-Compassion"
 aliases: ["自我关怀", "自我同情"]
 domains: ["人格心理学", "心理治疗"]
 level: "基础"
-sourceRefs: 
-  - label: "APA Dictionary of Psychology"
-    url: "https://dictionary.apa.org/"
 clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["shame", "superego", "self-esteem-regulation"]
+pubDate: 2026-06-07
+tags: ["自我慈悲", "羞耻", "自尊"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "APA: Cognitive Behavioral Therapy"
+    url: "https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
 ---
+
 
 自我慈悲不是自我放纵，而是在困难时不把自己羞辱到无法行动。它包括对自己友善、承认痛苦是人类经验的一部分，以及以正念方式看待情绪。
 
@@ -42,3 +49,5 @@ related: ["shame", "superego", "self-esteem-regulation"]
 - 我失败时对自己说话像谁？
 - 如果我对朋友说同样的话，会不会太残酷？
 - 我能否在承认责任的同时不羞辱自己？
+
+补充阅读提示：阅读自我慈悲时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

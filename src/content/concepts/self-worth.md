@@ -14,7 +14,16 @@ tags: ["自我价值", "自尊", "人格"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "American Psychoanalytic Association: psychoanalytic terms"
+    url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
 ---
+
 
 自我价值感指个体对自己是否值得被尊重、被爱和被认真对待的基本感受，常比外在自信更深。
 
@@ -48,3 +57,7 @@ sourceRefs:
 - 我什么时候最觉得自己不值得？
 - 我的价值是否和表现绑定得太紧？
 - 我能否把错误看作行为，而不是整个人的判决？
+
+补充阅读提示：阅读自我价值感时，要把它放在人格组织、自我功能和关系表征中理解。结构性概念通常描述长期模式，不适合根据单次行为下结论；它们更适合帮助识别整合、分化和现实检验的能力。
+
+写作使用提示：写到自我价值感时，适合说明它如何影响身份连续性、自尊调节、亲密关系和现实检验。结构性概念要谨慎使用，避免根据单次行为推断整个人格组织。

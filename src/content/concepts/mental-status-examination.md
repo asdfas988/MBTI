@@ -1,22 +1,23 @@
 ---
 title: "精神状态检查"
 description: "对个体当前外观、行为、情绪、思维、知觉、认知、洞察和判断等心理状态的系统观察。"
-pubDate: 2026-06-07
-tags: ["精神状态检查", "精神医学", "评估"]
-group: "心理治疗与评估"
 plainDefinition: "对个体当前外观、行为、情绪、思维、知觉、认知、洞察和判断等心理状态的系统观察。"
+group: "心理治疗与评估"
 english: "Mental Status Examination"
 aliases: ["MSE"]
 domains: ["精神医学", "评估"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["psychosis", "risk-assessment", "differential-diagnosis"]
+pubDate: 2026-06-07
+tags: ["精神状态检查", "精神医学", "评估"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "APA Dictionary of Psychology: psychological assessment"
     url: "https://dictionary.apa.org/psychological-assessment"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["psychosis", "risk-assessment", "differential-diagnosis"]
 ---
+
 
 精神状态检查常用于临床评估和精神科工作。它帮助专业人员描述一个人“此刻如何运作”，例如情绪是否低落、思维是否连贯、是否有幻觉妄想、判断力是否受损。
 
@@ -44,3 +45,5 @@ related: ["psychosis", "risk-assessment", "differential-diagnosis"]
 - 我最近的睡眠、注意、冲动和现实感是否明显改变？
 - 我是否出现别人难以理解的确信或感知体验？
 - 我的情绪是否已经影响基本生活判断？
+
+补充阅读提示：阅读精神状态检查时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

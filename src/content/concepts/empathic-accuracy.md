@@ -14,7 +14,12 @@ tags: ["共情", "准确性", "关系"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 共情准确性指个体较准确理解他人当下想法、感受、意图和处境的能力。
 
@@ -48,3 +53,7 @@ sourceRefs:
 - 我理解的是对方，还是我自己的投射？
 - 我有没有向对方验证？
 - 我在强情绪中还能保持好奇吗？
+
+补充阅读提示：阅读共情准确性时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。
+
+写作使用提示：写到共情准确性时，最好区分“倾向”“状态”和“情境反应”。人格词条的重点不是给读者一个身份结论，而是让他们能观察自己在哪些条件下更稳定、在哪些条件下会改变。

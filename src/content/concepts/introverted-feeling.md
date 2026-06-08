@@ -1,20 +1,25 @@
 ---
 title: "内倾情感"
 description: "类型学中偏向根据内在价值、真实感和个人意义来作判断的功能。"
-pubDate: 2026-06-07
-tags: ["MBTI", "Fi", "价值"]
-group: "MBTI 与人格"
 plainDefinition: "类型学中偏向根据内在价值、真实感和个人意义来作判断的功能。"
+group: "MBTI 与人格"
 english: "Introverted Feeling"
 aliases: ["Fi"]
 domains: ["MBTI"]
 level: "进阶"
-sourceRefs: 
-  - label: "APA Dictionary of Psychology"
-    url: "https://dictionary.apa.org/"
 clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["thinking-feeling", "identity", "psychological-boundaries"]
+pubDate: 2026-06-07
+tags: ["MBTI", "Fi", "价值"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "The Myers-Briggs Company: type dynamics"
+    url: "https://www.themyersbriggs.com/en-US/Products-and-Services/Myers-Briggs"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
 ---
+
 
 内倾情感关注“这是否符合我内在真正重视的东西”。它常对真实性、价值冲突、个人边界和情感细腻度敏感。
 
@@ -42,3 +47,5 @@ Fi 能保护自体真实性，也可能在受伤时退入孤立和道德绝对�
 - 我最不能违背的价值是什么？
 - 我是否把不理解我体验成不尊重我？
 - 我能否把内在感受清楚表达，而不是只撤退？
+
+补充阅读提示：阅读内倾情感时，请把它当作偏好语言，而不是诊断或能力排名。MBTI 词汇适合开启自我观察，但需要和大五人格、心理测量限制、情绪调节和真实生活反馈一起理解，才不容易变成标签。

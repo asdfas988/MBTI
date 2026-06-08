@@ -1,22 +1,23 @@
 ---
 title: "复发"
 description: "症状在缓解后再次加重，重新达到临床关注或诊断阈值的过程。"
-pubDate: 2026-06-07
-tags: ["复发", "病程", "复发预防"]
-group: "精神病学基础"
 plainDefinition: "症状在缓解后再次加重，重新达到临床关注或诊断阈值的过程。"
+group: "精神病学基础"
 english: "Relapse"
 aliases: ["症状复燃"]
 domains: ["精神医学", "治疗"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["remission", "treatment-plan", "risk-assessment"]
+pubDate: 2026-06-07
+tags: ["复发", "病程", "复发预防"]
+sourceRefs:
   - label: "WHO ICD-11"
     url: "https://icd.who.int/"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["remission", "treatment-plan", "risk-assessment"]
 ---
+
 
 复发可能由压力、睡眠紊乱、治疗中断、关系事件、物质使用或旧有应对方式恢复引发。它不是失败，而是病程管理中的重要信号。
 
@@ -44,3 +45,5 @@ related: ["remission", "treatment-plan", "risk-assessment"]
 - 我的复发预警信号通常是什么？
 - 哪些事件最容易让我回到旧模式？
 - 我是否有一份具体的复发应对计划？
+
+补充阅读提示：阅读复发时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

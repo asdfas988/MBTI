@@ -1,22 +1,23 @@
 ---
 title: "诊断"
 description: "依据公认分类系统和临床证据，对心理或精神障碍作出的专业判断。"
-pubDate: 2026-06-07
-tags: ["诊断", "精神医学", "临床评估"]
-group: "心理治疗与评估"
 plainDefinition: "依据公认分类系统和临床证据，对心理或精神障碍作出的专业判断。"
+group: "心理治疗与评估"
 english: "Diagnosis"
 aliases: ["临床诊断"]
 domains: ["精神医学", "评估"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["differential-diagnosis", "comorbidity", "functional-impairment"]
+pubDate: 2026-06-07
+tags: ["诊断", "精神医学", "临床评估"]
+sourceRefs:
   - label: "WHO ICD-11"
     url: "https://icd.who.int/"
   - label: "WHO ICD-11 Browser: Mental, behavioural or neurodevelopmental disorders"
     url: "https://icd.who.int/browse/2025-01/mms/en"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["differential-diagnosis", "comorbidity", "functional-impairment"]
 ---
+
 
 诊断是临床沟通和治疗规划的工具。它帮助专业人员识别问题类型、风险、预后和可能干预，但不能概括一个人的全部人格和生命故事。
 
@@ -44,3 +45,5 @@ related: ["differential-diagnosis", "comorbidity", "functional-impairment"]
 - 我是否把诊断当作解释自己的唯一语言？
 - 这个诊断帮助我获得理解，还是让我更羞耻？
 - 除了诊断，我还需要哪些关于关系和人格模式的理解？
+
+补充阅读提示：阅读诊断时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

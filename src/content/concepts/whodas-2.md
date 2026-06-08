@@ -14,7 +14,14 @@ tags: ["WHODAS", "功能评估", "ICF"]
 sourceRefs:
   - label: "WHO ICD-11 Browser"
     url: "https://icd.who.int/browse/2025-01/mms/en"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
+  - label: "AERA/APA/NCME: Standards for Educational and Psychological Testing"
+    url: "https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf"
 ---
+
 
 WHODAS 2.0 是世界卫生组织开发的功能障碍评估工具，用于跨疾病评估个体在多个生活领域的功能受限。
 
@@ -48,3 +55,5 @@ WHODAS 2.0 是世界卫生组织开发的功能障碍评估工具，用于跨疾
 - 我的症状具体影响了哪些生活领域？
 - 哪些困难来自环境而非个人能力？
 - 治疗目标是否包括功能恢复？
+
+补充阅读提示：阅读WHODAS 2.0时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。

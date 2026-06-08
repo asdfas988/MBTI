@@ -1,22 +1,23 @@
 ---
 title: "人格测验"
 description: "用于评估人格特质、偏好、风格或人格功能的问卷、访谈、行为任务或投射性工具。"
-pubDate: 2026-06-07
-tags: ["人格测验", "MBTI", "评估"]
-group: "人格心理学"
 plainDefinition: "用于评估人格特质、偏好、风格或人格功能的问卷、访谈、行为任务或投射性工具。"
+group: "人格心理学"
 english: "Personality Test"
 aliases: ["人格测试"]
 domains: ["人格心理学", "评估"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["psychometrics", "big-five-personality-model", "type-dynamics"]
+pubDate: 2026-06-07
+tags: ["人格测验", "MBTI", "评估"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "APA Dictionary of Psychology: Big Five Personality Model"
     url: "https://dictionary.apa.org/big-five-personality-model"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["psychometrics", "big-five-personality-model", "type-dynamics"]
 ---
+
 
 人格测验可用于研究、咨询、职业发展或临床评估。不同工具差别很大：大五量表偏维度特质，MMPI 偏临床人格与症状，MBTI 偏类型偏好叙事。
 
@@ -44,3 +45,5 @@ related: ["psychometrics", "big-five-personality-model", "type-dynamics"]
 - 我希望这个测试替我回答什么？
 - 结果让我更开放理解自己，还是更僵硬地定义自己？
 - 生活中的哪些证据支持或修正结果？
+
+补充阅读提示：阅读人格测验时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

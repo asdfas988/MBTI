@@ -1,22 +1,23 @@
 ---
 title: "自由漂浮注意"
 description: "分析者在倾听中尽量保持开放、不预先筛选重点，让材料的潜在联系自然浮现的注意方式。"
-pubDate: 2026-06-07
-tags: ["精神分析技术", "倾听", "自由联想"]
-group: "精神动力学"
 plainDefinition: "分析者在倾听中尽量保持开放、不预先筛选重点，让材料的潜在联系自然浮现的注意方式。"
+group: "精神动力学"
 english: "Free-Floating Attention"
 aliases: ["均匀悬浮注意"]
 domains: ["精神动力学", "心理治疗"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["free-association", "countertransference", "reverie"]
+pubDate: 2026-06-07
+tags: ["精神分析技术", "倾听", "自由联想"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "APA Dictionary of Psychology: psychoanalysis"
     url: "https://dictionary.apa.org/psychoanalysis"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["free-association", "countertransference", "reverie"]
 ---
+
 
 自由漂浮注意与来访者的自由联想相配对。治疗者不只听内容，也听重复、停顿、情绪、遗漏、身体反应和关系场中的微妙变化。
 
@@ -44,3 +45,5 @@ related: ["free-association", "countertransference", "reverie"]
 - 我倾听自己时是否只听最显眼的理由？
 - 哪些重复、停顿或遗漏可能有意义？
 - 我能否允许材料先展开而不急着下结论？
+
+补充阅读提示：阅读自由漂浮注意时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

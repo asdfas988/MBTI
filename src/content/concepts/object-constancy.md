@@ -1,24 +1,25 @@
 ---
 title: "客体恒常性"
 description: "即使重要他人暂时缺席、令人失望或引发冲突，仍能保持其整体、稳定和可爱的内在表征能力。"
-pubDate: 2026-06-07
-tags: ["客体关系", "人格结构", "依恋"]
-group: "人格结构"
 plainDefinition: "即使重要他人暂时缺席、令人失望或引发冲突，仍能保持其整体、稳定和可爱的内在表征能力。"
+group: "人格结构"
 english: "Object Constancy"
 aliases: ["对象恒常性"]
 domains: ["精神动力学", "人格结构"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["internal-object", "splitting", "secure-attachment"]
+pubDate: 2026-06-07
+tags: ["客体关系", "人格结构", "依恋"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "PMC: Levels of Personality Organization"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4578897/"
   - label: "APA Dictionary of Psychology: attachment style"
     url: "https://dictionary.apa.org/attachment-style"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["internal-object", "splitting", "secure-attachment"]
 ---
+
 
 客体恒常性让一个人在关系紧张时仍能记得：对方不是全坏，关系也不一定结束。它与早期依恋、分离经验和内在客体整合密切相关。
 
@@ -46,3 +47,5 @@ related: ["internal-object", "splitting", "secure-attachment"]
 - 当重要的人让我失望时，我能否仍记得关系的整体？
 - 我是否把短暂沉默体验成彻底抛弃？
 - 修复之后，信任会回到身体里吗？
+
+补充阅读提示：阅读客体恒常性时，要把它放在人格组织、自我功能和关系表征中理解。结构性概念通常描述长期模式，不适合根据单次行为下结论；它们更适合帮助识别整合、分化和现实检验的能力。

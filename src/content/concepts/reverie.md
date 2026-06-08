@@ -1,22 +1,23 @@
 ---
 title: "遐想"
 description: "治疗者或照顾者在关系中接收并加工对方未被清楚表达的情绪和无意识材料的内在体验。"
-pubDate: 2026-06-07
-tags: ["Bion", "遐想", "反移情"]
-group: "精神动力学"
 plainDefinition: "治疗者或照顾者在关系中接收并加工对方未被清楚表达的情绪和无意识材料的内在体验。"
+group: "精神动力学"
 english: "Reverie"
 aliases: ["治疗性遐想"]
 domains: ["精神动力学"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["containment", "countertransference", "alpha-function"]
+pubDate: 2026-06-07
+tags: ["Bion", "遐想", "反移情"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "American Psychoanalytic Association: about psychoanalysis"
     url: "https://apsa.org/about-psychoanalysis/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["containment", "countertransference", "alpha-function"]
 ---
+
 
 Bion 传统中的遐想不是走神，而是一种敏感接收和加工功能。治疗者对自己浮现的图像、情绪和身体反应保持观察，以理解来访者难以言说的体验。
 
@@ -44,3 +45,5 @@ Bion 传统中的遐想不是走神，而是一种敏感接收和加工功能。
 - 和某个人相处时，我突然承载了什么不属于自己的情绪？
 - 这些感受是我的历史被触发，还是关系中正在传递什么？
 - 我能否先观察而不是立刻行动？
+
+补充阅读提示：阅读遐想时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

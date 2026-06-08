@@ -14,7 +14,12 @@ tags: ["自我实现", "人本主义", "发展"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Emotions"
+    url: "https://www.apa.org/topics/emotions"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
 ---
+
 
 自我实现指个体发展自身潜能、使生活与内在价值和能力更一致的过程，是人本主义人格心理学的重要概念。
 
@@ -48,3 +53,5 @@ sourceRefs:
 - 我追求的是自己的价值，还是他人的认可？
 - 哪些能力和愿望长期被我压住？
 - 我的成长是否同时尊重现实和关系？
+
+补充阅读提示：阅读自我实现时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

@@ -1,22 +1,23 @@
 ---
 title: "负性治疗反应"
 description: "治疗出现进展或好转后，个体反而恶化、退缩或破坏改善的动力学现象。"
-pubDate: 2026-06-07
-tags: ["治疗阻抗", "超我", "治疗过程"]
-group: "精神动力学"
 plainDefinition: "治疗出现进展或好转后，个体反而恶化、退缩或破坏改善的动力学现象。"
+group: "精神动力学"
 english: "Negative Therapeutic Reaction"
 aliases: ["负性治疗反应"]
 domains: ["精神动力学", "心理治疗"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["resistance", "superego", "working-through"]
+pubDate: 2026-06-07
+tags: ["治疗阻抗", "超我", "治疗过程"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "American Psychoanalytic Association: about psychoanalysis"
     url: "https://apsa.org/about-psychoanalysis/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["resistance", "superego", "working-through"]
 ---
+
 
 负性治疗反应并不是“故意不配合”。它可能源于好转带来的罪疚、分离焦虑、忠诚冲突、超我惩罚、失去症状身份或关系位置改变。
 
@@ -44,3 +45,5 @@ related: ["resistance", "superego", "working-through"]
 - 我是否在变好后反而害怕、内疚或想退回旧模式？
 - 我的痛苦是否让我和某个人保持连接？
 - 我是否觉得好起来意味着背叛过去的自己或家人？
+
+补充阅读提示：阅读负性治疗反应时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

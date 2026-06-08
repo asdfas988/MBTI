@@ -1,20 +1,25 @@
 ---
 title: "内倾思考"
 description: "类型学中偏向在内部建立概念精确性、逻辑一致性和分类结构的判断功能。"
-pubDate: 2026-06-07
-tags: ["MBTI", "Ti", "认知功能"]
-group: "MBTI 与人格"
 plainDefinition: "类型学中偏向在内部建立概念精确性、逻辑一致性和分类结构的判断功能。"
+group: "MBTI 与人格"
 english: "Introverted Thinking"
 aliases: ["Ti"]
 domains: ["MBTI"]
 level: "进阶"
-sourceRefs: 
-  - label: "APA Dictionary of Psychology"
-    url: "https://dictionary.apa.org/"
 clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
 related: ["thinking-feeling", "cognitive-functions", "intellectualization"]
+pubDate: 2026-06-07
+tags: ["MBTI", "Ti", "认知功能"]
+sourceRefs:
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "The Myers-Briggs Company: type dynamics"
+    url: "https://www.themyersbriggs.com/en-US/Products-and-Services/Myers-Briggs"
+  - label: "APA: Psychological Testing and Assessment"
+    url: "https://www.apa.org/topics/testing-assessment-measurement"
 ---
+
 
 内倾思考关注“这个概念内部是否自洽”。它倾向拆解定义、优化模型、追求逻辑纯度，并可能对外部共识保持怀疑。
 
@@ -42,3 +47,5 @@ Ti 可成为理解世界的安全结构，也可能被用来隔离情感。成�
 - 我是否必须先定义清楚才能安心？
 - 我会不会用逻辑精确性避开关系中的情绪？
 - 我的模型是否还能被现实反馈修正？
+
+补充阅读提示：阅读内倾思考时，请把它当作偏好语言，而不是诊断或能力排名。MBTI 词汇适合开启自我观察，但需要和大五人格、心理测量限制、情绪调节和真实生活反馈一起理解，才不容易变成标签。

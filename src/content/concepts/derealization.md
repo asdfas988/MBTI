@@ -1,22 +1,23 @@
 ---
 title: "现实解体"
 description: "感觉周围世界变得陌生、遥远、梦幻、扁平或不真实的解离体验。"
-pubDate: 2026-06-07
-tags: ["现实解体", "解离", "惊恐"]
-group: "精神病学基础"
 plainDefinition: "感觉周围世界变得陌生、遥远、梦幻、扁平或不真实的解离体验。"
+group: "精神病学基础"
 english: "Derealization"
 aliases: ["现实疏离"]
 domains: ["精神医学", "创伤"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["dissociation", "depersonalization", "panic-disorder"]
+pubDate: 2026-06-07
+tags: ["现实解体", "解离", "惊恐"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "NIMH: Anxiety Disorders"
     url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["dissociation", "depersonalization", "panic-disorder"]
 ---
+
 
 现实解体时，环境像隔着雾、电影或玻璃。个体通常知道世界没有真的变假，但感受上非常不真实，常伴随焦虑、惊恐或创伤触发。
 
@@ -44,3 +45,5 @@ related: ["dissociation", "depersonalization", "panic-disorder"]
 - 现实解体前我是否过度焦虑、疲惫或被触发？
 - 我能否描述三个真实环境细节？
 - 我是否因为害怕症状而进一步放大症状？
+
+补充阅读提示：阅读现实解体时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

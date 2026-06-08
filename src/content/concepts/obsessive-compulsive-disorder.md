@@ -1,22 +1,23 @@
 ---
 title: "强迫症"
 description: "以侵入性强迫观念和为减轻焦虑而进行的强迫行为或心理仪式为核心的障碍。"
-pubDate: 2026-06-07
-tags: ["强迫症", "强迫观念", "强迫行为"]
-group: "精神病学基础"
 plainDefinition: "以侵入性强迫观念和为减轻焦虑而进行的强迫行为或心理仪式为核心的障碍。"
+group: "精神病学基础"
 english: "Obsessive-Compulsive Disorder"
 aliases: ["OCD"]
 domains: ["精神医学", "焦虑"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["obsession", "compulsion", "undoing"]
+pubDate: 2026-06-07
+tags: ["强迫症", "强迫观念", "强迫行为"]
+sourceRefs:
   - label: "NIMH: Obsessive-Compulsive Disorder"
     url: "https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd"
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["obsession", "compulsion", "undoing"]
 ---
+
 
 强迫症常表现为污染、伤害、检查、对称、宗教或道德担忧等主题。个体通常知道念头不合理，却难以停止确认、清洗、检查或在脑中反复中和。
 
@@ -44,3 +45,5 @@ related: ["obsession", "compulsion", "undoing"]
 - 我是在解决实际问题，还是在追求不可能的绝对确定？
 - 哪些仪式让我短暂安心却长期更受困？
 - 我最害怕自己成为怎样的人？
+
+补充阅读提示：阅读强迫症时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

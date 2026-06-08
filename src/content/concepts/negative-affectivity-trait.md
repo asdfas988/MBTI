@@ -18,6 +18,7 @@ sourceRefs:
     url: "https://www.who.int/news/item/08-03-2024-new-manual-released-to-support-diagnosis-of-mental--behavioural-and-neurodevelopmental-disorders-added-in-icd-11"
 ---
 
+
 负性情感特质指个体倾向于频繁、强烈或持久地体验焦虑、悲伤、愤怒、羞耻、脆弱和威胁感的人格维度。
 
 ## 概念边界
@@ -50,3 +51,5 @@ sourceRefs:
 - 我最容易被哪类负性情绪占据？
 - 情绪强度是否超过现实刺激？
 - 我用什么方式恢复安全感，代价是什么？
+
+补充阅读提示：阅读负性情感特质时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

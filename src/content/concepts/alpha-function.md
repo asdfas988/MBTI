@@ -1,22 +1,23 @@
 ---
 title: "α功能"
 description: "Bion 理论中把原始、未加工的感觉和情绪材料转化为可梦、可想、可语言化心理元素的功能。"
-pubDate: 2026-06-07
-tags: ["Bion", "α功能", "象征化"]
-group: "精神动力学"
 plainDefinition: "Bion 理论中把原始、未加工的感觉和情绪材料转化为可梦、可想、可语言化心理元素的功能。"
+group: "精神动力学"
 english: "Alpha Function"
 aliases: ["alpha 功能"]
 domains: ["精神动力学"]
 level: "高级"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["containment", "symbolization", "somatization"]
+pubDate: 2026-06-07
+tags: ["Bion", "α功能", "象征化"]
+sourceRefs:
   - label: "American Psychoanalytic Association: psychoanalytic terms and concepts"
     url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
   - label: "American Psychoanalytic Association: about psychoanalysis"
     url: "https://apsa.org/about-psychoanalysis/"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["containment", "symbolization", "somatization"]
 ---
+
 
 α功能让混乱的身体感、恐惧和无名痛苦变成可以被梦见、思考和表达的心理内容。照顾者或治疗者的涵容可帮助儿童或来访者发展这项功能。
 
@@ -44,3 +45,5 @@ related: ["containment", "symbolization", "somatization"]
 - 我的痛苦能否变成语言、图像或梦？
 - 我情绪很强时，是能思考还是只能行动？
 - 什么关系能帮助我把混乱变成可理解？
+
+补充阅读提示：阅读α功能时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

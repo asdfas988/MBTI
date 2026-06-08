@@ -1,22 +1,23 @@
 ---
 title: "压力"
 description: "个体在外部要求、内部冲突或威胁感超过当前资源时产生的心理和生理反应。"
-pubDate: 2026-06-07
-tags: ["压力", "应激", "情绪调节"]
-group: "人格心理学"
 plainDefinition: "个体在外部要求、内部冲突或威胁感超过当前资源时产生的心理和生理反应。"
+group: "人格心理学"
 english: "Stress"
 aliases: ["应激压力"]
 domains: ["人格心理学", "精神健康"]
 level: "基础"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["coping", "anxiety", "regression"]
+pubDate: 2026-06-07
+tags: ["压力", "应激", "情绪调节"]
+sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
   - label: "NIMH: Anxiety Disorders"
     url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["coping", "anxiety", "regression"]
 ---
+
 
 压力既包括现实事件，也包括个体对事件的评估。相同事件对不同人格结构和依恋模式的人，可能意味着挑战、羞耻、危险或失控。
 
@@ -44,3 +45,5 @@ related: ["coping", "anxiety", "regression"]
 - 我的压力来自现实任务、关系威胁，还是内在标准？
 - 压力下我最先退化到哪种旧模式？
 - 我需要减少负荷、增加资源，还是重新理解事件意义？
+
+补充阅读提示：阅读压力时，要区分稳定倾向、当前状态和具体情境。人格心理学概念适合帮助人观察模式，但不适合把人简化成好坏、强弱或固定类型；真正有用的理解通常会留下改变空间。

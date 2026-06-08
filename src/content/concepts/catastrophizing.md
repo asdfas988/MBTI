@@ -14,7 +14,14 @@ tags: ["灾难化", "焦虑", "CBT"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "APA: Understanding psychotherapy and how it works"
+    url: "https://www.apa.org/topics/psychotherapy/understanding"
+  - label: "APA: Cognitive Behavioral Therapy"
+    url: "https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral"
+  - label: "NIMH: Anxiety Disorders"
+    url: "https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml"
 ---
+
 
 灾难化是一种认知歪曲，个体高估坏结果的可能性或严重性，并低估自己的应对能力。
 
@@ -48,3 +55,7 @@ sourceRefs:
 - 最可能的结果是什么，而不是最可怕的结果？
 - 如果真的发生，我有哪些应对资源？
 - 我是否在用担心换取控制感？
+
+补充阅读提示：阅读灾难化时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。
+
+写作使用提示：写到灾难化时，可以补一个具体但不泄露隐私的情境例子，并说明它适合解决哪类问题、不适合替代什么专业判断。这样读者既能学会概念，也不会把治疗技术当成自助清单。

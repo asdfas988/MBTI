@@ -14,7 +14,12 @@ tags: ["荣格", "阿尼玛", "阿尼姆斯"]
 sourceRefs:
   - label: "APA Dictionary of Psychology"
     url: "https://dictionary.apa.org/"
+  - label: "American Psychoanalytic Association: about psychoanalysis"
+    url: "https://apsa.org/about-psychoanalysis/"
+  - label: "American Psychoanalytic Association: psychoanalytic terms"
+    url: "https://apsa.org/about-psychoanalysis/psychoanalytic-terms-concepts-defined/"
 ---
+
 
 阿尼玛与阿尼姆斯是分析心理学概念，用来描述男性心理中的女性性原型和女性心理中的男性性原型，现代理解更常视为互补心理面向。
 
@@ -48,3 +53,5 @@ sourceRefs:
 - 我在对方身上投射了什么理想？
 - 这份吸引是否代表我自己未发展的部分？
 - 我能否看见对方作为真实的人？
+
+补充阅读提示：阅读阿尼玛与阿尼姆斯时，可以把它看成一种理解假设，而不是对内心的最终解释。动力学概念的价值在于帮助人更细致地观察重复关系、情绪防御和无意识意义，并在新的关系经验中获得更多选择。

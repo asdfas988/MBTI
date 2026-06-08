@@ -14,7 +14,12 @@ tags: ["自杀预防", "警讯", "危机"]
 sourceRefs:
   - label: "NIMH: Suicide Prevention"
     url: "https://www.nimh.nih.gov/health/topics/suicide-prevention"
+  - label: "APA Dictionary of Psychology"
+    url: "https://dictionary.apa.org/"
+  - label: "WHO ICD-11 Browser"
+    url: "https://icd.who.int/browse/2025-01/mms/en"
 ---
+
 
 自杀警讯是危机识别中用来提醒及时关心、询问和求助的信号，包括谈论死亡、寻找方法、告别和强烈绝望。
 
@@ -48,3 +53,5 @@ sourceRefs:
 - 这个人有没有说过想死或活不下去？
 - 我能否直接而平静地问风险？
 - 我能否陪伴并帮助联系可信的人或服务？
+
+补充阅读提示：阅读自杀警讯时，请把它当作症状、功能和风险评估的一部分，而不是单独的自我诊断。临床判断通常需要持续时间、强度、伴随表现、身体或物质因素、文化语境和安全风险共同支持。

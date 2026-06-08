@@ -1,24 +1,25 @@
 ---
 title: "暴露与反应预防"
 description: "通过接触强迫触发物并阻止仪式行为，使个体学习焦虑可下降且灾难不会发生的强迫症核心治疗方法。"
-pubDate: 2026-06-07
-tags: ["ERP", "强迫症", "暴露治疗"]
-group: "心理治疗与评估"
 plainDefinition: "通过接触强迫触发物并阻止仪式行为，使个体学习焦虑可下降且灾难不会发生的强迫症核心治疗方法。"
+group: "心理治疗与评估"
 english: "Exposure and Response Prevention"
 aliases: ["ERP", "暴露反应预防"]
 domains: ["心理治疗", "强迫症"]
 level: "进阶"
-sourceRefs: 
+clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
+related: ["obsessive-compulsive-disorder", "compulsion", "undoing"]
+pubDate: 2026-06-07
+tags: ["ERP", "强迫症", "暴露治疗"]
+sourceRefs:
   - label: "NIMH: Obsessive-Compulsive Disorder"
     url: "https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd"
   - label: "American Psychological Association: Psychotherapy"
     url: "https://www.apa.org/topics/psychotherapy"
   - label: "APA: Evidence-Based Practice in Psychology"
     url: "https://www.apa.org/practice/guidelines/evidence-based-statement"
-clinicalBoundary: "本站把它作为心理学学习概念使用，不把单个概念当作临床诊断。若体验长期强烈、影响工作学习关系，或伴随伤害自己/他人的风险，应寻求合格专业人员评估。"
-related: ["obsessive-compulsive-disorder", "compulsion", "undoing"]
 ---
+
 
 ERP 是强迫症常用的一线心理治疗方法。个体在安全计划下逐步面对污染、检查、伤害念头或不确定感，同时减少洗手、确认、回避、脑内中和等强迫反应。
 
@@ -46,3 +47,5 @@ ERP 能削弱强迫性抵消和控制防御，让个体不再用仪式处理罪�
 - 我的强迫仪式短期降低了什么焦虑？
 - 如果不做仪式，我最害怕发生什么？
 - 我能否把反应延迟 30 秒开始练习？
+
+补充阅读提示：阅读暴露与反应预防时，最好同时问三个问题：它服务于评估、解释还是干预；它依赖怎样的证据和限制；它在真实个案中会带来什么风险或收益。这样可以避免把技术名词当成万能方法，也能把测量、会谈和改变过程连接起来。
